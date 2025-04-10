@@ -1,0 +1,6752 @@
+[
+    {
+        "Product ID": 1,
+        "name": "Stylish Headphones",
+        "category": "Travel",
+        "price": 3898.31,
+        "SKU": "SKU09910598",
+        "stock levels": 8146,
+        "units_solds": 4324
+    },
+    {
+        "Product ID": 2,
+        "name": "Compact Microwave",
+        "category": "Home & Kitchen",
+        "price": 3857.57,
+        "SKU": "SKU94719092",
+        "stock levels": 2922,
+        "units_solds": 422
+    },
+    {
+        "Product ID": 3,
+        "name": "Ergonomic Tire",
+        "category": "Sports & Outdoors",
+        "price": 3073.53,
+        "SKU": "SKU21173670",
+        "stock levels": 2106,
+        "units_solds": 4170
+    },
+    {
+        "Product ID": 4,
+        "name": "Sleek Watch",
+        "category": "Clothing",
+        "price": 607.36,
+        "SKU": "SKU05873285",
+        "stock levels": 7211,
+        "units_solds": 4946
+    },
+    {
+        "Product ID": 5,
+        "name": "Ergonomic Headphones",
+        "category": "Clothing",
+        "price": 2377.49,
+        "SKU": "SKU42641783",
+        "stock levels": 6264,
+        "units_solds": 3283
+    },
+    {
+        "Product ID": 6,
+        "name": "Eco-friendly Lawnmower",
+        "category": "Sports & Outdoors",
+        "price": 586.2,
+        "SKU": "SKU55840735",
+        "stock levels": 8066,
+        "units_solds": 1642
+    },
+    {
+        "Product ID": 7,
+        "name": "Sleek Supplement",
+        "category": "Pet Supplies",
+        "price": 741.61,
+        "SKU": "SKU53924439",
+        "stock levels": 5867,
+        "units_solds": 1975
+    },
+    {
+        "Product ID": 8,
+        "name": "Durable Chair",
+        "category": "Toys & Games",
+        "price": 3807.91,
+        "SKU": "SKU16833437",
+        "stock levels": 5599,
+        "units_solds": 1139
+    },
+    {
+        "Product ID": 9,
+        "name": "High-Performance Watch",
+        "category": "Beauty",
+        "price": 3839.82,
+        "SKU": "SKU73269104",
+        "stock levels": 3283,
+        "units_solds": 4898
+    },
+    {
+        "Product ID": 10,
+        "name": "Advanced Microwave",
+        "category": "Video Games",
+        "price": 4868.32,
+        "SKU": "SKU73998763",
+        "stock levels": 733,
+        "units_solds": 4711
+    },
+    {
+        "Product ID": 11,
+        "name": "Versatile Router",
+        "category": "Music",
+        "price": 4043.52,
+        "SKU": "SKU23182750",
+        "stock levels": 7824,
+        "units_solds": 149
+    },
+    {
+        "Product ID": 12,
+        "name": "Sleek Chair",
+        "category": "Toys & Games",
+        "price": 2716.32,
+        "SKU": "SKU24823528",
+        "stock levels": 3011,
+        "units_solds": 4962
+    },
+    {
+        "Product ID": 13,
+        "name": "Compact Watch",
+        "category": "Video Games",
+        "price": 4652.84,
+        "SKU": "SKU95509559",
+        "stock levels": 7473,
+        "units_solds": 2729
+    },
+    {
+        "Product ID": 14,
+        "name": "Compact Tire",
+        "category": "Automotive",
+        "price": 4005.79,
+        "SKU": "SKU85061761",
+        "stock levels": 7186,
+        "units_solds": 2177
+    },
+    {
+        "Product ID": 15,
+        "name": "Premium Supplement",
+        "category": "Music",
+        "price": 2870.43,
+        "SKU": "SKU39923012",
+        "stock levels": 9220,
+        "units_solds": 3523
+    },
+    {
+        "Product ID": 16,
+        "name": "Smart Tablet",
+        "category": "Electronics",
+        "price": 2873.37,
+        "SKU": "SKU39696203",
+        "stock levels": 1122,
+        "units_solds": 3149
+    },
+    {
+        "Product ID": 17,
+        "name": "Eco-friendly Chair",
+        "category": "Pet Supplies",
+        "price": 525.4,
+        "SKU": "SKU40724383",
+        "stock levels": 5217,
+        "units_solds": 4311
+    },
+    {
+        "Product ID": 18,
+        "name": "Durable Puzzle",
+        "category": "Music",
+        "price": 1592.84,
+        "SKU": "SKU22123588",
+        "stock levels": 1954,
+        "units_solds": 2661
+    },
+    {
+        "Product ID": 19,
+        "name": "Sleek Microwave",
+        "category": "Books",
+        "price": 393.81,
+        "SKU": "SKU96072449",
+        "stock levels": 996,
+        "units_solds": 2977
+    },
+    {
+        "Product ID": 20,
+        "name": "Innovative Blender",
+        "category": "Beauty",
+        "price": 2314.0,
+        "SKU": "SKU12234098",
+        "stock levels": 8629,
+        "units_solds": 762
+    },
+    {
+        "Product ID": 21,
+        "name": "Eco-friendly Shirt",
+        "category": "Home & Kitchen",
+        "price": 261.76,
+        "SKU": "SKU99273128",
+        "stock levels": 7646,
+        "units_solds": 353
+    },
+    {
+        "Product ID": 22,
+        "name": "Portable Tire",
+        "category": "Automotive",
+        "price": 3633.18,
+        "SKU": "SKU50305690",
+        "stock levels": 6017,
+        "units_solds": 3836
+    },
+    {
+        "Product ID": 23,
+        "name": "Reliable Speaker",
+        "category": "Toys & Games",
+        "price": 2561.02,
+        "SKU": "SKU24776547",
+        "stock levels": 7973,
+        "units_solds": 3973
+    },
+    {
+        "Product ID": 24,
+        "name": "Durable Printer",
+        "category": "Travel",
+        "price": 863.96,
+        "SKU": "SKU22831579",
+        "stock levels": 9476,
+        "units_solds": 2049
+    },
+    {
+        "Product ID": 25,
+        "name": "Ergonomic Lipstick",
+        "category": "Pet Supplies",
+        "price": 2416.23,
+        "SKU": "SKU34187640",
+        "stock levels": 1543,
+        "units_solds": 4700
+    },
+    {
+        "Product ID": 26,
+        "name": "Reliable Tablet",
+        "category": "Sports & Outdoors",
+        "price": 469.14,
+        "SKU": "SKU30103657",
+        "stock levels": 4695,
+        "units_solds": 2646
+    },
+    {
+        "Product ID": 27,
+        "name": "Portable Blender",
+        "category": "Clothing",
+        "price": 1170.12,
+        "SKU": "SKU78320485",
+        "stock levels": 756,
+        "units_solds": 3106
+    },
+    {
+        "Product ID": 28,
+        "name": "Compact Router",
+        "category": "Video Games",
+        "price": 3351.44,
+        "SKU": "SKU85601546",
+        "stock levels": 2181,
+        "units_solds": 3161
+    },
+    {
+        "Product ID": 29,
+        "name": "Eco-friendly Speaker",
+        "category": "Sports & Outdoors",
+        "price": 2316.04,
+        "SKU": "SKU56500276",
+        "stock levels": 2520,
+        "units_solds": 2107
+    },
+    {
+        "Product ID": 30,
+        "name": "Modern Speaker",
+        "category": "Sports & Outdoors",
+        "price": 4246.95,
+        "SKU": "SKU72019013",
+        "stock levels": 9132,
+        "units_solds": 1009
+    },
+    {
+        "Product ID": 31,
+        "name": "Modern Puzzle",
+        "category": "Automotive",
+        "price": 215.93,
+        "SKU": "SKU46402220",
+        "stock levels": 1501,
+        "units_solds": 1865
+    },
+    {
+        "Product ID": 32,
+        "name": "Sleek Monitor",
+        "category": "Music",
+        "price": 4023.64,
+        "SKU": "SKU89105346",
+        "stock levels": 1377,
+        "units_solds": 54
+    },
+    {
+        "Product ID": 33,
+        "name": "Modern Supplement",
+        "category": "Travel",
+        "price": 1494.8,
+        "SKU": "SKU12189628",
+        "stock levels": 5826,
+        "units_solds": 4544
+    },
+    {
+        "Product ID": 34,
+        "name": "Eco-friendly Printer",
+        "category": "Garden & Outdoor",
+        "price": 504.88,
+        "SKU": "SKU75478642",
+        "stock levels": 2661,
+        "units_solds": 4761
+    },
+    {
+        "Product ID": 35,
+        "name": "Durable Drone",
+        "category": "Garden & Outdoor",
+        "price": 3552.27,
+        "SKU": "SKU73170551",
+        "stock levels": 4877,
+        "units_solds": 2527
+    },
+    {
+        "Product ID": 36,
+        "name": "Eco-friendly Tablet",
+        "category": "Pet Supplies",
+        "price": 989.55,
+        "SKU": "SKU17747491",
+        "stock levels": 8949,
+        "units_solds": 992
+    },
+    {
+        "Product ID": 37,
+        "name": "Smart Camera",
+        "category": "Beauty",
+        "price": 4425.64,
+        "SKU": "SKU35290495",
+        "stock levels": 2407,
+        "units_solds": 1730
+    },
+    {
+        "Product ID": 38,
+        "name": "Smart Supplement",
+        "category": "Travel",
+        "price": 4624.46,
+        "SKU": "SKU49565720",
+        "stock levels": 8008,
+        "units_solds": 2361
+    },
+    {
+        "Product ID": 39,
+        "name": "Advanced Lawnmower",
+        "category": "Pet Supplies",
+        "price": 600.51,
+        "SKU": "SKU12713171",
+        "stock levels": 2056,
+        "units_solds": 2706
+    },
+    {
+        "Product ID": 40,
+        "name": "Durable Tire",
+        "category": "Toys & Games",
+        "price": 2254.81,
+        "SKU": "SKU09367452",
+        "stock levels": 7667,
+        "units_solds": 3013
+    },
+    {
+        "Product ID": 41,
+        "name": "Innovative Printer",
+        "category": "Sports & Outdoors",
+        "price": 797.22,
+        "SKU": "SKU32964034",
+        "stock levels": 5575,
+        "units_solds": 769
+    },
+    {
+        "Product ID": 42,
+        "name": "Innovative Puzzle",
+        "category": "Beauty",
+        "price": 2554.74,
+        "SKU": "SKU49795998",
+        "stock levels": 7052,
+        "units_solds": 304
+    },
+    {
+        "Product ID": 43,
+        "name": "Innovative Lipstick",
+        "category": "Video Games",
+        "price": 1484.99,
+        "SKU": "SKU81308779",
+        "stock levels": 7643,
+        "units_solds": 96
+    },
+    {
+        "Product ID": 44,
+        "name": "Compact Printer",
+        "category": "Clothing",
+        "price": 2136.49,
+        "SKU": "SKU87561218",
+        "stock levels": 3912,
+        "units_solds": 4005
+    },
+    {
+        "Product ID": 45,
+        "name": "Modern Chair",
+        "category": "Pet Supplies",
+        "price": 2365.01,
+        "SKU": "SKU81425336",
+        "stock levels": 8646,
+        "units_solds": 3151
+    },
+    {
+        "Product ID": 46,
+        "name": "Advanced Headphones",
+        "category": "Electronics",
+        "price": 2045.19,
+        "SKU": "SKU84615359",
+        "stock levels": 6125,
+        "units_solds": 358
+    },
+    {
+        "Product ID": 47,
+        "name": "Premium Printer",
+        "category": "Beauty",
+        "price": 3302.96,
+        "SKU": "SKU64274306",
+        "stock levels": 9369,
+        "units_solds": 3739
+    },
+    {
+        "Product ID": 48,
+        "name": "Ergonomic Shirt",
+        "category": "Video Games",
+        "price": 4686.39,
+        "SKU": "SKU49290737",
+        "stock levels": 419,
+        "units_solds": 533
+    },
+    {
+        "Product ID": 49,
+        "name": "Compact Drone",
+        "category": "Office Supplies",
+        "price": 274.48,
+        "SKU": "SKU67762374",
+        "stock levels": 9170,
+        "units_solds": 2120
+    },
+    {
+        "Product ID": 50,
+        "name": "Durable Supplement",
+        "category": "Health & Personal Care",
+        "price": 3248.64,
+        "SKU": "SKU01534633",
+        "stock levels": 5405,
+        "units_solds": 176
+    },
+    {
+        "Product ID": 51,
+        "name": "Ergonomic Chair",
+        "category": "Automotive",
+        "price": 4615.12,
+        "SKU": "SKU69158073",
+        "stock levels": 1638,
+        "units_solds": 2190
+    },
+    {
+        "Product ID": 52,
+        "name": "Portable Printer",
+        "category": "Health & Personal Care",
+        "price": 4942.9,
+        "SKU": "SKU21784653",
+        "stock levels": 2773,
+        "units_solds": 217
+    },
+    {
+        "Product ID": 53,
+        "name": "Stylish Novel",
+        "category": "Travel",
+        "price": 4932.37,
+        "SKU": "SKU34043514",
+        "stock levels": 1355,
+        "units_solds": 1145
+    },
+    {
+        "Product ID": 54,
+        "name": "Compact Blender",
+        "category": "Clothing",
+        "price": 2294.41,
+        "SKU": "SKU13167560",
+        "stock levels": 6905,
+        "units_solds": 3533
+    },
+    {
+        "Product ID": 55,
+        "name": "Modern Chair",
+        "category": "Home & Kitchen",
+        "price": 3369.91,
+        "SKU": "SKU04407261",
+        "stock levels": 5795,
+        "units_solds": 3820
+    },
+    {
+        "Product ID": 56,
+        "name": "Durable Monitor",
+        "category": "Automotive",
+        "price": 4646.94,
+        "SKU": "SKU87309829",
+        "stock levels": 2978,
+        "units_solds": 689
+    },
+    {
+        "Product ID": 57,
+        "name": "Ergonomic Drone",
+        "category": "Toys & Games",
+        "price": 3983.35,
+        "SKU": "SKU82892056",
+        "stock levels": 9658,
+        "units_solds": 1300
+    },
+    {
+        "Product ID": 58,
+        "name": "Reliable Shirt",
+        "category": "Beauty",
+        "price": 654.97,
+        "SKU": "SKU49161351",
+        "stock levels": 7295,
+        "units_solds": 4626
+    },
+    {
+        "Product ID": 59,
+        "name": "Versatile Speaker",
+        "category": "Beauty",
+        "price": 3680.77,
+        "SKU": "SKU02745910",
+        "stock levels": 128,
+        "units_solds": 4768
+    },
+    {
+        "Product ID": 60,
+        "name": "Innovative Headphones",
+        "category": "Beauty",
+        "price": 1513.42,
+        "SKU": "SKU81688169",
+        "stock levels": 1982,
+        "units_solds": 49
+    },
+    {
+        "Product ID": 61,
+        "name": "Durable Tire",
+        "category": "Books",
+        "price": 2544.98,
+        "SKU": "SKU90833070",
+        "stock levels": 5247,
+        "units_solds": 1818
+    },
+    {
+        "Product ID": 62,
+        "name": "Stylish Microwave",
+        "category": "Video Games",
+        "price": 945.26,
+        "SKU": "SKU11439503",
+        "stock levels": 3571,
+        "units_solds": 4233
+    },
+    {
+        "Product ID": 63,
+        "name": "Sleek Chair",
+        "category": "Toys & Games",
+        "price": 2374.84,
+        "SKU": "SKU43837859",
+        "stock levels": 1992,
+        "units_solds": 4391
+    },
+    {
+        "Product ID": 64,
+        "name": "Stylish Watch",
+        "category": "Toys & Games",
+        "price": 2367.06,
+        "SKU": "SKU70138266",
+        "stock levels": 693,
+        "units_solds": 1735
+    },
+    {
+        "Product ID": 65,
+        "name": "Reliable Shirt",
+        "category": "Music",
+        "price": 4626.35,
+        "SKU": "SKU65798828",
+        "stock levels": 796,
+        "units_solds": 3489
+    },
+    {
+        "Product ID": 66,
+        "name": "Ergonomic Tablet",
+        "category": "Sports & Outdoors",
+        "price": 757.48,
+        "SKU": "SKU59679201",
+        "stock levels": 7244,
+        "units_solds": 3616
+    },
+    {
+        "Product ID": 67,
+        "name": "Innovative Tire",
+        "category": "Automotive",
+        "price": 4772.81,
+        "SKU": "SKU58226372",
+        "stock levels": 9028,
+        "units_solds": 3718
+    },
+    {
+        "Product ID": 68,
+        "name": "Premium Blender",
+        "category": "Sports & Outdoors",
+        "price": 2213.31,
+        "SKU": "SKU52545506",
+        "stock levels": 4606,
+        "units_solds": 2948
+    },
+    {
+        "Product ID": 69,
+        "name": "Smart Watch",
+        "category": "Electronics",
+        "price": 447.99,
+        "SKU": "SKU76379510",
+        "stock levels": 8489,
+        "units_solds": 121
+    },
+    {
+        "Product ID": 70,
+        "name": "Eco-friendly Printer",
+        "category": "Video Games",
+        "price": 817.64,
+        "SKU": "SKU98899885",
+        "stock levels": 2937,
+        "units_solds": 4029
+    },
+    {
+        "Product ID": 71,
+        "name": "Eco-friendly Supplement",
+        "category": "Automotive",
+        "price": 4885.37,
+        "SKU": "SKU78328476",
+        "stock levels": 300,
+        "units_solds": 1205
+    },
+    {
+        "Product ID": 72,
+        "name": "Premium Puzzle",
+        "category": "Garden & Outdoor",
+        "price": 4910.59,
+        "SKU": "SKU90921411",
+        "stock levels": 6767,
+        "units_solds": 2194
+    },
+    {
+        "Product ID": 73,
+        "name": "Versatile Monitor",
+        "category": "Office Supplies",
+        "price": 3587.42,
+        "SKU": "SKU58523593",
+        "stock levels": 1479,
+        "units_solds": 1597
+    },
+    {
+        "Product ID": 74,
+        "name": "Versatile Printer",
+        "category": "Music",
+        "price": 4909.71,
+        "SKU": "SKU73269697",
+        "stock levels": 3687,
+        "units_solds": 1519
+    },
+    {
+        "Product ID": 75,
+        "name": "Stylish Lipstick",
+        "category": "Electronics",
+        "price": 3777.4,
+        "SKU": "SKU47140207",
+        "stock levels": 1640,
+        "units_solds": 935
+    },
+    {
+        "Product ID": 76,
+        "name": "Portable Speaker",
+        "category": "Automotive",
+        "price": 1653.39,
+        "SKU": "SKU15914904",
+        "stock levels": 4825,
+        "units_solds": 4530
+    },
+    {
+        "Product ID": 77,
+        "name": "Eco-friendly Puzzle",
+        "category": "Electronics",
+        "price": 3218.76,
+        "SKU": "SKU58137138",
+        "stock levels": 1782,
+        "units_solds": 3972
+    },
+    {
+        "Product ID": 78,
+        "name": "Durable Tablet",
+        "category": "Video Games",
+        "price": 703.7,
+        "SKU": "SKU06292204",
+        "stock levels": 5921,
+        "units_solds": 4011
+    },
+    {
+        "Product ID": 79,
+        "name": "Premium Drone",
+        "category": "Electronics",
+        "price": 884.86,
+        "SKU": "SKU27496719",
+        "stock levels": 9315,
+        "units_solds": 4821
+    },
+    {
+        "Product ID": 80,
+        "name": "Reliable Backpack",
+        "category": "Electronics",
+        "price": 2708.62,
+        "SKU": "SKU93149166",
+        "stock levels": 9196,
+        "units_solds": 3193
+    },
+    {
+        "Product ID": 81,
+        "name": "Smart Puzzle",
+        "category": "Pet Supplies",
+        "price": 2506.23,
+        "SKU": "SKU85665853",
+        "stock levels": 6389,
+        "units_solds": 1043
+    },
+    {
+        "Product ID": 82,
+        "name": "Ergonomic Blender",
+        "category": "Video Games",
+        "price": 2923.72,
+        "SKU": "SKU49425524",
+        "stock levels": 4101,
+        "units_solds": 410
+    },
+    {
+        "Product ID": 83,
+        "name": "Durable Monitor",
+        "category": "Health & Personal Care",
+        "price": 4170.29,
+        "SKU": "SKU59788754",
+        "stock levels": 8135,
+        "units_solds": 3473
+    },
+    {
+        "Product ID": 84,
+        "name": "Smart Speaker",
+        "category": "Office Supplies",
+        "price": 1484.56,
+        "SKU": "SKU11558760",
+        "stock levels": 280,
+        "units_solds": 4284
+    },
+    {
+        "Product ID": 85,
+        "name": "Smart Tire",
+        "category": "Music",
+        "price": 4447.18,
+        "SKU": "SKU59169651",
+        "stock levels": 6246,
+        "units_solds": 26
+    },
+    {
+        "Product ID": 86,
+        "name": "Stylish Speaker",
+        "category": "Automotive",
+        "price": 3009.62,
+        "SKU": "SKU66394669",
+        "stock levels": 5259,
+        "units_solds": 503
+    },
+    {
+        "Product ID": 87,
+        "name": "Eco-friendly Lawnmower",
+        "category": "Electronics",
+        "price": 2108.89,
+        "SKU": "SKU85651012",
+        "stock levels": 7501,
+        "units_solds": 309
+    },
+    {
+        "Product ID": 88,
+        "name": "Innovative Speaker",
+        "category": "Beauty",
+        "price": 3622.5,
+        "SKU": "SKU99074165",
+        "stock levels": 2125,
+        "units_solds": 3219
+    },
+    {
+        "Product ID": 89,
+        "name": "High-Performance Watch",
+        "category": "Clothing",
+        "price": 3314.07,
+        "SKU": "SKU43793016",
+        "stock levels": 5892,
+        "units_solds": 3517
+    },
+    {
+        "Product ID": 90,
+        "name": "High-Performance Headphones",
+        "category": "Clothing",
+        "price": 4049.8,
+        "SKU": "SKU29987050",
+        "stock levels": 8981,
+        "units_solds": 2701
+    },
+    {
+        "Product ID": 91,
+        "name": "Portable Chair",
+        "category": "Electronics",
+        "price": 737.34,
+        "SKU": "SKU98147873",
+        "stock levels": 958,
+        "units_solds": 3921
+    },
+    {
+        "Product ID": 92,
+        "name": "Portable Drone",
+        "category": "Health & Personal Care",
+        "price": 2915.68,
+        "SKU": "SKU34097989",
+        "stock levels": 1719,
+        "units_solds": 3629
+    },
+    {
+        "Product ID": 93,
+        "name": "Advanced Monitor",
+        "category": "Electronics",
+        "price": 785.1,
+        "SKU": "SKU37202769",
+        "stock levels": 9587,
+        "units_solds": 3002
+    },
+    {
+        "Product ID": 94,
+        "name": "Versatile Tablet",
+        "category": "Travel",
+        "price": 4404.44,
+        "SKU": "SKU66534649",
+        "stock levels": 4113,
+        "units_solds": 2975
+    },
+    {
+        "Product ID": 95,
+        "name": "Innovative Shirt",
+        "category": "Electronics",
+        "price": 4376.99,
+        "SKU": "SKU96124462",
+        "stock levels": 2834,
+        "units_solds": 640
+    },
+    {
+        "Product ID": 96,
+        "name": "Sleek Drone",
+        "category": "Sports & Outdoors",
+        "price": 4727.74,
+        "SKU": "SKU76151529",
+        "stock levels": 6968,
+        "units_solds": 874
+    },
+    {
+        "Product ID": 97,
+        "name": "Portable Puzzle",
+        "category": "Travel",
+        "price": 2048.41,
+        "SKU": "SKU82811620",
+        "stock levels": 1155,
+        "units_solds": 2531
+    },
+    {
+        "Product ID": 98,
+        "name": "Modern Blender",
+        "category": "Garden & Outdoor",
+        "price": 1242.86,
+        "SKU": "SKU77002713",
+        "stock levels": 2470,
+        "units_solds": 3634
+    },
+    {
+        "Product ID": 99,
+        "name": "Advanced Backpack",
+        "category": "Video Games",
+        "price": 1598.27,
+        "SKU": "SKU78498354",
+        "stock levels": 1085,
+        "units_solds": 4821
+    },
+    {
+        "Product ID": 100,
+        "name": "Ergonomic Camera",
+        "category": "Travel",
+        "price": 3135.22,
+        "SKU": "SKU79973837",
+        "stock levels": 9384,
+        "units_solds": 889
+    },
+    {
+        "Product ID": 101,
+        "name": "Portable Tablet",
+        "category": "Video Games",
+        "price": 340.46,
+        "SKU": "SKU46256146",
+        "stock levels": 921,
+        "units_solds": 2237
+    },
+    {
+        "Product ID": 102,
+        "name": "Portable Tablet",
+        "category": "Automotive",
+        "price": 3106.88,
+        "SKU": "SKU23478695",
+        "stock levels": 9852,
+        "units_solds": 3008
+    },
+    {
+        "Product ID": 103,
+        "name": "Ergonomic Puzzle",
+        "category": "Health & Personal Care",
+        "price": 534.89,
+        "SKU": "SKU35663009",
+        "stock levels": 5739,
+        "units_solds": 12
+    },
+    {
+        "Product ID": 104,
+        "name": "Modern Watch",
+        "category": "Music",
+        "price": 2211.67,
+        "SKU": "SKU24875825",
+        "stock levels": 8470,
+        "units_solds": 2881
+    },
+    {
+        "Product ID": 105,
+        "name": "Premium Lawnmower",
+        "category": "Beauty",
+        "price": 3927.75,
+        "SKU": "SKU25127607",
+        "stock levels": 2324,
+        "units_solds": 2193
+    },
+    {
+        "Product ID": 106,
+        "name": "Premium Chair",
+        "category": "Garden & Outdoor",
+        "price": 1379.75,
+        "SKU": "SKU79657274",
+        "stock levels": 3252,
+        "units_solds": 3922
+    },
+    {
+        "Product ID": 107,
+        "name": "Sleek Lawnmower",
+        "category": "Beauty",
+        "price": 3880.05,
+        "SKU": "SKU48402223",
+        "stock levels": 5254,
+        "units_solds": 905
+    },
+    {
+        "Product ID": 108,
+        "name": "Ergonomic Chair",
+        "category": "Health & Personal Care",
+        "price": 1048.45,
+        "SKU": "SKU35364507",
+        "stock levels": 3958,
+        "units_solds": 1958
+    },
+    {
+        "Product ID": 109,
+        "name": "Advanced Lipstick",
+        "category": "Toys & Games",
+        "price": 286.01,
+        "SKU": "SKU75285278",
+        "stock levels": 7457,
+        "units_solds": 4148
+    },
+    {
+        "Product ID": 110,
+        "name": "Durable Supplement",
+        "category": "Home & Kitchen",
+        "price": 4310.73,
+        "SKU": "SKU94631549",
+        "stock levels": 4102,
+        "units_solds": 2644
+    },
+    {
+        "Product ID": 111,
+        "name": "Eco-friendly Supplement",
+        "category": "Pet Supplies",
+        "price": 555.81,
+        "SKU": "SKU58236185",
+        "stock levels": 1293,
+        "units_solds": 534
+    },
+    {
+        "Product ID": 112,
+        "name": "Portable Tire",
+        "category": "Beauty",
+        "price": 3509.13,
+        "SKU": "SKU51940683",
+        "stock levels": 9259,
+        "units_solds": 617
+    },
+    {
+        "Product ID": 113,
+        "name": "Advanced Backpack",
+        "category": "Office Supplies",
+        "price": 1866.59,
+        "SKU": "SKU56135596",
+        "stock levels": 7730,
+        "units_solds": 2248
+    },
+    {
+        "Product ID": 114,
+        "name": "Portable Lawnmower",
+        "category": "Pet Supplies",
+        "price": 159.05,
+        "SKU": "SKU80905442",
+        "stock levels": 9831,
+        "units_solds": 2918
+    },
+    {
+        "Product ID": 115,
+        "name": "Stylish Shirt",
+        "category": "Electronics",
+        "price": 3377.34,
+        "SKU": "SKU31089277",
+        "stock levels": 9867,
+        "units_solds": 756
+    },
+    {
+        "Product ID": 116,
+        "name": "Smart Microwave",
+        "category": "Home & Kitchen",
+        "price": 4860.6,
+        "SKU": "SKU80873694",
+        "stock levels": 9500,
+        "units_solds": 1814
+    },
+    {
+        "Product ID": 117,
+        "name": "Durable Drone",
+        "category": "Office Supplies",
+        "price": 1098.04,
+        "SKU": "SKU16083706",
+        "stock levels": 1117,
+        "units_solds": 2126
+    },
+    {
+        "Product ID": 118,
+        "name": "Advanced Supplement",
+        "category": "Music",
+        "price": 4939.4,
+        "SKU": "SKU78606863",
+        "stock levels": 9625,
+        "units_solds": 1952
+    },
+    {
+        "Product ID": 119,
+        "name": "Advanced Speaker",
+        "category": "Home & Kitchen",
+        "price": 2190.6,
+        "SKU": "SKU18416301",
+        "stock levels": 2328,
+        "units_solds": 3385
+    },
+    {
+        "Product ID": 120,
+        "name": "Reliable Backpack",
+        "category": "Books",
+        "price": 3263.58,
+        "SKU": "SKU11484347",
+        "stock levels": 3814,
+        "units_solds": 2724
+    },
+    {
+        "Product ID": 121,
+        "name": "Ergonomic Novel",
+        "category": "Travel",
+        "price": 2887.42,
+        "SKU": "SKU09362335",
+        "stock levels": 6997,
+        "units_solds": 1321
+    },
+    {
+        "Product ID": 122,
+        "name": "Premium Supplement",
+        "category": "Health & Personal Care",
+        "price": 1620.61,
+        "SKU": "SKU63550997",
+        "stock levels": 8124,
+        "units_solds": 2691
+    },
+    {
+        "Product ID": 123,
+        "name": "Ergonomic Headphones",
+        "category": "Home & Kitchen",
+        "price": 2420.3,
+        "SKU": "SKU63975081",
+        "stock levels": 659,
+        "units_solds": 1938
+    },
+    {
+        "Product ID": 124,
+        "name": "Modern Backpack",
+        "category": "Books",
+        "price": 1799.71,
+        "SKU": "SKU14366185",
+        "stock levels": 2796,
+        "units_solds": 4779
+    },
+    {
+        "Product ID": 125,
+        "name": "Advanced Blender",
+        "category": "Sports & Outdoors",
+        "price": 4426.23,
+        "SKU": "SKU03088285",
+        "stock levels": 6628,
+        "units_solds": 4297
+    },
+    {
+        "Product ID": 126,
+        "name": "Portable Tire",
+        "category": "Music",
+        "price": 851.56,
+        "SKU": "SKU86294829",
+        "stock levels": 6158,
+        "units_solds": 2880
+    },
+    {
+        "Product ID": 127,
+        "name": "Innovative Blender",
+        "category": "Books",
+        "price": 3006.51,
+        "SKU": "SKU44388368",
+        "stock levels": 2768,
+        "units_solds": 1988
+    },
+    {
+        "Product ID": 128,
+        "name": "Advanced Tablet",
+        "category": "Beauty",
+        "price": 4068.78,
+        "SKU": "SKU10578429",
+        "stock levels": 149,
+        "units_solds": 778
+    },
+    {
+        "Product ID": 129,
+        "name": "Modern Novel",
+        "category": "Video Games",
+        "price": 3860.96,
+        "SKU": "SKU03384526",
+        "stock levels": 649,
+        "units_solds": 4690
+    },
+    {
+        "Product ID": 130,
+        "name": "Eco-friendly Camera",
+        "category": "Home & Kitchen",
+        "price": 2286.1,
+        "SKU": "SKU31762452",
+        "stock levels": 9149,
+        "units_solds": 3269
+    },
+    {
+        "Product ID": 131,
+        "name": "Ergonomic Novel",
+        "category": "Clothing",
+        "price": 4878.94,
+        "SKU": "SKU46088597",
+        "stock levels": 965,
+        "units_solds": 101
+    },
+    {
+        "Product ID": 132,
+        "name": "Reliable Camera",
+        "category": "Sports & Outdoors",
+        "price": 2737.72,
+        "SKU": "SKU70259206",
+        "stock levels": 9968,
+        "units_solds": 4933
+    },
+    {
+        "Product ID": 133,
+        "name": "Compact Backpack",
+        "category": "Video Games",
+        "price": 2315.3,
+        "SKU": "SKU39059590",
+        "stock levels": 7225,
+        "units_solds": 1076
+    },
+    {
+        "Product ID": 134,
+        "name": "Durable Tablet",
+        "category": "Garden & Outdoor",
+        "price": 1438.26,
+        "SKU": "SKU47961777",
+        "stock levels": 772,
+        "units_solds": 4318
+    },
+    {
+        "Product ID": 135,
+        "name": "Premium Supplement",
+        "category": "Pet Supplies",
+        "price": 1629.63,
+        "SKU": "SKU24958870",
+        "stock levels": 9847,
+        "units_solds": 203
+    },
+    {
+        "Product ID": 136,
+        "name": "Sleek Novel",
+        "category": "Clothing",
+        "price": 638.99,
+        "SKU": "SKU23198032",
+        "stock levels": 3414,
+        "units_solds": 1919
+    },
+    {
+        "Product ID": 137,
+        "name": "Smart Watch",
+        "category": "Books",
+        "price": 1797.82,
+        "SKU": "SKU31763036",
+        "stock levels": 8778,
+        "units_solds": 657
+    },
+    {
+        "Product ID": 138,
+        "name": "Compact Novel",
+        "category": "Health & Personal Care",
+        "price": 4028.31,
+        "SKU": "SKU91285209",
+        "stock levels": 5311,
+        "units_solds": 311
+    },
+    {
+        "Product ID": 139,
+        "name": "Eco-friendly Microwave",
+        "category": "Clothing",
+        "price": 1278.29,
+        "SKU": "SKU38465076",
+        "stock levels": 3641,
+        "units_solds": 1838
+    },
+    {
+        "Product ID": 140,
+        "name": "Innovative Drone",
+        "category": "Clothing",
+        "price": 1121.47,
+        "SKU": "SKU08204762",
+        "stock levels": 3616,
+        "units_solds": 4879
+    },
+    {
+        "Product ID": 141,
+        "name": "Modern Speaker",
+        "category": "Video Games",
+        "price": 4692.56,
+        "SKU": "SKU32622362",
+        "stock levels": 215,
+        "units_solds": 2153
+    },
+    {
+        "Product ID": 142,
+        "name": "Durable Supplement",
+        "category": "Music",
+        "price": 1513.58,
+        "SKU": "SKU11203185",
+        "stock levels": 1609,
+        "units_solds": 2669
+    },
+    {
+        "Product ID": 143,
+        "name": "Stylish Chair",
+        "category": "Garden & Outdoor",
+        "price": 4556.42,
+        "SKU": "SKU75211446",
+        "stock levels": 7978,
+        "units_solds": 1961
+    },
+    {
+        "Product ID": 144,
+        "name": "Smart Blender",
+        "category": "Home & Kitchen",
+        "price": 453.65,
+        "SKU": "SKU97575884",
+        "stock levels": 4933,
+        "units_solds": 816
+    },
+    {
+        "Product ID": 145,
+        "name": "Portable Drone",
+        "category": "Video Games",
+        "price": 410.44,
+        "SKU": "SKU94469300",
+        "stock levels": 4533,
+        "units_solds": 4827
+    },
+    {
+        "Product ID": 146,
+        "name": "High-Performance Puzzle",
+        "category": "Toys & Games",
+        "price": 2691.46,
+        "SKU": "SKU06982366",
+        "stock levels": 2246,
+        "units_solds": 4258
+    },
+    {
+        "Product ID": 147,
+        "name": "Stylish Microwave",
+        "category": "Automotive",
+        "price": 4063.31,
+        "SKU": "SKU82759740",
+        "stock levels": 6711,
+        "units_solds": 1809
+    },
+    {
+        "Product ID": 148,
+        "name": "High-Performance Router",
+        "category": "Electronics",
+        "price": 1007.49,
+        "SKU": "SKU35507117",
+        "stock levels": 4888,
+        "units_solds": 4184
+    },
+    {
+        "Product ID": 149,
+        "name": "Compact Monitor",
+        "category": "Sports & Outdoors",
+        "price": 4535.67,
+        "SKU": "SKU20384874",
+        "stock levels": 9715,
+        "units_solds": 3260
+    },
+    {
+        "Product ID": 150,
+        "name": "Ergonomic Novel",
+        "category": "Toys & Games",
+        "price": 2558.08,
+        "SKU": "SKU11005170",
+        "stock levels": 793,
+        "units_solds": 4563
+    },
+    {
+        "Product ID": 151,
+        "name": "Compact Novel",
+        "category": "Health & Personal Care",
+        "price": 853.07,
+        "SKU": "SKU83135339",
+        "stock levels": 9467,
+        "units_solds": 3417
+    },
+    {
+        "Product ID": 152,
+        "name": "Eco-friendly Tire",
+        "category": "Travel",
+        "price": 4944.72,
+        "SKU": "SKU13740220",
+        "stock levels": 3183,
+        "units_solds": 4814
+    },
+    {
+        "Product ID": 153,
+        "name": "Compact Camera",
+        "category": "Beauty",
+        "price": 1675.66,
+        "SKU": "SKU82559006",
+        "stock levels": 9955,
+        "units_solds": 2180
+    },
+    {
+        "Product ID": 154,
+        "name": "Ergonomic Shirt",
+        "category": "Music",
+        "price": 2245.23,
+        "SKU": "SKU85722235",
+        "stock levels": 9304,
+        "units_solds": 718
+    },
+    {
+        "Product ID": 155,
+        "name": "Stylish Camera",
+        "category": "Garden & Outdoor",
+        "price": 1747.64,
+        "SKU": "SKU36667007",
+        "stock levels": 1962,
+        "units_solds": 2046
+    },
+    {
+        "Product ID": 156,
+        "name": "High-Performance Monitor",
+        "category": "Home & Kitchen",
+        "price": 3187.41,
+        "SKU": "SKU54540514",
+        "stock levels": 9116,
+        "units_solds": 4442
+    },
+    {
+        "Product ID": 157,
+        "name": "Ergonomic Supplement",
+        "category": "Health & Personal Care",
+        "price": 3929.51,
+        "SKU": "SKU88780727",
+        "stock levels": 2408,
+        "units_solds": 884
+    },
+    {
+        "Product ID": 158,
+        "name": "Stylish Chair",
+        "category": "Pet Supplies",
+        "price": 3477.12,
+        "SKU": "SKU51821807",
+        "stock levels": 123,
+        "units_solds": 2682
+    },
+    {
+        "Product ID": 159,
+        "name": "Smart Camera",
+        "category": "Pet Supplies",
+        "price": 4061.65,
+        "SKU": "SKU04543525",
+        "stock levels": 3748,
+        "units_solds": 375
+    },
+    {
+        "Product ID": 160,
+        "name": "High-Performance Backpack",
+        "category": "Automotive",
+        "price": 263.36,
+        "SKU": "SKU24442028",
+        "stock levels": 6744,
+        "units_solds": 3621
+    },
+    {
+        "Product ID": 161,
+        "name": "Versatile Speaker",
+        "category": "Electronics",
+        "price": 2662.19,
+        "SKU": "SKU55053833",
+        "stock levels": 5751,
+        "units_solds": 3288
+    },
+    {
+        "Product ID": 162,
+        "name": "Compact Speaker",
+        "category": "Beauty",
+        "price": 2362.01,
+        "SKU": "SKU35872413",
+        "stock levels": 2686,
+        "units_solds": 1820
+    },
+    {
+        "Product ID": 163,
+        "name": "Advanced Microwave",
+        "category": "Books",
+        "price": 3695.35,
+        "SKU": "SKU93709659",
+        "stock levels": 4996,
+        "units_solds": 85
+    },
+    {
+        "Product ID": 164,
+        "name": "Compact Microwave",
+        "category": "Music",
+        "price": 2744.64,
+        "SKU": "SKU48139789",
+        "stock levels": 4394,
+        "units_solds": 218
+    },
+    {
+        "Product ID": 165,
+        "name": "High-Performance Router",
+        "category": "Beauty",
+        "price": 645.44,
+        "SKU": "SKU07278687",
+        "stock levels": 9072,
+        "units_solds": 2102
+    },
+    {
+        "Product ID": 166,
+        "name": "Modern Camera",
+        "category": "Home & Kitchen",
+        "price": 3267.78,
+        "SKU": "SKU34253932",
+        "stock levels": 2493,
+        "units_solds": 3357
+    },
+    {
+        "Product ID": 167,
+        "name": "Durable Printer",
+        "category": "Office Supplies",
+        "price": 835.32,
+        "SKU": "SKU32070128",
+        "stock levels": 1217,
+        "units_solds": 2947
+    },
+    {
+        "Product ID": 168,
+        "name": "Modern Headphones",
+        "category": "Automotive",
+        "price": 932.68,
+        "SKU": "SKU30269356",
+        "stock levels": 4121,
+        "units_solds": 4325
+    },
+    {
+        "Product ID": 169,
+        "name": "Sleek Supplement",
+        "category": "Pet Supplies",
+        "price": 448.75,
+        "SKU": "SKU59667875",
+        "stock levels": 1624,
+        "units_solds": 4961
+    },
+    {
+        "Product ID": 170,
+        "name": "Stylish Lawnmower",
+        "category": "Electronics",
+        "price": 1008.81,
+        "SKU": "SKU40572855",
+        "stock levels": 7175,
+        "units_solds": 607
+    },
+    {
+        "Product ID": 171,
+        "name": "Sleek Headphones",
+        "category": "Health & Personal Care",
+        "price": 763.84,
+        "SKU": "SKU87034539",
+        "stock levels": 9842,
+        "units_solds": 3187
+    },
+    {
+        "Product ID": 172,
+        "name": "High-Performance Drone",
+        "category": "Pet Supplies",
+        "price": 1924.47,
+        "SKU": "SKU44931034",
+        "stock levels": 9738,
+        "units_solds": 2166
+    },
+    {
+        "Product ID": 173,
+        "name": "Stylish Headphones",
+        "category": "Travel",
+        "price": 572.37,
+        "SKU": "SKU79643909",
+        "stock levels": 1642,
+        "units_solds": 863
+    },
+    {
+        "Product ID": 174,
+        "name": "Innovative Microwave",
+        "category": "Home & Kitchen",
+        "price": 1407.28,
+        "SKU": "SKU70701030",
+        "stock levels": 7347,
+        "units_solds": 3286
+    },
+    {
+        "Product ID": 175,
+        "name": "Sleek Headphones",
+        "category": "Home & Kitchen",
+        "price": 256.21,
+        "SKU": "SKU66399955",
+        "stock levels": 7818,
+        "units_solds": 1660
+    },
+    {
+        "Product ID": 176,
+        "name": "Innovative Printer",
+        "category": "Automotive",
+        "price": 2726.99,
+        "SKU": "SKU45112255",
+        "stock levels": 2712,
+        "units_solds": 898
+    },
+    {
+        "Product ID": 177,
+        "name": "Smart Headphones",
+        "category": "Garden & Outdoor",
+        "price": 942.3,
+        "SKU": "SKU02506299",
+        "stock levels": 8363,
+        "units_solds": 3303
+    },
+    {
+        "Product ID": 178,
+        "name": "Premium Novel",
+        "category": "Sports & Outdoors",
+        "price": 1897.65,
+        "SKU": "SKU06018766",
+        "stock levels": 5090,
+        "units_solds": 3920
+    },
+    {
+        "Product ID": 179,
+        "name": "High-Performance Puzzle",
+        "category": "Garden & Outdoor",
+        "price": 3749.53,
+        "SKU": "SKU59519519",
+        "stock levels": 1473,
+        "units_solds": 2901
+    },
+    {
+        "Product ID": 180,
+        "name": "Premium Camera",
+        "category": "Electronics",
+        "price": 3252.28,
+        "SKU": "SKU47317390",
+        "stock levels": 8194,
+        "units_solds": 45
+    },
+    {
+        "Product ID": 181,
+        "name": "Durable Blender",
+        "category": "Pet Supplies",
+        "price": 2240.84,
+        "SKU": "SKU18559578",
+        "stock levels": 4585,
+        "units_solds": 90
+    },
+    {
+        "Product ID": 182,
+        "name": "High-Performance Blender",
+        "category": "Electronics",
+        "price": 1733.08,
+        "SKU": "SKU83142476",
+        "stock levels": 7900,
+        "units_solds": 430
+    },
+    {
+        "Product ID": 183,
+        "name": "Durable Headphones",
+        "category": "Toys & Games",
+        "price": 1350.12,
+        "SKU": "SKU60637285",
+        "stock levels": 3254,
+        "units_solds": 1521
+    },
+    {
+        "Product ID": 184,
+        "name": "High-Performance Shirt",
+        "category": "Pet Supplies",
+        "price": 1694.97,
+        "SKU": "SKU36971025",
+        "stock levels": 4946,
+        "units_solds": 1305
+    },
+    {
+        "Product ID": 185,
+        "name": "Innovative Watch",
+        "category": "Office Supplies",
+        "price": 2195.8,
+        "SKU": "SKU27439792",
+        "stock levels": 3611,
+        "units_solds": 340
+    },
+    {
+        "Product ID": 186,
+        "name": "Durable Router",
+        "category": "Books",
+        "price": 2817.11,
+        "SKU": "SKU03270826",
+        "stock levels": 6653,
+        "units_solds": 333
+    },
+    {
+        "Product ID": 187,
+        "name": "Durable Router",
+        "category": "Health & Personal Care",
+        "price": 2925.71,
+        "SKU": "SKU32827139",
+        "stock levels": 2026,
+        "units_solds": 4720
+    },
+    {
+        "Product ID": 188,
+        "name": "Stylish Backpack",
+        "category": "Books",
+        "price": 4349.61,
+        "SKU": "SKU24790502",
+        "stock levels": 4272,
+        "units_solds": 1079
+    },
+    {
+        "Product ID": 189,
+        "name": "Durable Lawnmower",
+        "category": "Video Games",
+        "price": 3732.93,
+        "SKU": "SKU95216107",
+        "stock levels": 3214,
+        "units_solds": 4139
+    },
+    {
+        "Product ID": 190,
+        "name": "Smart Watch",
+        "category": "Travel",
+        "price": 2219.17,
+        "SKU": "SKU27779174",
+        "stock levels": 5937,
+        "units_solds": 4054
+    },
+    {
+        "Product ID": 191,
+        "name": "Modern Router",
+        "category": "Sports & Outdoors",
+        "price": 1129.71,
+        "SKU": "SKU48597770",
+        "stock levels": 1762,
+        "units_solds": 4081
+    },
+    {
+        "Product ID": 192,
+        "name": "Sleek Supplement",
+        "category": "Beauty",
+        "price": 3387.31,
+        "SKU": "SKU17225454",
+        "stock levels": 5335,
+        "units_solds": 2906
+    },
+    {
+        "Product ID": 193,
+        "name": "Versatile Supplement",
+        "category": "Pet Supplies",
+        "price": 4113.02,
+        "SKU": "SKU08287533",
+        "stock levels": 3031,
+        "units_solds": 3091
+    },
+    {
+        "Product ID": 194,
+        "name": "Modern Shirt",
+        "category": "Health & Personal Care",
+        "price": 2216.9,
+        "SKU": "SKU27559507",
+        "stock levels": 6009,
+        "units_solds": 0
+    },
+    {
+        "Product ID": 195,
+        "name": "Advanced Novel",
+        "category": "Pet Supplies",
+        "price": 3960.95,
+        "SKU": "SKU34325258",
+        "stock levels": 2327,
+        "units_solds": 4460
+    },
+    {
+        "Product ID": 196,
+        "name": "Stylish Router",
+        "category": "Pet Supplies",
+        "price": 3248.52,
+        "SKU": "SKU12554603",
+        "stock levels": 7739,
+        "units_solds": 2134
+    },
+    {
+        "Product ID": 197,
+        "name": "Eco-friendly Router",
+        "category": "Office Supplies",
+        "price": 4203.26,
+        "SKU": "SKU40246123",
+        "stock levels": 4532,
+        "units_solds": 4220
+    },
+    {
+        "Product ID": 198,
+        "name": "Premium Novel",
+        "category": "Books",
+        "price": 1534.89,
+        "SKU": "SKU00832402",
+        "stock levels": 1664,
+        "units_solds": 1552
+    },
+    {
+        "Product ID": 199,
+        "name": "Reliable Printer",
+        "category": "Beauty",
+        "price": 2701.03,
+        "SKU": "SKU57506420",
+        "stock levels": 2628,
+        "units_solds": 4477
+    },
+    {
+        "Product ID": 200,
+        "name": "Innovative Supplement",
+        "category": "Books",
+        "price": 4987.1,
+        "SKU": "SKU08537777",
+        "stock levels": 9257,
+        "units_solds": 1186
+    },
+    {
+        "Product ID": 201,
+        "name": "Stylish Drone",
+        "category": "Beauty",
+        "price": 4435.37,
+        "SKU": "SKU80700124",
+        "stock levels": 2379,
+        "units_solds": 4912
+    },
+    {
+        "Product ID": 202,
+        "name": "Modern Supplement",
+        "category": "Health & Personal Care",
+        "price": 3502.11,
+        "SKU": "SKU02384301",
+        "stock levels": 1611,
+        "units_solds": 1860
+    },
+    {
+        "Product ID": 203,
+        "name": "Versatile Camera",
+        "category": "Office Supplies",
+        "price": 2809.62,
+        "SKU": "SKU39749254",
+        "stock levels": 9625,
+        "units_solds": 3294
+    },
+    {
+        "Product ID": 204,
+        "name": "High-Performance Watch",
+        "category": "Toys & Games",
+        "price": 2289.45,
+        "SKU": "SKU36347252",
+        "stock levels": 9199,
+        "units_solds": 4629
+    },
+    {
+        "Product ID": 205,
+        "name": "Innovative Puzzle",
+        "category": "Pet Supplies",
+        "price": 2764.09,
+        "SKU": "SKU38193597",
+        "stock levels": 3992,
+        "units_solds": 2328
+    },
+    {
+        "Product ID": 206,
+        "name": "Eco-friendly Drone",
+        "category": "Electronics",
+        "price": 3156.47,
+        "SKU": "SKU20189315",
+        "stock levels": 8580,
+        "units_solds": 4993
+    },
+    {
+        "Product ID": 207,
+        "name": "Stylish Microwave",
+        "category": "Books",
+        "price": 2493.77,
+        "SKU": "SKU90689755",
+        "stock levels": 247,
+        "units_solds": 4385
+    },
+    {
+        "Product ID": 208,
+        "name": "Compact Backpack",
+        "category": "Health & Personal Care",
+        "price": 3566.78,
+        "SKU": "SKU42556636",
+        "stock levels": 7470,
+        "units_solds": 332
+    },
+    {
+        "Product ID": 209,
+        "name": "Portable Chair",
+        "category": "Automotive",
+        "price": 4086.76,
+        "SKU": "SKU79010641",
+        "stock levels": 2364,
+        "units_solds": 747
+    },
+    {
+        "Product ID": 210,
+        "name": "Compact Headphones",
+        "category": "Clothing",
+        "price": 4427.49,
+        "SKU": "SKU41326790",
+        "stock levels": 4317,
+        "units_solds": 4192
+    },
+    {
+        "Product ID": 211,
+        "name": "Modern Tablet",
+        "category": "Automotive",
+        "price": 3507.12,
+        "SKU": "SKU51564186",
+        "stock levels": 7152,
+        "units_solds": 3909
+    },
+    {
+        "Product ID": 212,
+        "name": "Smart Speaker",
+        "category": "Video Games",
+        "price": 2975.44,
+        "SKU": "SKU62851973",
+        "stock levels": 1019,
+        "units_solds": 2096
+    },
+    {
+        "Product ID": 213,
+        "name": "Versatile Headphones",
+        "category": "Home & Kitchen",
+        "price": 3364.54,
+        "SKU": "SKU02000333",
+        "stock levels": 7118,
+        "units_solds": 4446
+    },
+    {
+        "Product ID": 214,
+        "name": "Ergonomic Novel",
+        "category": "Music",
+        "price": 1824.1,
+        "SKU": "SKU34594313",
+        "stock levels": 4040,
+        "units_solds": 3134
+    },
+    {
+        "Product ID": 215,
+        "name": "Durable Chair",
+        "category": "Sports & Outdoors",
+        "price": 2588.66,
+        "SKU": "SKU34755750",
+        "stock levels": 8660,
+        "units_solds": 499
+    },
+    {
+        "Product ID": 216,
+        "name": "Reliable Lipstick",
+        "category": "Health & Personal Care",
+        "price": 3680.73,
+        "SKU": "SKU47666047",
+        "stock levels": 1838,
+        "units_solds": 3117
+    },
+    {
+        "Product ID": 217,
+        "name": "Premium Microwave",
+        "category": "Books",
+        "price": 1378.51,
+        "SKU": "SKU24911670",
+        "stock levels": 2541,
+        "units_solds": 2858
+    },
+    {
+        "Product ID": 218,
+        "name": "Modern Puzzle",
+        "category": "Books",
+        "price": 421.63,
+        "SKU": "SKU14048582",
+        "stock levels": 2894,
+        "units_solds": 2080
+    },
+    {
+        "Product ID": 219,
+        "name": "Eco-friendly Printer",
+        "category": "Health & Personal Care",
+        "price": 4696.59,
+        "SKU": "SKU98325460",
+        "stock levels": 498,
+        "units_solds": 792
+    },
+    {
+        "Product ID": 220,
+        "name": "Eco-friendly Monitor",
+        "category": "Clothing",
+        "price": 1960.41,
+        "SKU": "SKU63693041",
+        "stock levels": 3863,
+        "units_solds": 4463
+    },
+    {
+        "Product ID": 221,
+        "name": "Reliable Novel",
+        "category": "Sports & Outdoors",
+        "price": 4551.56,
+        "SKU": "SKU86691463",
+        "stock levels": 4911,
+        "units_solds": 3501
+    },
+    {
+        "Product ID": 222,
+        "name": "Versatile Novel",
+        "category": "Travel",
+        "price": 4811.58,
+        "SKU": "SKU73126705",
+        "stock levels": 1724,
+        "units_solds": 2956
+    },
+    {
+        "Product ID": 223,
+        "name": "Reliable Watch",
+        "category": "Video Games",
+        "price": 1518.97,
+        "SKU": "SKU54136427",
+        "stock levels": 8539,
+        "units_solds": 1412
+    },
+    {
+        "Product ID": 224,
+        "name": "Versatile Novel",
+        "category": "Music",
+        "price": 3888.51,
+        "SKU": "SKU85623162",
+        "stock levels": 2768,
+        "units_solds": 3212
+    },
+    {
+        "Product ID": 225,
+        "name": "Versatile Microwave",
+        "category": "Sports & Outdoors",
+        "price": 4655.73,
+        "SKU": "SKU81511912",
+        "stock levels": 4877,
+        "units_solds": 3187
+    },
+    {
+        "Product ID": 226,
+        "name": "Portable Tablet",
+        "category": "Sports & Outdoors",
+        "price": 1869.6,
+        "SKU": "SKU04477860",
+        "stock levels": 8169,
+        "units_solds": 803
+    },
+    {
+        "Product ID": 227,
+        "name": "Stylish Lipstick",
+        "category": "Home & Kitchen",
+        "price": 574.08,
+        "SKU": "SKU46759518",
+        "stock levels": 6935,
+        "units_solds": 3056
+    },
+    {
+        "Product ID": 228,
+        "name": "Reliable Monitor",
+        "category": "Electronics",
+        "price": 3632.1,
+        "SKU": "SKU94216417",
+        "stock levels": 4101,
+        "units_solds": 2851
+    },
+    {
+        "Product ID": 229,
+        "name": "Compact Shirt",
+        "category": "Books",
+        "price": 189.28,
+        "SKU": "SKU09918524",
+        "stock levels": 4516,
+        "units_solds": 55
+    },
+    {
+        "Product ID": 230,
+        "name": "Versatile Chair",
+        "category": "Video Games",
+        "price": 4664.15,
+        "SKU": "SKU37785294",
+        "stock levels": 2592,
+        "units_solds": 1630
+    },
+    {
+        "Product ID": 231,
+        "name": "Premium Puzzle",
+        "category": "Travel",
+        "price": 1548.31,
+        "SKU": "SKU89948238",
+        "stock levels": 3965,
+        "units_solds": 4598
+    },
+    {
+        "Product ID": 232,
+        "name": "Modern Blender",
+        "category": "Garden & Outdoor",
+        "price": 4478.14,
+        "SKU": "SKU34268854",
+        "stock levels": 679,
+        "units_solds": 3699
+    },
+    {
+        "Product ID": 233,
+        "name": "Versatile Speaker",
+        "category": "Automotive",
+        "price": 518.15,
+        "SKU": "SKU02967269",
+        "stock levels": 9999,
+        "units_solds": 495
+    },
+    {
+        "Product ID": 234,
+        "name": "Portable Camera",
+        "category": "Beauty",
+        "price": 3446.87,
+        "SKU": "SKU05133018",
+        "stock levels": 1896,
+        "units_solds": 958
+    },
+    {
+        "Product ID": 235,
+        "name": "Durable Speaker",
+        "category": "Video Games",
+        "price": 3905.39,
+        "SKU": "SKU31049008",
+        "stock levels": 5850,
+        "units_solds": 2319
+    },
+    {
+        "Product ID": 236,
+        "name": "Versatile Microwave",
+        "category": "Video Games",
+        "price": 1913.49,
+        "SKU": "SKU73645009",
+        "stock levels": 988,
+        "units_solds": 4576
+    },
+    {
+        "Product ID": 237,
+        "name": "Innovative Supplement",
+        "category": "Pet Supplies",
+        "price": 1133.75,
+        "SKU": "SKU19567524",
+        "stock levels": 4120,
+        "units_solds": 2647
+    },
+    {
+        "Product ID": 238,
+        "name": "Sleek Lipstick",
+        "category": "Pet Supplies",
+        "price": 2106.9,
+        "SKU": "SKU29636442",
+        "stock levels": 5332,
+        "units_solds": 2918
+    },
+    {
+        "Product ID": 239,
+        "name": "Eco-friendly Lipstick",
+        "category": "Home & Kitchen",
+        "price": 3447.13,
+        "SKU": "SKU57689158",
+        "stock levels": 9226,
+        "units_solds": 3661
+    },
+    {
+        "Product ID": 240,
+        "name": "High-Performance Backpack",
+        "category": "Clothing",
+        "price": 3500.66,
+        "SKU": "SKU51391651",
+        "stock levels": 7519,
+        "units_solds": 2377
+    },
+    {
+        "Product ID": 241,
+        "name": "Ergonomic Tablet",
+        "category": "Home & Kitchen",
+        "price": 689.18,
+        "SKU": "SKU07319541",
+        "stock levels": 6803,
+        "units_solds": 625
+    },
+    {
+        "Product ID": 242,
+        "name": "Advanced Camera",
+        "category": "Toys & Games",
+        "price": 3280.15,
+        "SKU": "SKU03136594",
+        "stock levels": 6298,
+        "units_solds": 3285
+    },
+    {
+        "Product ID": 243,
+        "name": "Portable Supplement",
+        "category": "Toys & Games",
+        "price": 4309.75,
+        "SKU": "SKU62571144",
+        "stock levels": 1146,
+        "units_solds": 4787
+    },
+    {
+        "Product ID": 244,
+        "name": "Advanced Router",
+        "category": "Toys & Games",
+        "price": 513.86,
+        "SKU": "SKU33825012",
+        "stock levels": 9722,
+        "units_solds": 1649
+    },
+    {
+        "Product ID": 245,
+        "name": "Premium Router",
+        "category": "Automotive",
+        "price": 3449.78,
+        "SKU": "SKU39020451",
+        "stock levels": 3037,
+        "units_solds": 978
+    },
+    {
+        "Product ID": 246,
+        "name": "Reliable Tablet",
+        "category": "Office Supplies",
+        "price": 4911.5,
+        "SKU": "SKU75988801",
+        "stock levels": 7128,
+        "units_solds": 1853
+    },
+    {
+        "Product ID": 247,
+        "name": "Premium Microwave",
+        "category": "Electronics",
+        "price": 1182.66,
+        "SKU": "SKU83134635",
+        "stock levels": 5011,
+        "units_solds": 1192
+    },
+    {
+        "Product ID": 248,
+        "name": "Ergonomic Tablet",
+        "category": "Automotive",
+        "price": 4437.1,
+        "SKU": "SKU89562991",
+        "stock levels": 9667,
+        "units_solds": 2099
+    },
+    {
+        "Product ID": 249,
+        "name": "Durable Monitor",
+        "category": "Toys & Games",
+        "price": 3300.21,
+        "SKU": "SKU46684748",
+        "stock levels": 8575,
+        "units_solds": 228
+    },
+    {
+        "Product ID": 250,
+        "name": "Reliable Blender",
+        "category": "Electronics",
+        "price": 3205.35,
+        "SKU": "SKU03429736",
+        "stock levels": 6117,
+        "units_solds": 4774
+    },
+    {
+        "Product ID": 251,
+        "name": "Stylish Tablet",
+        "category": "Clothing",
+        "price": 1155.52,
+        "SKU": "SKU75026330",
+        "stock levels": 3434,
+        "units_solds": 375
+    },
+    {
+        "Product ID": 252,
+        "name": "Eco-friendly Backpack",
+        "category": "Clothing",
+        "price": 3810.38,
+        "SKU": "SKU92208063",
+        "stock levels": 8216,
+        "units_solds": 287
+    },
+    {
+        "Product ID": 253,
+        "name": "High-Performance Headphones",
+        "category": "Home & Kitchen",
+        "price": 2044.13,
+        "SKU": "SKU21305192",
+        "stock levels": 1640,
+        "units_solds": 4441
+    },
+    {
+        "Product ID": 254,
+        "name": "Smart Lipstick",
+        "category": "Sports & Outdoors",
+        "price": 3795.15,
+        "SKU": "SKU25634349",
+        "stock levels": 6231,
+        "units_solds": 4847
+    },
+    {
+        "Product ID": 255,
+        "name": "Stylish Lipstick",
+        "category": "Garden & Outdoor",
+        "price": 4232.05,
+        "SKU": "SKU89435155",
+        "stock levels": 8601,
+        "units_solds": 4828
+    },
+    {
+        "Product ID": 256,
+        "name": "Durable Drone",
+        "category": "Music",
+        "price": 4016.8,
+        "SKU": "SKU69286050",
+        "stock levels": 2664,
+        "units_solds": 2305
+    },
+    {
+        "Product ID": 257,
+        "name": "Sleek Supplement",
+        "category": "Home & Kitchen",
+        "price": 2950.56,
+        "SKU": "SKU59036747",
+        "stock levels": 8340,
+        "units_solds": 1668
+    },
+    {
+        "Product ID": 258,
+        "name": "Versatile Blender",
+        "category": "Pet Supplies",
+        "price": 3953.99,
+        "SKU": "SKU68352142",
+        "stock levels": 1409,
+        "units_solds": 4857
+    },
+    {
+        "Product ID": 259,
+        "name": "Portable Microwave",
+        "category": "Clothing",
+        "price": 3575.37,
+        "SKU": "SKU34762170",
+        "stock levels": 9627,
+        "units_solds": 4186
+    },
+    {
+        "Product ID": 260,
+        "name": "Ergonomic Shirt",
+        "category": "Health & Personal Care",
+        "price": 3828.83,
+        "SKU": "SKU05632341",
+        "stock levels": 6973,
+        "units_solds": 3416
+    },
+    {
+        "Product ID": 261,
+        "name": "Innovative Shirt",
+        "category": "Toys & Games",
+        "price": 3742.16,
+        "SKU": "SKU72289550",
+        "stock levels": 95,
+        "units_solds": 19
+    },
+    {
+        "Product ID": 262,
+        "name": "Compact Watch",
+        "category": "Beauty",
+        "price": 2088.15,
+        "SKU": "SKU09626574",
+        "stock levels": 7523,
+        "units_solds": 897
+    },
+    {
+        "Product ID": 263,
+        "name": "Modern Router",
+        "category": "Music",
+        "price": 2754.43,
+        "SKU": "SKU82701218",
+        "stock levels": 2662,
+        "units_solds": 3146
+    },
+    {
+        "Product ID": 264,
+        "name": "Versatile Headphones",
+        "category": "Home & Kitchen",
+        "price": 4766.03,
+        "SKU": "SKU79961418",
+        "stock levels": 9923,
+        "units_solds": 3063
+    },
+    {
+        "Product ID": 265,
+        "name": "Ergonomic Chair",
+        "category": "Garden & Outdoor",
+        "price": 2603.28,
+        "SKU": "SKU04162415",
+        "stock levels": 3849,
+        "units_solds": 2241
+    },
+    {
+        "Product ID": 266,
+        "name": "Modern Tablet",
+        "category": "Garden & Outdoor",
+        "price": 381.95,
+        "SKU": "SKU42448321",
+        "stock levels": 7439,
+        "units_solds": 621
+    },
+    {
+        "Product ID": 267,
+        "name": "Stylish Lipstick",
+        "category": "Books",
+        "price": 4551.16,
+        "SKU": "SKU39943072",
+        "stock levels": 3355,
+        "units_solds": 2642
+    },
+    {
+        "Product ID": 268,
+        "name": "Durable Puzzle",
+        "category": "Sports & Outdoors",
+        "price": 4952.04,
+        "SKU": "SKU57767150",
+        "stock levels": 6822,
+        "units_solds": 376
+    },
+    {
+        "Product ID": 269,
+        "name": "Reliable Printer",
+        "category": "Video Games",
+        "price": 2732.69,
+        "SKU": "SKU72456986",
+        "stock levels": 3061,
+        "units_solds": 2783
+    },
+    {
+        "Product ID": 270,
+        "name": "Premium Headphones",
+        "category": "Travel",
+        "price": 2884.08,
+        "SKU": "SKU83674803",
+        "stock levels": 7326,
+        "units_solds": 4236
+    },
+    {
+        "Product ID": 271,
+        "name": "Portable Speaker",
+        "category": "Health & Personal Care",
+        "price": 3252.2,
+        "SKU": "SKU74667357",
+        "stock levels": 7225,
+        "units_solds": 2572
+    },
+    {
+        "Product ID": 272,
+        "name": "Sleek Tire",
+        "category": "Music",
+        "price": 4957.45,
+        "SKU": "SKU98060289",
+        "stock levels": 3185,
+        "units_solds": 2726
+    },
+    {
+        "Product ID": 273,
+        "name": "Durable Tire",
+        "category": "Sports & Outdoors",
+        "price": 196.1,
+        "SKU": "SKU48077689",
+        "stock levels": 6802,
+        "units_solds": 3198
+    },
+    {
+        "Product ID": 274,
+        "name": "Advanced Tablet",
+        "category": "Books",
+        "price": 2085.93,
+        "SKU": "SKU72090624",
+        "stock levels": 865,
+        "units_solds": 823
+    },
+    {
+        "Product ID": 275,
+        "name": "Compact Supplement",
+        "category": "Books",
+        "price": 2347.92,
+        "SKU": "SKU52607651",
+        "stock levels": 668,
+        "units_solds": 4583
+    },
+    {
+        "Product ID": 276,
+        "name": "Ergonomic Speaker",
+        "category": "Sports & Outdoors",
+        "price": 3038.68,
+        "SKU": "SKU12933035",
+        "stock levels": 5060,
+        "units_solds": 1698
+    },
+    {
+        "Product ID": 277,
+        "name": "Ergonomic Speaker",
+        "category": "Toys & Games",
+        "price": 4855.97,
+        "SKU": "SKU21782187",
+        "stock levels": 368,
+        "units_solds": 2108
+    },
+    {
+        "Product ID": 278,
+        "name": "Durable Novel",
+        "category": "Automotive",
+        "price": 1925.04,
+        "SKU": "SKU18285151",
+        "stock levels": 539,
+        "units_solds": 972
+    },
+    {
+        "Product ID": 279,
+        "name": "Modern Router",
+        "category": "Clothing",
+        "price": 1309.36,
+        "SKU": "SKU70606352",
+        "stock levels": 6965,
+        "units_solds": 183
+    },
+    {
+        "Product ID": 280,
+        "name": "High-Performance Watch",
+        "category": "Toys & Games",
+        "price": 4405.47,
+        "SKU": "SKU58461942",
+        "stock levels": 639,
+        "units_solds": 1715
+    },
+    {
+        "Product ID": 281,
+        "name": "Advanced Chair",
+        "category": "Clothing",
+        "price": 2793.75,
+        "SKU": "SKU26944170",
+        "stock levels": 5810,
+        "units_solds": 4864
+    },
+    {
+        "Product ID": 282,
+        "name": "Innovative Watch",
+        "category": "Clothing",
+        "price": 2661.5,
+        "SKU": "SKU28054466",
+        "stock levels": 7480,
+        "units_solds": 3145
+    },
+    {
+        "Product ID": 283,
+        "name": "Ergonomic Router",
+        "category": "Home & Kitchen",
+        "price": 747.41,
+        "SKU": "SKU97906711",
+        "stock levels": 5289,
+        "units_solds": 3634
+    },
+    {
+        "Product ID": 284,
+        "name": "Compact Watch",
+        "category": "Home & Kitchen",
+        "price": 1048.67,
+        "SKU": "SKU01520680",
+        "stock levels": 7442,
+        "units_solds": 4074
+    },
+    {
+        "Product ID": 285,
+        "name": "High-Performance Shirt",
+        "category": "Electronics",
+        "price": 2112.65,
+        "SKU": "SKU45084245",
+        "stock levels": 5817,
+        "units_solds": 4428
+    },
+    {
+        "Product ID": 286,
+        "name": "Innovative Novel",
+        "category": "Health & Personal Care",
+        "price": 1203.0,
+        "SKU": "SKU02491861",
+        "stock levels": 2323,
+        "units_solds": 4827
+    },
+    {
+        "Product ID": 287,
+        "name": "Premium Blender",
+        "category": "Office Supplies",
+        "price": 948.39,
+        "SKU": "SKU97088690",
+        "stock levels": 3659,
+        "units_solds": 3099
+    },
+    {
+        "Product ID": 288,
+        "name": "Sleek Backpack",
+        "category": "Automotive",
+        "price": 4756.5,
+        "SKU": "SKU09171375",
+        "stock levels": 8957,
+        "units_solds": 14
+    },
+    {
+        "Product ID": 289,
+        "name": "Premium Drone",
+        "category": "Sports & Outdoors",
+        "price": 2276.45,
+        "SKU": "SKU99785669",
+        "stock levels": 1556,
+        "units_solds": 951
+    },
+    {
+        "Product ID": 290,
+        "name": "Sleek Camera",
+        "category": "Office Supplies",
+        "price": 4230.01,
+        "SKU": "SKU51703535",
+        "stock levels": 6113,
+        "units_solds": 2726
+    },
+    {
+        "Product ID": 291,
+        "name": "Advanced Headphones",
+        "category": "Automotive",
+        "price": 985.19,
+        "SKU": "SKU14302949",
+        "stock levels": 8619,
+        "units_solds": 1496
+    },
+    {
+        "Product ID": 292,
+        "name": "Premium Tire",
+        "category": "Clothing",
+        "price": 245.37,
+        "SKU": "SKU79301703",
+        "stock levels": 7509,
+        "units_solds": 3976
+    },
+    {
+        "Product ID": 293,
+        "name": "Stylish Headphones",
+        "category": "Music",
+        "price": 79.43,
+        "SKU": "SKU09592765",
+        "stock levels": 6644,
+        "units_solds": 3648
+    },
+    {
+        "Product ID": 294,
+        "name": "Modern Headphones",
+        "category": "Automotive",
+        "price": 2673.86,
+        "SKU": "SKU23973435",
+        "stock levels": 9160,
+        "units_solds": 3145
+    },
+    {
+        "Product ID": 295,
+        "name": "Compact Monitor",
+        "category": "Electronics",
+        "price": 1500.71,
+        "SKU": "SKU07802345",
+        "stock levels": 8930,
+        "units_solds": 965
+    },
+    {
+        "Product ID": 296,
+        "name": "Eco-friendly Drone",
+        "category": "Pet Supplies",
+        "price": 2750.5,
+        "SKU": "SKU98877180",
+        "stock levels": 2514,
+        "units_solds": 3214
+    },
+    {
+        "Product ID": 297,
+        "name": "Versatile Microwave",
+        "category": "Music",
+        "price": 2054.3,
+        "SKU": "SKU12518245",
+        "stock levels": 9902,
+        "units_solds": 1378
+    },
+    {
+        "Product ID": 298,
+        "name": "Smart Lawnmower",
+        "category": "Sports & Outdoors",
+        "price": 1602.15,
+        "SKU": "SKU80983056",
+        "stock levels": 346,
+        "units_solds": 33
+    },
+    {
+        "Product ID": 299,
+        "name": "Sleek Shirt",
+        "category": "Beauty",
+        "price": 2133.86,
+        "SKU": "SKU50650721",
+        "stock levels": 8413,
+        "units_solds": 1206
+    },
+    {
+        "Product ID": 300,
+        "name": "High-Performance Novel",
+        "category": "Beauty",
+        "price": 3631.33,
+        "SKU": "SKU33020196",
+        "stock levels": 7568,
+        "units_solds": 3441
+    },
+    {
+        "Product ID": 301,
+        "name": "High-Performance Blender",
+        "category": "Travel",
+        "price": 1249.95,
+        "SKU": "SKU55092028",
+        "stock levels": 5497,
+        "units_solds": 1812
+    },
+    {
+        "Product ID": 302,
+        "name": "Eco-friendly Tablet",
+        "category": "Sports & Outdoors",
+        "price": 2121.82,
+        "SKU": "SKU05609359",
+        "stock levels": 6392,
+        "units_solds": 1397
+    },
+    {
+        "Product ID": 303,
+        "name": "Premium Puzzle",
+        "category": "Clothing",
+        "price": 1009.56,
+        "SKU": "SKU94403033",
+        "stock levels": 6472,
+        "units_solds": 2409
+    },
+    {
+        "Product ID": 304,
+        "name": "Modern Lipstick",
+        "category": "Books",
+        "price": 558.41,
+        "SKU": "SKU12643020",
+        "stock levels": 5857,
+        "units_solds": 1739
+    },
+    {
+        "Product ID": 305,
+        "name": "Modern Lipstick",
+        "category": "Pet Supplies",
+        "price": 945.69,
+        "SKU": "SKU08728674",
+        "stock levels": 1336,
+        "units_solds": 3365
+    },
+    {
+        "Product ID": 306,
+        "name": "Modern Watch",
+        "category": "Home & Kitchen",
+        "price": 3220.78,
+        "SKU": "SKU14403464",
+        "stock levels": 7080,
+        "units_solds": 1655
+    },
+    {
+        "Product ID": 307,
+        "name": "Durable Monitor",
+        "category": "Books",
+        "price": 3208.78,
+        "SKU": "SKU53739169",
+        "stock levels": 6974,
+        "units_solds": 4342
+    },
+    {
+        "Product ID": 308,
+        "name": "Eco-friendly Lawnmower",
+        "category": "Home & Kitchen",
+        "price": 3861.66,
+        "SKU": "SKU07496471",
+        "stock levels": 6222,
+        "units_solds": 4853
+    },
+    {
+        "Product ID": 309,
+        "name": "Smart Camera",
+        "category": "Electronics",
+        "price": 4604.38,
+        "SKU": "SKU83260888",
+        "stock levels": 2556,
+        "units_solds": 2535
+    },
+    {
+        "Product ID": 310,
+        "name": "Premium Chair",
+        "category": "Sports & Outdoors",
+        "price": 540.31,
+        "SKU": "SKU79722582",
+        "stock levels": 8320,
+        "units_solds": 3929
+    },
+    {
+        "Product ID": 311,
+        "name": "Premium Blender",
+        "category": "Pet Supplies",
+        "price": 943.85,
+        "SKU": "SKU07870710",
+        "stock levels": 6864,
+        "units_solds": 1864
+    },
+    {
+        "Product ID": 312,
+        "name": "Innovative Chair",
+        "category": "Sports & Outdoors",
+        "price": 1921.2,
+        "SKU": "SKU68060146",
+        "stock levels": 2330,
+        "units_solds": 307
+    },
+    {
+        "Product ID": 313,
+        "name": "High-Performance Lipstick",
+        "category": "Toys & Games",
+        "price": 3856.79,
+        "SKU": "SKU62862257",
+        "stock levels": 7595,
+        "units_solds": 90
+    },
+    {
+        "Product ID": 314,
+        "name": "Smart Blender",
+        "category": "Pet Supplies",
+        "price": 722.16,
+        "SKU": "SKU87094491",
+        "stock levels": 8921,
+        "units_solds": 3159
+    },
+    {
+        "Product ID": 315,
+        "name": "Ergonomic Tire",
+        "category": "Health & Personal Care",
+        "price": 2427.33,
+        "SKU": "SKU43862387",
+        "stock levels": 2946,
+        "units_solds": 3117
+    },
+    {
+        "Product ID": 316,
+        "name": "Smart Tablet",
+        "category": "Clothing",
+        "price": 3639.25,
+        "SKU": "SKU14637509",
+        "stock levels": 829,
+        "units_solds": 1978
+    },
+    {
+        "Product ID": 317,
+        "name": "Eco-friendly Blender",
+        "category": "Sports & Outdoors",
+        "price": 2100.36,
+        "SKU": "SKU56646775",
+        "stock levels": 8589,
+        "units_solds": 1567
+    },
+    {
+        "Product ID": 318,
+        "name": "Portable Router",
+        "category": "Garden & Outdoor",
+        "price": 1824.04,
+        "SKU": "SKU35577789",
+        "stock levels": 1985,
+        "units_solds": 4719
+    },
+    {
+        "Product ID": 319,
+        "name": "Reliable Chair",
+        "category": "Garden & Outdoor",
+        "price": 3541.55,
+        "SKU": "SKU85504888",
+        "stock levels": 5040,
+        "units_solds": 4779
+    },
+    {
+        "Product ID": 320,
+        "name": "High-Performance Router",
+        "category": "Electronics",
+        "price": 1119.82,
+        "SKU": "SKU78954657",
+        "stock levels": 4257,
+        "units_solds": 4743
+    },
+    {
+        "Product ID": 321,
+        "name": "Durable Puzzle",
+        "category": "Health & Personal Care",
+        "price": 1073.97,
+        "SKU": "SKU07395010",
+        "stock levels": 8497,
+        "units_solds": 2429
+    },
+    {
+        "Product ID": 322,
+        "name": "Stylish Lipstick",
+        "category": "Toys & Games",
+        "price": 474.43,
+        "SKU": "SKU06689715",
+        "stock levels": 1535,
+        "units_solds": 4905
+    },
+    {
+        "Product ID": 323,
+        "name": "Advanced Supplement",
+        "category": "Travel",
+        "price": 335.52,
+        "SKU": "SKU51936860",
+        "stock levels": 7078,
+        "units_solds": 3788
+    },
+    {
+        "Product ID": 324,
+        "name": "Smart Novel",
+        "category": "Music",
+        "price": 745.01,
+        "SKU": "SKU73686395",
+        "stock levels": 8897,
+        "units_solds": 4923
+    },
+    {
+        "Product ID": 325,
+        "name": "Stylish Blender",
+        "category": "Travel",
+        "price": 1017.58,
+        "SKU": "SKU61657308",
+        "stock levels": 8571,
+        "units_solds": 918
+    },
+    {
+        "Product ID": 326,
+        "name": "Ergonomic Chair",
+        "category": "Books",
+        "price": 4331.26,
+        "SKU": "SKU22929939",
+        "stock levels": 9180,
+        "units_solds": 496
+    },
+    {
+        "Product ID": 327,
+        "name": "Innovative Blender",
+        "category": "Beauty",
+        "price": 1768.33,
+        "SKU": "SKU30082716",
+        "stock levels": 9803,
+        "units_solds": 2697
+    },
+    {
+        "Product ID": 328,
+        "name": "Eco-friendly Monitor",
+        "category": "Video Games",
+        "price": 347.25,
+        "SKU": "SKU35630501",
+        "stock levels": 3587,
+        "units_solds": 2296
+    },
+    {
+        "Product ID": 329,
+        "name": "Ergonomic Lipstick",
+        "category": "Books",
+        "price": 4883.67,
+        "SKU": "SKU84138823",
+        "stock levels": 9160,
+        "units_solds": 4405
+    },
+    {
+        "Product ID": 330,
+        "name": "Advanced Headphones",
+        "category": "Books",
+        "price": 796.13,
+        "SKU": "SKU60918086",
+        "stock levels": 6731,
+        "units_solds": 28
+    },
+    {
+        "Product ID": 331,
+        "name": "Durable Novel",
+        "category": "Garden & Outdoor",
+        "price": 2659.93,
+        "SKU": "SKU06804541",
+        "stock levels": 6200,
+        "units_solds": 2135
+    },
+    {
+        "Product ID": 332,
+        "name": "Reliable Camera",
+        "category": "Toys & Games",
+        "price": 2849.8,
+        "SKU": "SKU25395408",
+        "stock levels": 2659,
+        "units_solds": 3861
+    },
+    {
+        "Product ID": 333,
+        "name": "Compact Printer",
+        "category": "Music",
+        "price": 4759.62,
+        "SKU": "SKU04124338",
+        "stock levels": 4036,
+        "units_solds": 997
+    },
+    {
+        "Product ID": 334,
+        "name": "Advanced Supplement",
+        "category": "Home & Kitchen",
+        "price": 626.43,
+        "SKU": "SKU68115288",
+        "stock levels": 6255,
+        "units_solds": 469
+    },
+    {
+        "Product ID": 335,
+        "name": "Eco-friendly Drone",
+        "category": "Clothing",
+        "price": 4233.71,
+        "SKU": "SKU21847809",
+        "stock levels": 8657,
+        "units_solds": 4299
+    },
+    {
+        "Product ID": 336,
+        "name": "Compact Printer",
+        "category": "Garden & Outdoor",
+        "price": 1935.85,
+        "SKU": "SKU46150115",
+        "stock levels": 9823,
+        "units_solds": 2362
+    },
+    {
+        "Product ID": 337,
+        "name": "Stylish Chair",
+        "category": "Sports & Outdoors",
+        "price": 4254.12,
+        "SKU": "SKU01224003",
+        "stock levels": 8799,
+        "units_solds": 4687
+    },
+    {
+        "Product ID": 338,
+        "name": "Advanced Printer",
+        "category": "Sports & Outdoors",
+        "price": 454.3,
+        "SKU": "SKU38628913",
+        "stock levels": 4048,
+        "units_solds": 4328
+    },
+    {
+        "Product ID": 339,
+        "name": "Durable Microwave",
+        "category": "Automotive",
+        "price": 1769.49,
+        "SKU": "SKU61771154",
+        "stock levels": 2254,
+        "units_solds": 3859
+    },
+    {
+        "Product ID": 340,
+        "name": "Eco-friendly Router",
+        "category": "Toys & Games",
+        "price": 4535.87,
+        "SKU": "SKU16796506",
+        "stock levels": 5982,
+        "units_solds": 3452
+    },
+    {
+        "Product ID": 341,
+        "name": "Reliable Shirt",
+        "category": "Sports & Outdoors",
+        "price": 4229.56,
+        "SKU": "SKU23630975",
+        "stock levels": 7828,
+        "units_solds": 4571
+    },
+    {
+        "Product ID": 342,
+        "name": "Smart Headphones",
+        "category": "Office Supplies",
+        "price": 1853.97,
+        "SKU": "SKU78855972",
+        "stock levels": 9110,
+        "units_solds": 2780
+    },
+    {
+        "Product ID": 343,
+        "name": "Sleek Microwave",
+        "category": "Music",
+        "price": 4933.6,
+        "SKU": "SKU80152591",
+        "stock levels": 4072,
+        "units_solds": 4001
+    },
+    {
+        "Product ID": 344,
+        "name": "Durable Microwave",
+        "category": "Electronics",
+        "price": 1415.36,
+        "SKU": "SKU03911490",
+        "stock levels": 3173,
+        "units_solds": 1424
+    },
+    {
+        "Product ID": 345,
+        "name": "Premium Novel",
+        "category": "Sports & Outdoors",
+        "price": 4086.34,
+        "SKU": "SKU56414416",
+        "stock levels": 3028,
+        "units_solds": 1688
+    },
+    {
+        "Product ID": 346,
+        "name": "Stylish Novel",
+        "category": "Home & Kitchen",
+        "price": 3639.36,
+        "SKU": "SKU75620296",
+        "stock levels": 7873,
+        "units_solds": 187
+    },
+    {
+        "Product ID": 347,
+        "name": "Stylish Microwave",
+        "category": "Sports & Outdoors",
+        "price": 4242.54,
+        "SKU": "SKU33031450",
+        "stock levels": 8391,
+        "units_solds": 4979
+    },
+    {
+        "Product ID": 348,
+        "name": "Smart Shirt",
+        "category": "Music",
+        "price": 4123.39,
+        "SKU": "SKU54626664",
+        "stock levels": 7367,
+        "units_solds": 349
+    },
+    {
+        "Product ID": 349,
+        "name": "Compact Lawnmower",
+        "category": "Office Supplies",
+        "price": 602.96,
+        "SKU": "SKU19434021",
+        "stock levels": 5920,
+        "units_solds": 2386
+    },
+    {
+        "Product ID": 350,
+        "name": "Smart Headphones",
+        "category": "Travel",
+        "price": 1782.54,
+        "SKU": "SKU86011928",
+        "stock levels": 7846,
+        "units_solds": 1863
+    },
+    {
+        "Product ID": 351,
+        "name": "Compact Router",
+        "category": "Pet Supplies",
+        "price": 2358.3,
+        "SKU": "SKU93241409",
+        "stock levels": 6506,
+        "units_solds": 321
+    },
+    {
+        "Product ID": 352,
+        "name": "Eco-friendly Router",
+        "category": "Pet Supplies",
+        "price": 2924.81,
+        "SKU": "SKU87070597",
+        "stock levels": 3063,
+        "units_solds": 550
+    },
+    {
+        "Product ID": 353,
+        "name": "High-Performance Camera",
+        "category": "Travel",
+        "price": 209.05,
+        "SKU": "SKU56425052",
+        "stock levels": 1700,
+        "units_solds": 1983
+    },
+    {
+        "Product ID": 354,
+        "name": "Eco-friendly Microwave",
+        "category": "Travel",
+        "price": 3934.24,
+        "SKU": "SKU06772524",
+        "stock levels": 8457,
+        "units_solds": 2471
+    },
+    {
+        "Product ID": 355,
+        "name": "High-Performance Tire",
+        "category": "Clothing",
+        "price": 2679.01,
+        "SKU": "SKU40087676",
+        "stock levels": 4840,
+        "units_solds": 660
+    },
+    {
+        "Product ID": 356,
+        "name": "High-Performance Blender",
+        "category": "Pet Supplies",
+        "price": 4363.82,
+        "SKU": "SKU88302110",
+        "stock levels": 1658,
+        "units_solds": 1386
+    },
+    {
+        "Product ID": 357,
+        "name": "High-Performance Novel",
+        "category": "Pet Supplies",
+        "price": 4171.8,
+        "SKU": "SKU84916209",
+        "stock levels": 2270,
+        "units_solds": 289
+    },
+    {
+        "Product ID": 358,
+        "name": "Stylish Microwave",
+        "category": "Health & Personal Care",
+        "price": 1019.06,
+        "SKU": "SKU42715263",
+        "stock levels": 7469,
+        "units_solds": 1152
+    },
+    {
+        "Product ID": 359,
+        "name": "Premium Headphones",
+        "category": "Garden & Outdoor",
+        "price": 1095.26,
+        "SKU": "SKU78893121",
+        "stock levels": 5864,
+        "units_solds": 4301
+    },
+    {
+        "Product ID": 360,
+        "name": "Durable Chair",
+        "category": "Travel",
+        "price": 2001.77,
+        "SKU": "SKU36422626",
+        "stock levels": 2598,
+        "units_solds": 2986
+    },
+    {
+        "Product ID": 361,
+        "name": "Versatile Watch",
+        "category": "Electronics",
+        "price": 849.36,
+        "SKU": "SKU27190068",
+        "stock levels": 8769,
+        "units_solds": 3562
+    },
+    {
+        "Product ID": 362,
+        "name": "Eco-friendly Printer",
+        "category": "Books",
+        "price": 1372.67,
+        "SKU": "SKU87807647",
+        "stock levels": 4196,
+        "units_solds": 4422
+    },
+    {
+        "Product ID": 363,
+        "name": "High-Performance Shirt",
+        "category": "Office Supplies",
+        "price": 4451.83,
+        "SKU": "SKU49120647",
+        "stock levels": 4853,
+        "units_solds": 687
+    },
+    {
+        "Product ID": 364,
+        "name": "Sleek Drone",
+        "category": "Garden & Outdoor",
+        "price": 3929.01,
+        "SKU": "SKU85508932",
+        "stock levels": 1832,
+        "units_solds": 2464
+    },
+    {
+        "Product ID": 365,
+        "name": "Premium Supplement",
+        "category": "Beauty",
+        "price": 2093.06,
+        "SKU": "SKU26631882",
+        "stock levels": 5129,
+        "units_solds": 649
+    },
+    {
+        "Product ID": 366,
+        "name": "Modern Monitor",
+        "category": "Beauty",
+        "price": 3477.37,
+        "SKU": "SKU08012568",
+        "stock levels": 4360,
+        "units_solds": 743
+    },
+    {
+        "Product ID": 367,
+        "name": "Advanced Shirt",
+        "category": "Automotive",
+        "price": 2676.59,
+        "SKU": "SKU76566061",
+        "stock levels": 4069,
+        "units_solds": 3338
+    },
+    {
+        "Product ID": 368,
+        "name": "Sleek Speaker",
+        "category": "Electronics",
+        "price": 722.39,
+        "SKU": "SKU01273011",
+        "stock levels": 3354,
+        "units_solds": 4717
+    },
+    {
+        "Product ID": 369,
+        "name": "Durable Speaker",
+        "category": "Video Games",
+        "price": 380.62,
+        "SKU": "SKU44906219",
+        "stock levels": 2739,
+        "units_solds": 3020
+    },
+    {
+        "Product ID": 370,
+        "name": "Versatile Backpack",
+        "category": "Automotive",
+        "price": 3876.97,
+        "SKU": "SKU74270631",
+        "stock levels": 2057,
+        "units_solds": 69
+    },
+    {
+        "Product ID": 371,
+        "name": "Durable Lipstick",
+        "category": "Books",
+        "price": 3510.76,
+        "SKU": "SKU67799827",
+        "stock levels": 3752,
+        "units_solds": 4675
+    },
+    {
+        "Product ID": 372,
+        "name": "Advanced Microwave",
+        "category": "Health & Personal Care",
+        "price": 1109.02,
+        "SKU": "SKU42359323",
+        "stock levels": 2517,
+        "units_solds": 3717
+    },
+    {
+        "Product ID": 373,
+        "name": "Modern Tablet",
+        "category": "Video Games",
+        "price": 1999.92,
+        "SKU": "SKU40586033",
+        "stock levels": 2497,
+        "units_solds": 3146
+    },
+    {
+        "Product ID": 374,
+        "name": "Sleek Tablet",
+        "category": "Clothing",
+        "price": 2322.51,
+        "SKU": "SKU13835301",
+        "stock levels": 4369,
+        "units_solds": 1860
+    },
+    {
+        "Product ID": 375,
+        "name": "Sleek Chair",
+        "category": "Automotive",
+        "price": 2618.38,
+        "SKU": "SKU43913851",
+        "stock levels": 3855,
+        "units_solds": 1131
+    },
+    {
+        "Product ID": 376,
+        "name": "Eco-friendly Tablet",
+        "category": "Pet Supplies",
+        "price": 2878.56,
+        "SKU": "SKU08288650",
+        "stock levels": 2060,
+        "units_solds": 2459
+    },
+    {
+        "Product ID": 377,
+        "name": "Reliable Microwave",
+        "category": "Automotive",
+        "price": 733.33,
+        "SKU": "SKU06344007",
+        "stock levels": 4587,
+        "units_solds": 2211
+    },
+    {
+        "Product ID": 378,
+        "name": "Modern Watch",
+        "category": "Sports & Outdoors",
+        "price": 2471.63,
+        "SKU": "SKU15691628",
+        "stock levels": 8600,
+        "units_solds": 4621
+    },
+    {
+        "Product ID": 379,
+        "name": "Stylish Shirt",
+        "category": "Clothing",
+        "price": 3434.7,
+        "SKU": "SKU54036403",
+        "stock levels": 3609,
+        "units_solds": 2012
+    },
+    {
+        "Product ID": 380,
+        "name": "Eco-friendly Lipstick",
+        "category": "Beauty",
+        "price": 4891.69,
+        "SKU": "SKU02713772",
+        "stock levels": 2656,
+        "units_solds": 3270
+    },
+    {
+        "Product ID": 381,
+        "name": "Ergonomic Backpack",
+        "category": "Beauty",
+        "price": 2085.9,
+        "SKU": "SKU79503853",
+        "stock levels": 3266,
+        "units_solds": 3695
+    },
+    {
+        "Product ID": 382,
+        "name": "Eco-friendly Supplement",
+        "category": "Sports & Outdoors",
+        "price": 3968.49,
+        "SKU": "SKU65762045",
+        "stock levels": 4428,
+        "units_solds": 1752
+    },
+    {
+        "Product ID": 383,
+        "name": "Sleek Blender",
+        "category": "Pet Supplies",
+        "price": 120.07,
+        "SKU": "SKU47090445",
+        "stock levels": 2423,
+        "units_solds": 4640
+    },
+    {
+        "Product ID": 384,
+        "name": "Stylish Lipstick",
+        "category": "Beauty",
+        "price": 971.31,
+        "SKU": "SKU56537141",
+        "stock levels": 6095,
+        "units_solds": 3988
+    },
+    {
+        "Product ID": 385,
+        "name": "Stylish Tire",
+        "category": "Music",
+        "price": 1413.26,
+        "SKU": "SKU93443908",
+        "stock levels": 7827,
+        "units_solds": 2048
+    },
+    {
+        "Product ID": 386,
+        "name": "Smart Router",
+        "category": "Office Supplies",
+        "price": 2930.91,
+        "SKU": "SKU08726472",
+        "stock levels": 2811,
+        "units_solds": 4568
+    },
+    {
+        "Product ID": 387,
+        "name": "Innovative Router",
+        "category": "Travel",
+        "price": 437.26,
+        "SKU": "SKU19771858",
+        "stock levels": 8864,
+        "units_solds": 566
+    },
+    {
+        "Product ID": 388,
+        "name": "Smart Lawnmower",
+        "category": "Electronics",
+        "price": 2642.01,
+        "SKU": "SKU87760647",
+        "stock levels": 9384,
+        "units_solds": 3925
+    },
+    {
+        "Product ID": 389,
+        "name": "Ergonomic Supplement",
+        "category": "Office Supplies",
+        "price": 4268.67,
+        "SKU": "SKU03613759",
+        "stock levels": 442,
+        "units_solds": 996
+    },
+    {
+        "Product ID": 390,
+        "name": "Versatile Microwave",
+        "category": "Pet Supplies",
+        "price": 4370.22,
+        "SKU": "SKU86931540",
+        "stock levels": 8653,
+        "units_solds": 1197
+    },
+    {
+        "Product ID": 391,
+        "name": "Smart Watch",
+        "category": "Automotive",
+        "price": 4998.84,
+        "SKU": "SKU27394157",
+        "stock levels": 7765,
+        "units_solds": 2912
+    },
+    {
+        "Product ID": 392,
+        "name": "Compact Novel",
+        "category": "Home & Kitchen",
+        "price": 3014.62,
+        "SKU": "SKU48622200",
+        "stock levels": 7407,
+        "units_solds": 3110
+    },
+    {
+        "Product ID": 393,
+        "name": "High-Performance Puzzle",
+        "category": "Beauty",
+        "price": 205.36,
+        "SKU": "SKU24710618",
+        "stock levels": 3860,
+        "units_solds": 1425
+    },
+    {
+        "Product ID": 394,
+        "name": "Innovative Lawnmower",
+        "category": "Toys & Games",
+        "price": 3680.78,
+        "SKU": "SKU98298152",
+        "stock levels": 8642,
+        "units_solds": 915
+    },
+    {
+        "Product ID": 395,
+        "name": "Sleek Watch",
+        "category": "Clothing",
+        "price": 2496.39,
+        "SKU": "SKU35979944",
+        "stock levels": 2237,
+        "units_solds": 1846
+    },
+    {
+        "Product ID": 396,
+        "name": "Compact Microwave",
+        "category": "Clothing",
+        "price": 1478.16,
+        "SKU": "SKU04718195",
+        "stock levels": 4494,
+        "units_solds": 1214
+    },
+    {
+        "Product ID": 397,
+        "name": "Advanced Lawnmower",
+        "category": "Travel",
+        "price": 2688.24,
+        "SKU": "SKU68358168",
+        "stock levels": 9748,
+        "units_solds": 3602
+    },
+    {
+        "Product ID": 398,
+        "name": "Innovative Microwave",
+        "category": "Health & Personal Care",
+        "price": 3981.39,
+        "SKU": "SKU24143802",
+        "stock levels": 4822,
+        "units_solds": 2917
+    },
+    {
+        "Product ID": 399,
+        "name": "Portable Tablet",
+        "category": "Office Supplies",
+        "price": 2575.09,
+        "SKU": "SKU31231957",
+        "stock levels": 2104,
+        "units_solds": 156
+    },
+    {
+        "Product ID": 400,
+        "name": "Ergonomic Camera",
+        "category": "Home & Kitchen",
+        "price": 509.27,
+        "SKU": "SKU24751619",
+        "stock levels": 9286,
+        "units_solds": 3725
+    },
+    {
+        "Product ID": 401,
+        "name": "Reliable Puzzle",
+        "category": "Toys & Games",
+        "price": 272.68,
+        "SKU": "SKU64300163",
+        "stock levels": 889,
+        "units_solds": 2981
+    },
+    {
+        "Product ID": 402,
+        "name": "Compact Watch",
+        "category": "Pet Supplies",
+        "price": 3035.39,
+        "SKU": "SKU62305350",
+        "stock levels": 4785,
+        "units_solds": 1788
+    },
+    {
+        "Product ID": 403,
+        "name": "Innovative Camera",
+        "category": "Office Supplies",
+        "price": 662.53,
+        "SKU": "SKU82289807",
+        "stock levels": 7556,
+        "units_solds": 2090
+    },
+    {
+        "Product ID": 404,
+        "name": "Portable Watch",
+        "category": "Beauty",
+        "price": 2377.55,
+        "SKU": "SKU38427262",
+        "stock levels": 1895,
+        "units_solds": 4089
+    },
+    {
+        "Product ID": 405,
+        "name": "Sleek Tablet",
+        "category": "Books",
+        "price": 1393.68,
+        "SKU": "SKU19199586",
+        "stock levels": 8157,
+        "units_solds": 3446
+    },
+    {
+        "Product ID": 406,
+        "name": "Advanced Lawnmower",
+        "category": "Automotive",
+        "price": 2734.92,
+        "SKU": "SKU91687408",
+        "stock levels": 7074,
+        "units_solds": 3997
+    },
+    {
+        "Product ID": 407,
+        "name": "Durable Headphones",
+        "category": "Books",
+        "price": 29.25,
+        "SKU": "SKU29276015",
+        "stock levels": 6011,
+        "units_solds": 170
+    },
+    {
+        "Product ID": 408,
+        "name": "Innovative Novel",
+        "category": "Beauty",
+        "price": 2209.36,
+        "SKU": "SKU00086701",
+        "stock levels": 397,
+        "units_solds": 4429
+    },
+    {
+        "Product ID": 409,
+        "name": "Premium Tablet",
+        "category": "Pet Supplies",
+        "price": 4009.24,
+        "SKU": "SKU38271817",
+        "stock levels": 5383,
+        "units_solds": 1963
+    },
+    {
+        "Product ID": 410,
+        "name": "Sleek Puzzle",
+        "category": "Beauty",
+        "price": 208.38,
+        "SKU": "SKU42180691",
+        "stock levels": 4252,
+        "units_solds": 1496
+    },
+    {
+        "Product ID": 411,
+        "name": "Reliable Tire",
+        "category": "Clothing",
+        "price": 1964.85,
+        "SKU": "SKU54204062",
+        "stock levels": 3923,
+        "units_solds": 4062
+    },
+    {
+        "Product ID": 412,
+        "name": "High-Performance Novel",
+        "category": "Books",
+        "price": 1008.99,
+        "SKU": "SKU16492264",
+        "stock levels": 8912,
+        "units_solds": 3072
+    },
+    {
+        "Product ID": 413,
+        "name": "Modern Watch",
+        "category": "Garden & Outdoor",
+        "price": 4525.28,
+        "SKU": "SKU80066332",
+        "stock levels": 8445,
+        "units_solds": 153
+    },
+    {
+        "Product ID": 414,
+        "name": "Smart Puzzle",
+        "category": "Clothing",
+        "price": 70.55,
+        "SKU": "SKU14813095",
+        "stock levels": 6677,
+        "units_solds": 2728
+    },
+    {
+        "Product ID": 415,
+        "name": "Advanced Puzzle",
+        "category": "Sports & Outdoors",
+        "price": 1358.81,
+        "SKU": "SKU29543857",
+        "stock levels": 120,
+        "units_solds": 3310
+    },
+    {
+        "Product ID": 416,
+        "name": "Innovative Camera",
+        "category": "Pet Supplies",
+        "price": 2060.78,
+        "SKU": "SKU26992870",
+        "stock levels": 8882,
+        "units_solds": 4064
+    },
+    {
+        "Product ID": 417,
+        "name": "Compact Tire",
+        "category": "Electronics",
+        "price": 4808.33,
+        "SKU": "SKU42011531",
+        "stock levels": 1142,
+        "units_solds": 3912
+    },
+    {
+        "Product ID": 418,
+        "name": "Premium Lawnmower",
+        "category": "Home & Kitchen",
+        "price": 1684.17,
+        "SKU": "SKU65940080",
+        "stock levels": 8571,
+        "units_solds": 2814
+    },
+    {
+        "Product ID": 419,
+        "name": "Advanced Shirt",
+        "category": "Toys & Games",
+        "price": 4289.73,
+        "SKU": "SKU22422017",
+        "stock levels": 4206,
+        "units_solds": 4974
+    },
+    {
+        "Product ID": 420,
+        "name": "High-Performance Puzzle",
+        "category": "Music",
+        "price": 3007.01,
+        "SKU": "SKU09699519",
+        "stock levels": 4970,
+        "units_solds": 4749
+    },
+    {
+        "Product ID": 421,
+        "name": "Modern Drone",
+        "category": "Home & Kitchen",
+        "price": 3597.48,
+        "SKU": "SKU99662525",
+        "stock levels": 4370,
+        "units_solds": 1327
+    },
+    {
+        "Product ID": 422,
+        "name": "Smart Puzzle",
+        "category": "Music",
+        "price": 143.51,
+        "SKU": "SKU44222877",
+        "stock levels": 2782,
+        "units_solds": 188
+    },
+    {
+        "Product ID": 423,
+        "name": "Stylish Headphones",
+        "category": "Automotive",
+        "price": 1000.65,
+        "SKU": "SKU77022519",
+        "stock levels": 9428,
+        "units_solds": 2229
+    },
+    {
+        "Product ID": 424,
+        "name": "Ergonomic Backpack",
+        "category": "Music",
+        "price": 3399.46,
+        "SKU": "SKU42221402",
+        "stock levels": 8399,
+        "units_solds": 1583
+    },
+    {
+        "Product ID": 425,
+        "name": "Reliable Speaker",
+        "category": "Books",
+        "price": 3157.94,
+        "SKU": "SKU96085239",
+        "stock levels": 5246,
+        "units_solds": 2500
+    },
+    {
+        "Product ID": 426,
+        "name": "Sleek Novel",
+        "category": "Toys & Games",
+        "price": 299.27,
+        "SKU": "SKU72317629",
+        "stock levels": 5528,
+        "units_solds": 4220
+    },
+    {
+        "Product ID": 427,
+        "name": "Stylish Microwave",
+        "category": "Electronics",
+        "price": 2409.5,
+        "SKU": "SKU87864553",
+        "stock levels": 1382,
+        "units_solds": 3631
+    },
+    {
+        "Product ID": 428,
+        "name": "Durable Headphones",
+        "category": "Video Games",
+        "price": 3377.95,
+        "SKU": "SKU72360656",
+        "stock levels": 5916,
+        "units_solds": 1633
+    },
+    {
+        "Product ID": 429,
+        "name": "Smart Tablet",
+        "category": "Pet Supplies",
+        "price": 2974.43,
+        "SKU": "SKU40215653",
+        "stock levels": 6406,
+        "units_solds": 42
+    },
+    {
+        "Product ID": 430,
+        "name": "Eco-friendly Lawnmower",
+        "category": "Garden & Outdoor",
+        "price": 4898.04,
+        "SKU": "SKU33052035",
+        "stock levels": 2888,
+        "units_solds": 2513
+    },
+    {
+        "Product ID": 431,
+        "name": "Eco-friendly Drone",
+        "category": "Electronics",
+        "price": 146.44,
+        "SKU": "SKU64999659",
+        "stock levels": 3119,
+        "units_solds": 2619
+    },
+    {
+        "Product ID": 432,
+        "name": "Portable Tire",
+        "category": "Electronics",
+        "price": 4233.91,
+        "SKU": "SKU24845289",
+        "stock levels": 1025,
+        "units_solds": 3905
+    },
+    {
+        "Product ID": 433,
+        "name": "Stylish Tire",
+        "category": "Toys & Games",
+        "price": 146.93,
+        "SKU": "SKU53713747",
+        "stock levels": 719,
+        "units_solds": 3064
+    },
+    {
+        "Product ID": 434,
+        "name": "Innovative Drone",
+        "category": "Books",
+        "price": 4476.76,
+        "SKU": "SKU65123079",
+        "stock levels": 9509,
+        "units_solds": 2295
+    },
+    {
+        "Product ID": 435,
+        "name": "Reliable Printer",
+        "category": "Video Games",
+        "price": 3159.95,
+        "SKU": "SKU37395731",
+        "stock levels": 9913,
+        "units_solds": 1772
+    },
+    {
+        "Product ID": 436,
+        "name": "Sleek Headphones",
+        "category": "Sports & Outdoors",
+        "price": 868.23,
+        "SKU": "SKU98973143",
+        "stock levels": 1607,
+        "units_solds": 2209
+    },
+    {
+        "Product ID": 437,
+        "name": "Versatile Router",
+        "category": "Clothing",
+        "price": 2998.4,
+        "SKU": "SKU80934484",
+        "stock levels": 7800,
+        "units_solds": 4466
+    },
+    {
+        "Product ID": 438,
+        "name": "Sleek Blender",
+        "category": "Sports & Outdoors",
+        "price": 786.2,
+        "SKU": "SKU54911716",
+        "stock levels": 5266,
+        "units_solds": 2127
+    },
+    {
+        "Product ID": 439,
+        "name": "Portable Lawnmower",
+        "category": "Health & Personal Care",
+        "price": 231.79,
+        "SKU": "SKU04445082",
+        "stock levels": 7482,
+        "units_solds": 260
+    },
+    {
+        "Product ID": 440,
+        "name": "Durable Printer",
+        "category": "Beauty",
+        "price": 3057.91,
+        "SKU": "SKU62759361",
+        "stock levels": 2990,
+        "units_solds": 2917
+    },
+    {
+        "Product ID": 441,
+        "name": "Innovative Watch",
+        "category": "Home & Kitchen",
+        "price": 891.1,
+        "SKU": "SKU47776481",
+        "stock levels": 97,
+        "units_solds": 3747
+    },
+    {
+        "Product ID": 442,
+        "name": "Durable Watch",
+        "category": "Electronics",
+        "price": 676.58,
+        "SKU": "SKU28233286",
+        "stock levels": 7923,
+        "units_solds": 1291
+    },
+    {
+        "Product ID": 443,
+        "name": "Modern Watch",
+        "category": "Video Games",
+        "price": 327.54,
+        "SKU": "SKU44492227",
+        "stock levels": 43,
+        "units_solds": 2904
+    },
+    {
+        "Product ID": 444,
+        "name": "Portable Backpack",
+        "category": "Automotive",
+        "price": 1833.84,
+        "SKU": "SKU48274459",
+        "stock levels": 391,
+        "units_solds": 4203
+    },
+    {
+        "Product ID": 445,
+        "name": "High-Performance Lipstick",
+        "category": "Books",
+        "price": 4246.77,
+        "SKU": "SKU79266229",
+        "stock levels": 8313,
+        "units_solds": 4648
+    },
+    {
+        "Product ID": 446,
+        "name": "Eco-friendly Tablet",
+        "category": "Garden & Outdoor",
+        "price": 228.08,
+        "SKU": "SKU20847375",
+        "stock levels": 73,
+        "units_solds": 209
+    },
+    {
+        "Product ID": 447,
+        "name": "Advanced Speaker",
+        "category": "Travel",
+        "price": 1361.78,
+        "SKU": "SKU92924862",
+        "stock levels": 3112,
+        "units_solds": 1209
+    },
+    {
+        "Product ID": 448,
+        "name": "Sleek Novel",
+        "category": "Electronics",
+        "price": 1658.08,
+        "SKU": "SKU44777871",
+        "stock levels": 4902,
+        "units_solds": 3475
+    },
+    {
+        "Product ID": 449,
+        "name": "Advanced Lawnmower",
+        "category": "Travel",
+        "price": 99.54,
+        "SKU": "SKU19381906",
+        "stock levels": 3615,
+        "units_solds": 4479
+    },
+    {
+        "Product ID": 450,
+        "name": "Versatile Monitor",
+        "category": "Video Games",
+        "price": 4076.78,
+        "SKU": "SKU33855017",
+        "stock levels": 3634,
+        "units_solds": 1885
+    },
+    {
+        "Product ID": 451,
+        "name": "Innovative Puzzle",
+        "category": "Garden & Outdoor",
+        "price": 605.33,
+        "SKU": "SKU11234319",
+        "stock levels": 5730,
+        "units_solds": 2969
+    },
+    {
+        "Product ID": 452,
+        "name": "Sleek Lawnmower",
+        "category": "Office Supplies",
+        "price": 4340.76,
+        "SKU": "SKU83558098",
+        "stock levels": 3324,
+        "units_solds": 734
+    },
+    {
+        "Product ID": 453,
+        "name": "Reliable Blender",
+        "category": "Sports & Outdoors",
+        "price": 2254.62,
+        "SKU": "SKU18428319",
+        "stock levels": 811,
+        "units_solds": 1256
+    },
+    {
+        "Product ID": 454,
+        "name": "Stylish Supplement",
+        "category": "Clothing",
+        "price": 1520.92,
+        "SKU": "SKU77898861",
+        "stock levels": 7925,
+        "units_solds": 1926
+    },
+    {
+        "Product ID": 455,
+        "name": "Eco-friendly Tablet",
+        "category": "Sports & Outdoors",
+        "price": 4783.89,
+        "SKU": "SKU19186151",
+        "stock levels": 2049,
+        "units_solds": 4728
+    },
+    {
+        "Product ID": 456,
+        "name": "Sleek Camera",
+        "category": "Automotive",
+        "price": 271.09,
+        "SKU": "SKU11975677",
+        "stock levels": 3601,
+        "units_solds": 1281
+    },
+    {
+        "Product ID": 457,
+        "name": "Stylish Tablet",
+        "category": "Electronics",
+        "price": 486.98,
+        "SKU": "SKU85905932",
+        "stock levels": 7796,
+        "units_solds": 3570
+    },
+    {
+        "Product ID": 458,
+        "name": "Versatile Router",
+        "category": "Video Games",
+        "price": 1681.13,
+        "SKU": "SKU12775110",
+        "stock levels": 7161,
+        "units_solds": 4698
+    },
+    {
+        "Product ID": 459,
+        "name": "Eco-friendly Novel",
+        "category": "Video Games",
+        "price": 1233.78,
+        "SKU": "SKU05177491",
+        "stock levels": 6718,
+        "units_solds": 705
+    },
+    {
+        "Product ID": 460,
+        "name": "Versatile Watch",
+        "category": "Music",
+        "price": 3974.83,
+        "SKU": "SKU12926362",
+        "stock levels": 1291,
+        "units_solds": 1622
+    },
+    {
+        "Product ID": 461,
+        "name": "Durable Router",
+        "category": "Music",
+        "price": 869.05,
+        "SKU": "SKU29948117",
+        "stock levels": 2885,
+        "units_solds": 1508
+    },
+    {
+        "Product ID": 462,
+        "name": "Smart Monitor",
+        "category": "Books",
+        "price": 2889.18,
+        "SKU": "SKU48695418",
+        "stock levels": 50,
+        "units_solds": 4545
+    },
+    {
+        "Product ID": 463,
+        "name": "Versatile Lipstick",
+        "category": "Health & Personal Care",
+        "price": 3273.53,
+        "SKU": "SKU90842586",
+        "stock levels": 3576,
+        "units_solds": 3397
+    },
+    {
+        "Product ID": 464,
+        "name": "Stylish Puzzle",
+        "category": "Books",
+        "price": 391.69,
+        "SKU": "SKU79999100",
+        "stock levels": 110,
+        "units_solds": 4468
+    },
+    {
+        "Product ID": 465,
+        "name": "High-Performance Novel",
+        "category": "Books",
+        "price": 4404.41,
+        "SKU": "SKU32093570",
+        "stock levels": 3991,
+        "units_solds": 3372
+    },
+    {
+        "Product ID": 466,
+        "name": "Eco-friendly Router",
+        "category": "Music",
+        "price": 2224.1,
+        "SKU": "SKU27999030",
+        "stock levels": 4902,
+        "units_solds": 3448
+    },
+    {
+        "Product ID": 467,
+        "name": "Premium Lawnmower",
+        "category": "Travel",
+        "price": 2577.53,
+        "SKU": "SKU66279018",
+        "stock levels": 6531,
+        "units_solds": 1347
+    },
+    {
+        "Product ID": 468,
+        "name": "Portable Printer",
+        "category": "Sports & Outdoors",
+        "price": 1055.66,
+        "SKU": "SKU10620464",
+        "stock levels": 8851,
+        "units_solds": 4592
+    },
+    {
+        "Product ID": 469,
+        "name": "High-Performance Printer",
+        "category": "Health & Personal Care",
+        "price": 941.61,
+        "SKU": "SKU25089744",
+        "stock levels": 7967,
+        "units_solds": 4866
+    },
+    {
+        "Product ID": 470,
+        "name": "Portable Backpack",
+        "category": "Automotive",
+        "price": 4561.34,
+        "SKU": "SKU00587866",
+        "stock levels": 6465,
+        "units_solds": 2131
+    },
+    {
+        "Product ID": 471,
+        "name": "Portable Backpack",
+        "category": "Video Games",
+        "price": 4047.08,
+        "SKU": "SKU59011733",
+        "stock levels": 3394,
+        "units_solds": 3383
+    },
+    {
+        "Product ID": 472,
+        "name": "Stylish Drone",
+        "category": "Clothing",
+        "price": 1298.48,
+        "SKU": "SKU23326807",
+        "stock levels": 4769,
+        "units_solds": 1534
+    },
+    {
+        "Product ID": 473,
+        "name": "Eco-friendly Router",
+        "category": "Toys & Games",
+        "price": 1329.53,
+        "SKU": "SKU91704551",
+        "stock levels": 4658,
+        "units_solds": 2939
+    },
+    {
+        "Product ID": 474,
+        "name": "Portable Novel",
+        "category": "Garden & Outdoor",
+        "price": 4187.32,
+        "SKU": "SKU61405087",
+        "stock levels": 7916,
+        "units_solds": 4433
+    },
+    {
+        "Product ID": 475,
+        "name": "Smart Watch",
+        "category": "Pet Supplies",
+        "price": 1699.05,
+        "SKU": "SKU48046630",
+        "stock levels": 4158,
+        "units_solds": 3558
+    },
+    {
+        "Product ID": 476,
+        "name": "Versatile Lawnmower",
+        "category": "Beauty",
+        "price": 168.38,
+        "SKU": "SKU12351931",
+        "stock levels": 7393,
+        "units_solds": 2860
+    },
+    {
+        "Product ID": 477,
+        "name": "Advanced Shirt",
+        "category": "Home & Kitchen",
+        "price": 2445.11,
+        "SKU": "SKU50266486",
+        "stock levels": 5381,
+        "units_solds": 3035
+    },
+    {
+        "Product ID": 478,
+        "name": "Modern Microwave",
+        "category": "Clothing",
+        "price": 4969.92,
+        "SKU": "SKU14979820",
+        "stock levels": 7280,
+        "units_solds": 4792
+    },
+    {
+        "Product ID": 479,
+        "name": "Smart Printer",
+        "category": "Clothing",
+        "price": 127.15,
+        "SKU": "SKU43806266",
+        "stock levels": 2007,
+        "units_solds": 5
+    },
+    {
+        "Product ID": 480,
+        "name": "Smart Watch",
+        "category": "Home & Kitchen",
+        "price": 4170.01,
+        "SKU": "SKU75939786",
+        "stock levels": 6941,
+        "units_solds": 2297
+    },
+    {
+        "Product ID": 481,
+        "name": "Smart Drone",
+        "category": "Books",
+        "price": 4190.28,
+        "SKU": "SKU77650672",
+        "stock levels": 8623,
+        "units_solds": 1953
+    },
+    {
+        "Product ID": 482,
+        "name": "Stylish Monitor",
+        "category": "Health & Personal Care",
+        "price": 3141.89,
+        "SKU": "SKU64789511",
+        "stock levels": 1111,
+        "units_solds": 3333
+    },
+    {
+        "Product ID": 483,
+        "name": "Versatile Supplement",
+        "category": "Sports & Outdoors",
+        "price": 2211.63,
+        "SKU": "SKU45957748",
+        "stock levels": 8188,
+        "units_solds": 2849
+    },
+    {
+        "Product ID": 484,
+        "name": "Sleek Tire",
+        "category": "Automotive",
+        "price": 4649.03,
+        "SKU": "SKU57572649",
+        "stock levels": 2665,
+        "units_solds": 4887
+    },
+    {
+        "Product ID": 485,
+        "name": "Compact Drone",
+        "category": "Garden & Outdoor",
+        "price": 413.01,
+        "SKU": "SKU17683122",
+        "stock levels": 5717,
+        "units_solds": 1718
+    },
+    {
+        "Product ID": 486,
+        "name": "Reliable Router",
+        "category": "Travel",
+        "price": 642.5,
+        "SKU": "SKU11318948",
+        "stock levels": 646,
+        "units_solds": 2946
+    },
+    {
+        "Product ID": 487,
+        "name": "Versatile Tablet",
+        "category": "Pet Supplies",
+        "price": 1825.9,
+        "SKU": "SKU47991061",
+        "stock levels": 5056,
+        "units_solds": 1646
+    },
+    {
+        "Product ID": 488,
+        "name": "Innovative Tablet",
+        "category": "Health & Personal Care",
+        "price": 3959.9,
+        "SKU": "SKU47074518",
+        "stock levels": 7245,
+        "units_solds": 2864
+    },
+    {
+        "Product ID": 489,
+        "name": "Sleek Blender",
+        "category": "Travel",
+        "price": 132.77,
+        "SKU": "SKU83034935",
+        "stock levels": 8654,
+        "units_solds": 741
+    },
+    {
+        "Product ID": 490,
+        "name": "Modern Watch",
+        "category": "Sports & Outdoors",
+        "price": 3416.5,
+        "SKU": "SKU61324139",
+        "stock levels": 5589,
+        "units_solds": 1275
+    },
+    {
+        "Product ID": 491,
+        "name": "Stylish Watch",
+        "category": "Video Games",
+        "price": 2165.97,
+        "SKU": "SKU80642251",
+        "stock levels": 6767,
+        "units_solds": 4455
+    },
+    {
+        "Product ID": 492,
+        "name": "High-Performance Printer",
+        "category": "Garden & Outdoor",
+        "price": 3805.15,
+        "SKU": "SKU84693358",
+        "stock levels": 804,
+        "units_solds": 3686
+    },
+    {
+        "Product ID": 493,
+        "name": "Stylish Tire",
+        "category": "Clothing",
+        "price": 3982.34,
+        "SKU": "SKU38037113",
+        "stock levels": 1060,
+        "units_solds": 548
+    },
+    {
+        "Product ID": 494,
+        "name": "Modern Speaker",
+        "category": "Travel",
+        "price": 1389.9,
+        "SKU": "SKU86633176",
+        "stock levels": 1448,
+        "units_solds": 348
+    },
+    {
+        "Product ID": 495,
+        "name": "Ergonomic Puzzle",
+        "category": "Books",
+        "price": 3666.67,
+        "SKU": "SKU05608501",
+        "stock levels": 1928,
+        "units_solds": 2425
+    },
+    {
+        "Product ID": 496,
+        "name": "Sleek Novel",
+        "category": "Automotive",
+        "price": 760.46,
+        "SKU": "SKU27518418",
+        "stock levels": 4575,
+        "units_solds": 212
+    },
+    {
+        "Product ID": 497,
+        "name": "Portable Tablet",
+        "category": "Automotive",
+        "price": 2336.5,
+        "SKU": "SKU41178538",
+        "stock levels": 8173,
+        "units_solds": 3481
+    },
+    {
+        "Product ID": 498,
+        "name": "Reliable Shirt",
+        "category": "Toys & Games",
+        "price": 4620.59,
+        "SKU": "SKU50291557",
+        "stock levels": 930,
+        "units_solds": 3900
+    },
+    {
+        "Product ID": 499,
+        "name": "Portable Camera",
+        "category": "Books",
+        "price": 3227.65,
+        "SKU": "SKU47215687",
+        "stock levels": 2032,
+        "units_solds": 1556
+    },
+    {
+        "Product ID": 500,
+        "name": "Modern Lipstick",
+        "category": "Books",
+        "price": 3170.98,
+        "SKU": "SKU07369202",
+        "stock levels": 7671,
+        "units_solds": 2899
+    },
+    {
+        "Product ID": 501,
+        "name": "Reliable Lawnmower",
+        "category": "Garden & Outdoor",
+        "price": 1608.28,
+        "SKU": "SKU22186036",
+        "stock levels": 5384,
+        "units_solds": 4429
+    },
+    {
+        "Product ID": 502,
+        "name": "Modern Watch",
+        "category": "Home & Kitchen",
+        "price": 4275.94,
+        "SKU": "SKU47485268",
+        "stock levels": 4254,
+        "units_solds": 4196
+    },
+    {
+        "Product ID": 503,
+        "name": "Durable Shirt",
+        "category": "Electronics",
+        "price": 2522.21,
+        "SKU": "SKU57018124",
+        "stock levels": 2226,
+        "units_solds": 4022
+    },
+    {
+        "Product ID": 504,
+        "name": "Ergonomic Camera",
+        "category": "Electronics",
+        "price": 487.04,
+        "SKU": "SKU10198782",
+        "stock levels": 7170,
+        "units_solds": 243
+    },
+    {
+        "Product ID": 505,
+        "name": "Advanced Novel",
+        "category": "Electronics",
+        "price": 1707.04,
+        "SKU": "SKU64379338",
+        "stock levels": 546,
+        "units_solds": 3857
+    },
+    {
+        "Product ID": 506,
+        "name": "Innovative Lawnmower",
+        "category": "Health & Personal Care",
+        "price": 2250.89,
+        "SKU": "SKU99642339",
+        "stock levels": 5799,
+        "units_solds": 3926
+    },
+    {
+        "Product ID": 507,
+        "name": "Reliable Supplement",
+        "category": "Sports & Outdoors",
+        "price": 4469.1,
+        "SKU": "SKU84688535",
+        "stock levels": 8332,
+        "units_solds": 42
+    },
+    {
+        "Product ID": 508,
+        "name": "Versatile Watch",
+        "category": "Automotive",
+        "price": 1937.01,
+        "SKU": "SKU54682108",
+        "stock levels": 4802,
+        "units_solds": 1917
+    },
+    {
+        "Product ID": 509,
+        "name": "Modern Monitor",
+        "category": "Office Supplies",
+        "price": 1831.58,
+        "SKU": "SKU81323700",
+        "stock levels": 7014,
+        "units_solds": 4321
+    },
+    {
+        "Product ID": 510,
+        "name": "Innovative Lawnmower",
+        "category": "Beauty",
+        "price": 2846.57,
+        "SKU": "SKU79464738",
+        "stock levels": 2007,
+        "units_solds": 1861
+    },
+    {
+        "Product ID": 511,
+        "name": "Durable Microwave",
+        "category": "Video Games",
+        "price": 4540.28,
+        "SKU": "SKU45303528",
+        "stock levels": 8381,
+        "units_solds": 4063
+    },
+    {
+        "Product ID": 512,
+        "name": "Smart Tire",
+        "category": "Garden & Outdoor",
+        "price": 1152.18,
+        "SKU": "SKU12742152",
+        "stock levels": 1838,
+        "units_solds": 4850
+    },
+    {
+        "Product ID": 513,
+        "name": "High-Performance Watch",
+        "category": "Video Games",
+        "price": 2334.46,
+        "SKU": "SKU85906348",
+        "stock levels": 1894,
+        "units_solds": 4351
+    },
+    {
+        "Product ID": 514,
+        "name": "Smart Drone",
+        "category": "Home & Kitchen",
+        "price": 2029.75,
+        "SKU": "SKU35065884",
+        "stock levels": 9308,
+        "units_solds": 1544
+    },
+    {
+        "Product ID": 515,
+        "name": "Innovative Tablet",
+        "category": "Office Supplies",
+        "price": 1963.14,
+        "SKU": "SKU11339475",
+        "stock levels": 9552,
+        "units_solds": 3915
+    },
+    {
+        "Product ID": 516,
+        "name": "Modern Chair",
+        "category": "Books",
+        "price": 2825.84,
+        "SKU": "SKU28734180",
+        "stock levels": 9744,
+        "units_solds": 225
+    },
+    {
+        "Product ID": 517,
+        "name": "Durable Novel",
+        "category": "Office Supplies",
+        "price": 1827.2,
+        "SKU": "SKU04045975",
+        "stock levels": 9614,
+        "units_solds": 3008
+    },
+    {
+        "Product ID": 518,
+        "name": "Ergonomic Lipstick",
+        "category": "Clothing",
+        "price": 2985.84,
+        "SKU": "SKU88649978",
+        "stock levels": 2272,
+        "units_solds": 53
+    },
+    {
+        "Product ID": 519,
+        "name": "Portable Puzzle",
+        "category": "Music",
+        "price": 1261.73,
+        "SKU": "SKU18158449",
+        "stock levels": 1106,
+        "units_solds": 3607
+    },
+    {
+        "Product ID": 520,
+        "name": "Versatile Backpack",
+        "category": "Beauty",
+        "price": 3637.17,
+        "SKU": "SKU43073900",
+        "stock levels": 3572,
+        "units_solds": 1268
+    },
+    {
+        "Product ID": 521,
+        "name": "Eco-friendly Tire",
+        "category": "Clothing",
+        "price": 4268.38,
+        "SKU": "SKU62488050",
+        "stock levels": 3462,
+        "units_solds": 3180
+    },
+    {
+        "Product ID": 522,
+        "name": "Advanced Monitor",
+        "category": "Music",
+        "price": 345.63,
+        "SKU": "SKU55401767",
+        "stock levels": 4537,
+        "units_solds": 4898
+    },
+    {
+        "Product ID": 523,
+        "name": "Eco-friendly Monitor",
+        "category": "Beauty",
+        "price": 1849.8,
+        "SKU": "SKU04700952",
+        "stock levels": 940,
+        "units_solds": 1036
+    },
+    {
+        "Product ID": 524,
+        "name": "Stylish Printer",
+        "category": "Clothing",
+        "price": 3059.73,
+        "SKU": "SKU21019941",
+        "stock levels": 7826,
+        "units_solds": 976
+    },
+    {
+        "Product ID": 525,
+        "name": "Portable Backpack",
+        "category": "Travel",
+        "price": 4405.77,
+        "SKU": "SKU47449210",
+        "stock levels": 8282,
+        "units_solds": 643
+    },
+    {
+        "Product ID": 526,
+        "name": "Premium Printer",
+        "category": "Video Games",
+        "price": 4583.53,
+        "SKU": "SKU15651995",
+        "stock levels": 6633,
+        "units_solds": 2860
+    },
+    {
+        "Product ID": 527,
+        "name": "Modern Chair",
+        "category": "Home & Kitchen",
+        "price": 3780.39,
+        "SKU": "SKU18817802",
+        "stock levels": 8731,
+        "units_solds": 54
+    },
+    {
+        "Product ID": 528,
+        "name": "Innovative Lipstick",
+        "category": "Health & Personal Care",
+        "price": 414.29,
+        "SKU": "SKU11948482",
+        "stock levels": 6662,
+        "units_solds": 2780
+    },
+    {
+        "Product ID": 529,
+        "name": "Innovative Router",
+        "category": "Pet Supplies",
+        "price": 2084.55,
+        "SKU": "SKU10636580",
+        "stock levels": 1708,
+        "units_solds": 3711
+    },
+    {
+        "Product ID": 530,
+        "name": "Ergonomic Microwave",
+        "category": "Books",
+        "price": 3378.02,
+        "SKU": "SKU76404606",
+        "stock levels": 7310,
+        "units_solds": 175
+    },
+    {
+        "Product ID": 531,
+        "name": "Ergonomic Chair",
+        "category": "Books",
+        "price": 4214.63,
+        "SKU": "SKU19223010",
+        "stock levels": 2724,
+        "units_solds": 2510
+    },
+    {
+        "Product ID": 532,
+        "name": "High-Performance Tablet",
+        "category": "Office Supplies",
+        "price": 4457.61,
+        "SKU": "SKU11153119",
+        "stock levels": 1527,
+        "units_solds": 2965
+    },
+    {
+        "Product ID": 533,
+        "name": "Advanced Lipstick",
+        "category": "Pet Supplies",
+        "price": 4443.28,
+        "SKU": "SKU66013551",
+        "stock levels": 4113,
+        "units_solds": 1469
+    },
+    {
+        "Product ID": 534,
+        "name": "Stylish Novel",
+        "category": "Toys & Games",
+        "price": 1804.32,
+        "SKU": "SKU50012831",
+        "stock levels": 4224,
+        "units_solds": 454
+    },
+    {
+        "Product ID": 535,
+        "name": "Innovative Novel",
+        "category": "Pet Supplies",
+        "price": 4006.55,
+        "SKU": "SKU83140295",
+        "stock levels": 7366,
+        "units_solds": 1931
+    },
+    {
+        "Product ID": 536,
+        "name": "Durable Tablet",
+        "category": "Video Games",
+        "price": 3234.15,
+        "SKU": "SKU15728458",
+        "stock levels": 2167,
+        "units_solds": 1015
+    },
+    {
+        "Product ID": 537,
+        "name": "Portable Tablet",
+        "category": "Books",
+        "price": 2703.86,
+        "SKU": "SKU78114526",
+        "stock levels": 1116,
+        "units_solds": 3592
+    },
+    {
+        "Product ID": 538,
+        "name": "Eco-friendly Printer",
+        "category": "Books",
+        "price": 3580.07,
+        "SKU": "SKU94585618",
+        "stock levels": 2709,
+        "units_solds": 1547
+    },
+    {
+        "Product ID": 539,
+        "name": "Sleek Drone",
+        "category": "Automotive",
+        "price": 709.1,
+        "SKU": "SKU64986776",
+        "stock levels": 7352,
+        "units_solds": 3495
+    },
+    {
+        "Product ID": 540,
+        "name": "Advanced Novel",
+        "category": "Home & Kitchen",
+        "price": 266.73,
+        "SKU": "SKU33667725",
+        "stock levels": 6107,
+        "units_solds": 1662
+    },
+    {
+        "Product ID": 541,
+        "name": "Reliable Headphones",
+        "category": "Automotive",
+        "price": 334.07,
+        "SKU": "SKU66561185",
+        "stock levels": 1732,
+        "units_solds": 3205
+    },
+    {
+        "Product ID": 542,
+        "name": "Compact Puzzle",
+        "category": "Pet Supplies",
+        "price": 2539.56,
+        "SKU": "SKU84411589",
+        "stock levels": 6947,
+        "units_solds": 4137
+    },
+    {
+        "Product ID": 543,
+        "name": "Advanced Microwave",
+        "category": "Electronics",
+        "price": 4211.05,
+        "SKU": "SKU76804857",
+        "stock levels": 3587,
+        "units_solds": 4820
+    },
+    {
+        "Product ID": 544,
+        "name": "Durable Lawnmower",
+        "category": "Video Games",
+        "price": 3167.33,
+        "SKU": "SKU86342206",
+        "stock levels": 2969,
+        "units_solds": 3528
+    },
+    {
+        "Product ID": 545,
+        "name": "Durable Chair",
+        "category": "Books",
+        "price": 4088.98,
+        "SKU": "SKU06329413",
+        "stock levels": 514,
+        "units_solds": 756
+    },
+    {
+        "Product ID": 546,
+        "name": "Stylish Router",
+        "category": "Automotive",
+        "price": 3184.01,
+        "SKU": "SKU38500693",
+        "stock levels": 9558,
+        "units_solds": 1534
+    },
+    {
+        "Product ID": 547,
+        "name": "High-Performance Backpack",
+        "category": "Sports & Outdoors",
+        "price": 3167.34,
+        "SKU": "SKU14114538",
+        "stock levels": 236,
+        "units_solds": 4328
+    },
+    {
+        "Product ID": 548,
+        "name": "Compact Tablet",
+        "category": "Beauty",
+        "price": 2124.48,
+        "SKU": "SKU72861608",
+        "stock levels": 7486,
+        "units_solds": 2580
+    },
+    {
+        "Product ID": 549,
+        "name": "Premium Speaker",
+        "category": "Electronics",
+        "price": 1785.36,
+        "SKU": "SKU21184326",
+        "stock levels": 6639,
+        "units_solds": 1636
+    },
+    {
+        "Product ID": 550,
+        "name": "Portable Tablet",
+        "category": "Sports & Outdoors",
+        "price": 1354.99,
+        "SKU": "SKU78459877",
+        "stock levels": 8044,
+        "units_solds": 4945
+    },
+    {
+        "Product ID": 551,
+        "name": "Premium Headphones",
+        "category": "Video Games",
+        "price": 603.54,
+        "SKU": "SKU81291822",
+        "stock levels": 1407,
+        "units_solds": 2678
+    },
+    {
+        "Product ID": 552,
+        "name": "Eco-friendly Microwave",
+        "category": "Health & Personal Care",
+        "price": 4208.25,
+        "SKU": "SKU48724019",
+        "stock levels": 4301,
+        "units_solds": 3643
+    },
+    {
+        "Product ID": 553,
+        "name": "Innovative Tire",
+        "category": "Sports & Outdoors",
+        "price": 1852.58,
+        "SKU": "SKU76127571",
+        "stock levels": 1134,
+        "units_solds": 299
+    },
+    {
+        "Product ID": 554,
+        "name": "Reliable Tire",
+        "category": "Health & Personal Care",
+        "price": 2507.5,
+        "SKU": "SKU13143835",
+        "stock levels": 2438,
+        "units_solds": 4126
+    },
+    {
+        "Product ID": 555,
+        "name": "Eco-friendly Tablet",
+        "category": "Automotive",
+        "price": 4470.71,
+        "SKU": "SKU76646644",
+        "stock levels": 7653,
+        "units_solds": 4870
+    },
+    {
+        "Product ID": 556,
+        "name": "Ergonomic Puzzle",
+        "category": "Beauty",
+        "price": 2260.6,
+        "SKU": "SKU15935043",
+        "stock levels": 2718,
+        "units_solds": 2694
+    },
+    {
+        "Product ID": 557,
+        "name": "Premium Speaker",
+        "category": "Toys & Games",
+        "price": 2610.05,
+        "SKU": "SKU68438529",
+        "stock levels": 490,
+        "units_solds": 3259
+    },
+    {
+        "Product ID": 558,
+        "name": "Premium Lipstick",
+        "category": "Books",
+        "price": 3763.65,
+        "SKU": "SKU73005008",
+        "stock levels": 9359,
+        "units_solds": 1258
+    },
+    {
+        "Product ID": 559,
+        "name": "Smart Tire",
+        "category": "Home & Kitchen",
+        "price": 1957.33,
+        "SKU": "SKU78808128",
+        "stock levels": 6066,
+        "units_solds": 3061
+    },
+    {
+        "Product ID": 560,
+        "name": "Ergonomic Camera",
+        "category": "Health & Personal Care",
+        "price": 2046.48,
+        "SKU": "SKU15058429",
+        "stock levels": 5543,
+        "units_solds": 4695
+    },
+    {
+        "Product ID": 561,
+        "name": "Smart Printer",
+        "category": "Automotive",
+        "price": 704.73,
+        "SKU": "SKU00722235",
+        "stock levels": 6020,
+        "units_solds": 3497
+    },
+    {
+        "Product ID": 562,
+        "name": "High-Performance Blender",
+        "category": "Garden & Outdoor",
+        "price": 2623.46,
+        "SKU": "SKU74034490",
+        "stock levels": 8700,
+        "units_solds": 3942
+    },
+    {
+        "Product ID": 563,
+        "name": "Premium Lipstick",
+        "category": "Electronics",
+        "price": 2818.07,
+        "SKU": "SKU53161568",
+        "stock levels": 3097,
+        "units_solds": 1596
+    },
+    {
+        "Product ID": 564,
+        "name": "Innovative Backpack",
+        "category": "Garden & Outdoor",
+        "price": 4416.62,
+        "SKU": "SKU79249187",
+        "stock levels": 1577,
+        "units_solds": 3434
+    },
+    {
+        "Product ID": 565,
+        "name": "Compact Monitor",
+        "category": "Clothing",
+        "price": 1340.5,
+        "SKU": "SKU41276886",
+        "stock levels": 109,
+        "units_solds": 4656
+    },
+    {
+        "Product ID": 566,
+        "name": "Sleek Backpack",
+        "category": "Toys & Games",
+        "price": 3598.84,
+        "SKU": "SKU72040421",
+        "stock levels": 2535,
+        "units_solds": 2800
+    },
+    {
+        "Product ID": 567,
+        "name": "Smart Tire",
+        "category": "Sports & Outdoors",
+        "price": 3898.22,
+        "SKU": "SKU11759743",
+        "stock levels": 6512,
+        "units_solds": 1969
+    },
+    {
+        "Product ID": 568,
+        "name": "Ergonomic Headphones",
+        "category": "Beauty",
+        "price": 2839.93,
+        "SKU": "SKU97863990",
+        "stock levels": 1014,
+        "units_solds": 2466
+    },
+    {
+        "Product ID": 569,
+        "name": "Portable Microwave",
+        "category": "Clothing",
+        "price": 1884.7,
+        "SKU": "SKU08102612",
+        "stock levels": 9225,
+        "units_solds": 1810
+    },
+    {
+        "Product ID": 570,
+        "name": "Ergonomic Printer",
+        "category": "Office Supplies",
+        "price": 1741.26,
+        "SKU": "SKU96519847",
+        "stock levels": 3677,
+        "units_solds": 285
+    },
+    {
+        "Product ID": 571,
+        "name": "Compact Watch",
+        "category": "Toys & Games",
+        "price": 410.46,
+        "SKU": "SKU17506208",
+        "stock levels": 9628,
+        "units_solds": 4057
+    },
+    {
+        "Product ID": 572,
+        "name": "Portable Lipstick",
+        "category": "Beauty",
+        "price": 3575.21,
+        "SKU": "SKU43428494",
+        "stock levels": 2592,
+        "units_solds": 3530
+    },
+    {
+        "Product ID": 573,
+        "name": "Sleek Tire",
+        "category": "Garden & Outdoor",
+        "price": 1789.35,
+        "SKU": "SKU27083929",
+        "stock levels": 9155,
+        "units_solds": 2556
+    },
+    {
+        "Product ID": 574,
+        "name": "Compact Lawnmower",
+        "category": "Beauty",
+        "price": 1447.27,
+        "SKU": "SKU99251396",
+        "stock levels": 1518,
+        "units_solds": 4485
+    },
+    {
+        "Product ID": 575,
+        "name": "Reliable Novel",
+        "category": "Sports & Outdoors",
+        "price": 3783.99,
+        "SKU": "SKU99765660",
+        "stock levels": 8459,
+        "units_solds": 3114
+    },
+    {
+        "Product ID": 576,
+        "name": "Ergonomic Tablet",
+        "category": "Toys & Games",
+        "price": 4340.43,
+        "SKU": "SKU19103516",
+        "stock levels": 5356,
+        "units_solds": 1426
+    },
+    {
+        "Product ID": 577,
+        "name": "High-Performance Novel",
+        "category": "Garden & Outdoor",
+        "price": 4359.03,
+        "SKU": "SKU19230852",
+        "stock levels": 1148,
+        "units_solds": 1851
+    },
+    {
+        "Product ID": 578,
+        "name": "Premium Microwave",
+        "category": "Sports & Outdoors",
+        "price": 3370.39,
+        "SKU": "SKU29356896",
+        "stock levels": 3499,
+        "units_solds": 3629
+    },
+    {
+        "Product ID": 579,
+        "name": "Portable Chair",
+        "category": "Electronics",
+        "price": 2806.08,
+        "SKU": "SKU23338545",
+        "stock levels": 6620,
+        "units_solds": 2915
+    },
+    {
+        "Product ID": 580,
+        "name": "Innovative Lipstick",
+        "category": "Home & Kitchen",
+        "price": 573.8,
+        "SKU": "SKU13713993",
+        "stock levels": 7925,
+        "units_solds": 2623
+    },
+    {
+        "Product ID": 581,
+        "name": "Advanced Tire",
+        "category": "Video Games",
+        "price": 2459.63,
+        "SKU": "SKU60631373",
+        "stock levels": 4313,
+        "units_solds": 675
+    },
+    {
+        "Product ID": 582,
+        "name": "Compact Speaker",
+        "category": "Automotive",
+        "price": 1985.27,
+        "SKU": "SKU10263361",
+        "stock levels": 9164,
+        "units_solds": 4926
+    },
+    {
+        "Product ID": 583,
+        "name": "Modern Printer",
+        "category": "Automotive",
+        "price": 859.7,
+        "SKU": "SKU10965010",
+        "stock levels": 9162,
+        "units_solds": 807
+    },
+    {
+        "Product ID": 584,
+        "name": "Portable Router",
+        "category": "Video Games",
+        "price": 3014.43,
+        "SKU": "SKU92731904",
+        "stock levels": 5323,
+        "units_solds": 1042
+    },
+    {
+        "Product ID": 585,
+        "name": "Durable Supplement",
+        "category": "Video Games",
+        "price": 4153.82,
+        "SKU": "SKU13219149",
+        "stock levels": 3504,
+        "units_solds": 3444
+    },
+    {
+        "Product ID": 586,
+        "name": "Premium Tablet",
+        "category": "Office Supplies",
+        "price": 2290.77,
+        "SKU": "SKU93384608",
+        "stock levels": 6823,
+        "units_solds": 2797
+    },
+    {
+        "Product ID": 587,
+        "name": "Durable Lawnmower",
+        "category": "Beauty",
+        "price": 2574.74,
+        "SKU": "SKU32244478",
+        "stock levels": 2643,
+        "units_solds": 3632
+    },
+    {
+        "Product ID": 588,
+        "name": "Modern Novel",
+        "category": "Clothing",
+        "price": 2311.24,
+        "SKU": "SKU25056154",
+        "stock levels": 2449,
+        "units_solds": 515
+    },
+    {
+        "Product ID": 589,
+        "name": "Reliable Lipstick",
+        "category": "Health & Personal Care",
+        "price": 723.8,
+        "SKU": "SKU26257175",
+        "stock levels": 1536,
+        "units_solds": 2080
+    },
+    {
+        "Product ID": 590,
+        "name": "Advanced Tire",
+        "category": "Sports & Outdoors",
+        "price": 2029.12,
+        "SKU": "SKU75861438",
+        "stock levels": 4268,
+        "units_solds": 2208
+    },
+    {
+        "Product ID": 591,
+        "name": "Sleek Lipstick",
+        "category": "Automotive",
+        "price": 3472.25,
+        "SKU": "SKU34736652",
+        "stock levels": 5379,
+        "units_solds": 760
+    },
+    {
+        "Product ID": 592,
+        "name": "Sleek Printer",
+        "category": "Toys & Games",
+        "price": 3041.84,
+        "SKU": "SKU31236862",
+        "stock levels": 6057,
+        "units_solds": 1979
+    },
+    {
+        "Product ID": 593,
+        "name": "Advanced Camera",
+        "category": "Clothing",
+        "price": 484.91,
+        "SKU": "SKU19017099",
+        "stock levels": 7378,
+        "units_solds": 66
+    },
+    {
+        "Product ID": 594,
+        "name": "Sleek Novel",
+        "category": "Travel",
+        "price": 4880.33,
+        "SKU": "SKU60528219",
+        "stock levels": 8810,
+        "units_solds": 996
+    },
+    {
+        "Product ID": 595,
+        "name": "Innovative Blender",
+        "category": "Books",
+        "price": 4176.3,
+        "SKU": "SKU97393650",
+        "stock levels": 4886,
+        "units_solds": 3233
+    },
+    {
+        "Product ID": 596,
+        "name": "Stylish Supplement",
+        "category": "Travel",
+        "price": 1803.22,
+        "SKU": "SKU95357239",
+        "stock levels": 5603,
+        "units_solds": 3590
+    },
+    {
+        "Product ID": 597,
+        "name": "Modern Watch",
+        "category": "Books",
+        "price": 1910.5,
+        "SKU": "SKU89758718",
+        "stock levels": 2643,
+        "units_solds": 2191
+    },
+    {
+        "Product ID": 598,
+        "name": "High-Performance Lipstick",
+        "category": "Beauty",
+        "price": 2860.2,
+        "SKU": "SKU91887512",
+        "stock levels": 7886,
+        "units_solds": 1570
+    },
+    {
+        "Product ID": 599,
+        "name": "Sleek Camera",
+        "category": "Beauty",
+        "price": 3386.54,
+        "SKU": "SKU25320968",
+        "stock levels": 1918,
+        "units_solds": 4159
+    },
+    {
+        "Product ID": 600,
+        "name": "Reliable Shirt",
+        "category": "Books",
+        "price": 4893.31,
+        "SKU": "SKU63466091",
+        "stock levels": 9838,
+        "units_solds": 810
+    },
+    {
+        "Product ID": 601,
+        "name": "Premium Printer",
+        "category": "Sports & Outdoors",
+        "price": 4337.54,
+        "SKU": "SKU42487854",
+        "stock levels": 429,
+        "units_solds": 76
+    },
+    {
+        "Product ID": 602,
+        "name": "Durable Backpack",
+        "category": "Clothing",
+        "price": 4317.28,
+        "SKU": "SKU94627866",
+        "stock levels": 7010,
+        "units_solds": 4232
+    },
+    {
+        "Product ID": 603,
+        "name": "Modern Router",
+        "category": "Home & Kitchen",
+        "price": 353.23,
+        "SKU": "SKU79754960",
+        "stock levels": 5907,
+        "units_solds": 4825
+    },
+    {
+        "Product ID": 604,
+        "name": "Sleek Chair",
+        "category": "Automotive",
+        "price": 1142.86,
+        "SKU": "SKU20403632",
+        "stock levels": 5272,
+        "units_solds": 3608
+    },
+    {
+        "Product ID": 605,
+        "name": "Sleek Puzzle",
+        "category": "Electronics",
+        "price": 593.29,
+        "SKU": "SKU64713739",
+        "stock levels": 5564,
+        "units_solds": 1754
+    },
+    {
+        "Product ID": 606,
+        "name": "Smart Lawnmower",
+        "category": "Electronics",
+        "price": 4824.4,
+        "SKU": "SKU00485271",
+        "stock levels": 5092,
+        "units_solds": 4412
+    },
+    {
+        "Product ID": 607,
+        "name": "Stylish Watch",
+        "category": "Travel",
+        "price": 2121.25,
+        "SKU": "SKU91699128",
+        "stock levels": 2890,
+        "units_solds": 921
+    },
+    {
+        "Product ID": 608,
+        "name": "Premium Tablet",
+        "category": "Pet Supplies",
+        "price": 1239.84,
+        "SKU": "SKU70070107",
+        "stock levels": 613,
+        "units_solds": 2479
+    },
+    {
+        "Product ID": 609,
+        "name": "Reliable Tire",
+        "category": "Sports & Outdoors",
+        "price": 2605.67,
+        "SKU": "SKU31689067",
+        "stock levels": 6583,
+        "units_solds": 4537
+    },
+    {
+        "Product ID": 610,
+        "name": "Eco-friendly Lipstick",
+        "category": "Video Games",
+        "price": 1544.92,
+        "SKU": "SKU37316349",
+        "stock levels": 8241,
+        "units_solds": 860
+    },
+    {
+        "Product ID": 611,
+        "name": "Portable Watch",
+        "category": "Toys & Games",
+        "price": 4990.37,
+        "SKU": "SKU15995252",
+        "stock levels": 3133,
+        "units_solds": 7
+    },
+    {
+        "Product ID": 612,
+        "name": "Advanced Speaker",
+        "category": "Toys & Games",
+        "price": 2967.06,
+        "SKU": "SKU47494396",
+        "stock levels": 1879,
+        "units_solds": 818
+    },
+    {
+        "Product ID": 613,
+        "name": "Stylish Puzzle",
+        "category": "Health & Personal Care",
+        "price": 812.37,
+        "SKU": "SKU27545079",
+        "stock levels": 5988,
+        "units_solds": 4169
+    },
+    {
+        "Product ID": 614,
+        "name": "Smart Supplement",
+        "category": "Clothing",
+        "price": 3039.44,
+        "SKU": "SKU91772826",
+        "stock levels": 9674,
+        "units_solds": 255
+    },
+    {
+        "Product ID": 615,
+        "name": "Innovative Watch",
+        "category": "Electronics",
+        "price": 4469.49,
+        "SKU": "SKU17351466",
+        "stock levels": 8346,
+        "units_solds": 921
+    },
+    {
+        "Product ID": 616,
+        "name": "Stylish Shirt",
+        "category": "Travel",
+        "price": 595.03,
+        "SKU": "SKU26367447",
+        "stock levels": 7655,
+        "units_solds": 2015
+    },
+    {
+        "Product ID": 617,
+        "name": "Eco-friendly Backpack",
+        "category": "Health & Personal Care",
+        "price": 3065.29,
+        "SKU": "SKU37904833",
+        "stock levels": 4905,
+        "units_solds": 2874
+    },
+    {
+        "Product ID": 618,
+        "name": "Smart Drone",
+        "category": "Garden & Outdoor",
+        "price": 3432.48,
+        "SKU": "SKU23196736",
+        "stock levels": 3000,
+        "units_solds": 4623
+    },
+    {
+        "Product ID": 619,
+        "name": "Stylish Puzzle",
+        "category": "Sports & Outdoors",
+        "price": 3203.21,
+        "SKU": "SKU75913384",
+        "stock levels": 443,
+        "units_solds": 3945
+    },
+    {
+        "Product ID": 620,
+        "name": "Smart Camera",
+        "category": "Office Supplies",
+        "price": 4953.47,
+        "SKU": "SKU32403050",
+        "stock levels": 1186,
+        "units_solds": 1693
+    },
+    {
+        "Product ID": 621,
+        "name": "Durable Puzzle",
+        "category": "Video Games",
+        "price": 3742.55,
+        "SKU": "SKU42054205",
+        "stock levels": 2125,
+        "units_solds": 2818
+    },
+    {
+        "Product ID": 622,
+        "name": "Reliable Lipstick",
+        "category": "Music",
+        "price": 2260.36,
+        "SKU": "SKU78311190",
+        "stock levels": 753,
+        "units_solds": 167
+    },
+    {
+        "Product ID": 623,
+        "name": "Modern Speaker",
+        "category": "Beauty",
+        "price": 760.63,
+        "SKU": "SKU26178504",
+        "stock levels": 7302,
+        "units_solds": 4244
+    },
+    {
+        "Product ID": 624,
+        "name": "Durable Camera",
+        "category": "Clothing",
+        "price": 3582.42,
+        "SKU": "SKU20767743",
+        "stock levels": 8858,
+        "units_solds": 2509
+    },
+    {
+        "Product ID": 625,
+        "name": "Stylish Puzzle",
+        "category": "Home & Kitchen",
+        "price": 1697.93,
+        "SKU": "SKU62060556",
+        "stock levels": 1561,
+        "units_solds": 422
+    },
+    {
+        "Product ID": 626,
+        "name": "Stylish Drone",
+        "category": "Pet Supplies",
+        "price": 4130.49,
+        "SKU": "SKU51825550",
+        "stock levels": 5631,
+        "units_solds": 958
+    },
+    {
+        "Product ID": 627,
+        "name": "Stylish Lawnmower",
+        "category": "Video Games",
+        "price": 4411.52,
+        "SKU": "SKU41403325",
+        "stock levels": 5057,
+        "units_solds": 1180
+    },
+    {
+        "Product ID": 628,
+        "name": "Compact Microwave",
+        "category": "Home & Kitchen",
+        "price": 3960.92,
+        "SKU": "SKU79972375",
+        "stock levels": 7235,
+        "units_solds": 424
+    },
+    {
+        "Product ID": 629,
+        "name": "Portable Shirt",
+        "category": "Pet Supplies",
+        "price": 4111.86,
+        "SKU": "SKU47584035",
+        "stock levels": 5367,
+        "units_solds": 3150
+    },
+    {
+        "Product ID": 630,
+        "name": "Compact Tire",
+        "category": "Sports & Outdoors",
+        "price": 2863.03,
+        "SKU": "SKU30260507",
+        "stock levels": 2010,
+        "units_solds": 2666
+    },
+    {
+        "Product ID": 631,
+        "name": "Versatile Puzzle",
+        "category": "Health & Personal Care",
+        "price": 4022.87,
+        "SKU": "SKU66767112",
+        "stock levels": 7885,
+        "units_solds": 1527
+    },
+    {
+        "Product ID": 632,
+        "name": "Eco-friendly Novel",
+        "category": "Office Supplies",
+        "price": 1495.83,
+        "SKU": "SKU15369338",
+        "stock levels": 4165,
+        "units_solds": 3747
+    },
+    {
+        "Product ID": 633,
+        "name": "Advanced Shirt",
+        "category": "Travel",
+        "price": 4382.35,
+        "SKU": "SKU63195158",
+        "stock levels": 6611,
+        "units_solds": 1358
+    },
+    {
+        "Product ID": 634,
+        "name": "Advanced Tablet",
+        "category": "Automotive",
+        "price": 1150.25,
+        "SKU": "SKU28728843",
+        "stock levels": 6505,
+        "units_solds": 3162
+    },
+    {
+        "Product ID": 635,
+        "name": "High-Performance Shirt",
+        "category": "Travel",
+        "price": 3062.87,
+        "SKU": "SKU74446373",
+        "stock levels": 5388,
+        "units_solds": 1273
+    },
+    {
+        "Product ID": 636,
+        "name": "Portable Printer",
+        "category": "Travel",
+        "price": 1769.48,
+        "SKU": "SKU27200132",
+        "stock levels": 9277,
+        "units_solds": 3461
+    },
+    {
+        "Product ID": 637,
+        "name": "Ergonomic Backpack",
+        "category": "Video Games",
+        "price": 4147.07,
+        "SKU": "SKU94332744",
+        "stock levels": 8457,
+        "units_solds": 3008
+    },
+    {
+        "Product ID": 638,
+        "name": "Premium Lawnmower",
+        "category": "Books",
+        "price": 4058.29,
+        "SKU": "SKU74535659",
+        "stock levels": 201,
+        "units_solds": 3233
+    },
+    {
+        "Product ID": 639,
+        "name": "Innovative Lipstick",
+        "category": "Music",
+        "price": 1935.93,
+        "SKU": "SKU73752225",
+        "stock levels": 4970,
+        "units_solds": 3828
+    },
+    {
+        "Product ID": 640,
+        "name": "Reliable Puzzle",
+        "category": "Toys & Games",
+        "price": 428.27,
+        "SKU": "SKU36355143",
+        "stock levels": 5085,
+        "units_solds": 1970
+    },
+    {
+        "Product ID": 641,
+        "name": "High-Performance Puzzle",
+        "category": "Office Supplies",
+        "price": 2177.21,
+        "SKU": "SKU45583790",
+        "stock levels": 3857,
+        "units_solds": 3389
+    },
+    {
+        "Product ID": 642,
+        "name": "Modern Puzzle",
+        "category": "Office Supplies",
+        "price": 1322.67,
+        "SKU": "SKU09200925",
+        "stock levels": 9126,
+        "units_solds": 3838
+    },
+    {
+        "Product ID": 643,
+        "name": "Advanced Lawnmower",
+        "category": "Automotive",
+        "price": 1338.39,
+        "SKU": "SKU81403531",
+        "stock levels": 3065,
+        "units_solds": 1112
+    },
+    {
+        "Product ID": 644,
+        "name": "Modern Chair",
+        "category": "Electronics",
+        "price": 3129.75,
+        "SKU": "SKU67639806",
+        "stock levels": 2335,
+        "units_solds": 280
+    },
+    {
+        "Product ID": 645,
+        "name": "Versatile Microwave",
+        "category": "Office Supplies",
+        "price": 3443.51,
+        "SKU": "SKU62735249",
+        "stock levels": 4951,
+        "units_solds": 3409
+    },
+    {
+        "Product ID": 646,
+        "name": "Portable Speaker",
+        "category": "Office Supplies",
+        "price": 600.62,
+        "SKU": "SKU05269813",
+        "stock levels": 9118,
+        "units_solds": 1171
+    },
+    {
+        "Product ID": 647,
+        "name": "Ergonomic Novel",
+        "category": "Clothing",
+        "price": 2003.87,
+        "SKU": "SKU75305082",
+        "stock levels": 3827,
+        "units_solds": 4380
+    },
+    {
+        "Product ID": 648,
+        "name": "Eco-friendly Shirt",
+        "category": "Toys & Games",
+        "price": 19.03,
+        "SKU": "SKU36977120",
+        "stock levels": 9046,
+        "units_solds": 794
+    },
+    {
+        "Product ID": 649,
+        "name": "Versatile Camera",
+        "category": "Books",
+        "price": 3295.89,
+        "SKU": "SKU24914713",
+        "stock levels": 7663,
+        "units_solds": 3710
+    },
+    {
+        "Product ID": 650,
+        "name": "Innovative Supplement",
+        "category": "Electronics",
+        "price": 118.09,
+        "SKU": "SKU94941889",
+        "stock levels": 7848,
+        "units_solds": 676
+    },
+    {
+        "Product ID": 651,
+        "name": "Eco-friendly Supplement",
+        "category": "Music",
+        "price": 2409.38,
+        "SKU": "SKU12409864",
+        "stock levels": 8420,
+        "units_solds": 2326
+    },
+    {
+        "Product ID": 652,
+        "name": "Versatile Chair",
+        "category": "Office Supplies",
+        "price": 3843.62,
+        "SKU": "SKU25583776",
+        "stock levels": 7162,
+        "units_solds": 2774
+    },
+    {
+        "Product ID": 653,
+        "name": "Portable Monitor",
+        "category": "Sports & Outdoors",
+        "price": 3386.46,
+        "SKU": "SKU15693203",
+        "stock levels": 1102,
+        "units_solds": 680
+    },
+    {
+        "Product ID": 654,
+        "name": "Premium Printer",
+        "category": "Books",
+        "price": 2352.47,
+        "SKU": "SKU97507279",
+        "stock levels": 1040,
+        "units_solds": 3241
+    },
+    {
+        "Product ID": 655,
+        "name": "Reliable Headphones",
+        "category": "Automotive",
+        "price": 2695.19,
+        "SKU": "SKU77079623",
+        "stock levels": 3586,
+        "units_solds": 4642
+    },
+    {
+        "Product ID": 656,
+        "name": "Versatile Tablet",
+        "category": "Music",
+        "price": 3037.11,
+        "SKU": "SKU98309478",
+        "stock levels": 2087,
+        "units_solds": 87
+    },
+    {
+        "Product ID": 657,
+        "name": "Smart Headphones",
+        "category": "Garden & Outdoor",
+        "price": 4504.25,
+        "SKU": "SKU49801907",
+        "stock levels": 346,
+        "units_solds": 1161
+    },
+    {
+        "Product ID": 658,
+        "name": "Stylish Blender",
+        "category": "Music",
+        "price": 209.9,
+        "SKU": "SKU51312988",
+        "stock levels": 5195,
+        "units_solds": 2233
+    },
+    {
+        "Product ID": 659,
+        "name": "Versatile Tablet",
+        "category": "Books",
+        "price": 1056.82,
+        "SKU": "SKU12267478",
+        "stock levels": 7526,
+        "units_solds": 3181
+    },
+    {
+        "Product ID": 660,
+        "name": "Compact Monitor",
+        "category": "Garden & Outdoor",
+        "price": 3151.79,
+        "SKU": "SKU46357293",
+        "stock levels": 3605,
+        "units_solds": 3622
+    },
+    {
+        "Product ID": 661,
+        "name": "Advanced Monitor",
+        "category": "Toys & Games",
+        "price": 2435.29,
+        "SKU": "SKU95602333",
+        "stock levels": 3683,
+        "units_solds": 4449
+    },
+    {
+        "Product ID": 662,
+        "name": "Smart Camera",
+        "category": "Home & Kitchen",
+        "price": 486.67,
+        "SKU": "SKU46170616",
+        "stock levels": 7901,
+        "units_solds": 1424
+    },
+    {
+        "Product ID": 663,
+        "name": "Portable Printer",
+        "category": "Health & Personal Care",
+        "price": 634.15,
+        "SKU": "SKU79105345",
+        "stock levels": 1202,
+        "units_solds": 4249
+    },
+    {
+        "Product ID": 664,
+        "name": "Eco-friendly Lawnmower",
+        "category": "Automotive",
+        "price": 2418.9,
+        "SKU": "SKU78019402",
+        "stock levels": 8734,
+        "units_solds": 3525
+    },
+    {
+        "Product ID": 665,
+        "name": "Ergonomic Puzzle",
+        "category": "Travel",
+        "price": 2643.63,
+        "SKU": "SKU32173201",
+        "stock levels": 7055,
+        "units_solds": 4058
+    },
+    {
+        "Product ID": 666,
+        "name": "High-Performance Drone",
+        "category": "Office Supplies",
+        "price": 1312.12,
+        "SKU": "SKU60861794",
+        "stock levels": 8571,
+        "units_solds": 3628
+    },
+    {
+        "Product ID": 667,
+        "name": "Durable Watch",
+        "category": "Pet Supplies",
+        "price": 2087.15,
+        "SKU": "SKU64539518",
+        "stock levels": 2911,
+        "units_solds": 3413
+    },
+    {
+        "Product ID": 668,
+        "name": "High-Performance Router",
+        "category": "Home & Kitchen",
+        "price": 2215.48,
+        "SKU": "SKU32915827",
+        "stock levels": 9620,
+        "units_solds": 1885
+    },
+    {
+        "Product ID": 669,
+        "name": "Stylish Supplement",
+        "category": "Pet Supplies",
+        "price": 3062.32,
+        "SKU": "SKU52940393",
+        "stock levels": 2384,
+        "units_solds": 3121
+    },
+    {
+        "Product ID": 670,
+        "name": "Premium Chair",
+        "category": "Beauty",
+        "price": 1905.64,
+        "SKU": "SKU80056912",
+        "stock levels": 710,
+        "units_solds": 2444
+    },
+    {
+        "Product ID": 671,
+        "name": "Sleek Microwave",
+        "category": "Travel",
+        "price": 4448.14,
+        "SKU": "SKU63761495",
+        "stock levels": 4464,
+        "units_solds": 3011
+    },
+    {
+        "Product ID": 672,
+        "name": "Advanced Drone",
+        "category": "Automotive",
+        "price": 2246.43,
+        "SKU": "SKU69046928",
+        "stock levels": 9054,
+        "units_solds": 622
+    },
+    {
+        "Product ID": 673,
+        "name": "Sleek Tire",
+        "category": "Pet Supplies",
+        "price": 857.87,
+        "SKU": "SKU09393121",
+        "stock levels": 5122,
+        "units_solds": 3685
+    },
+    {
+        "Product ID": 674,
+        "name": "High-Performance Camera",
+        "category": "Sports & Outdoors",
+        "price": 3277.06,
+        "SKU": "SKU95056276",
+        "stock levels": 3078,
+        "units_solds": 779
+    },
+    {
+        "Product ID": 675,
+        "name": "Modern Speaker",
+        "category": "Toys & Games",
+        "price": 3149.87,
+        "SKU": "SKU11663110",
+        "stock levels": 7268,
+        "units_solds": 4479
+    },
+    {
+        "Product ID": 676,
+        "name": "Advanced Supplement",
+        "category": "Office Supplies",
+        "price": 4294.34,
+        "SKU": "SKU53139796",
+        "stock levels": 7744,
+        "units_solds": 3479
+    },
+    {
+        "Product ID": 677,
+        "name": "Portable Headphones",
+        "category": "Garden & Outdoor",
+        "price": 540.67,
+        "SKU": "SKU53954371",
+        "stock levels": 5477,
+        "units_solds": 678
+    },
+    {
+        "Product ID": 678,
+        "name": "Modern Microwave",
+        "category": "Home & Kitchen",
+        "price": 780.38,
+        "SKU": "SKU39661296",
+        "stock levels": 4445,
+        "units_solds": 2002
+    },
+    {
+        "Product ID": 679,
+        "name": "Premium Tire",
+        "category": "Toys & Games",
+        "price": 3262.64,
+        "SKU": "SKU57262393",
+        "stock levels": 9228,
+        "units_solds": 2398
+    },
+    {
+        "Product ID": 680,
+        "name": "Compact Headphones",
+        "category": "Video Games",
+        "price": 1330.66,
+        "SKU": "SKU60008165",
+        "stock levels": 1567,
+        "units_solds": 4298
+    },
+    {
+        "Product ID": 681,
+        "name": "Ergonomic Watch",
+        "category": "Beauty",
+        "price": 798.62,
+        "SKU": "SKU18104088",
+        "stock levels": 6767,
+        "units_solds": 96
+    },
+    {
+        "Product ID": 682,
+        "name": "Advanced Speaker",
+        "category": "Sports & Outdoors",
+        "price": 1855.25,
+        "SKU": "SKU25836109",
+        "stock levels": 7365,
+        "units_solds": 2866
+    },
+    {
+        "Product ID": 683,
+        "name": "Compact Novel",
+        "category": "Health & Personal Care",
+        "price": 2532.14,
+        "SKU": "SKU29089550",
+        "stock levels": 1225,
+        "units_solds": 3319
+    },
+    {
+        "Product ID": 684,
+        "name": "Reliable Microwave",
+        "category": "Video Games",
+        "price": 4592.57,
+        "SKU": "SKU95166352",
+        "stock levels": 4470,
+        "units_solds": 1046
+    },
+    {
+        "Product ID": 685,
+        "name": "Compact Microwave",
+        "category": "Health & Personal Care",
+        "price": 759.86,
+        "SKU": "SKU68485711",
+        "stock levels": 4106,
+        "units_solds": 1957
+    },
+    {
+        "Product ID": 686,
+        "name": "Advanced Router",
+        "category": "Electronics",
+        "price": 330.6,
+        "SKU": "SKU18257641",
+        "stock levels": 9107,
+        "units_solds": 3458
+    },
+    {
+        "Product ID": 687,
+        "name": "Premium Supplement",
+        "category": "Books",
+        "price": 3781.67,
+        "SKU": "SKU67749041",
+        "stock levels": 9013,
+        "units_solds": 2500
+    },
+    {
+        "Product ID": 688,
+        "name": "Modern Backpack",
+        "category": "Health & Personal Care",
+        "price": 1340.37,
+        "SKU": "SKU39806761",
+        "stock levels": 2155,
+        "units_solds": 4588
+    },
+    {
+        "Product ID": 689,
+        "name": "Durable Monitor",
+        "category": "Sports & Outdoors",
+        "price": 2860.73,
+        "SKU": "SKU59387758",
+        "stock levels": 7834,
+        "units_solds": 883
+    },
+    {
+        "Product ID": 690,
+        "name": "Premium Tire",
+        "category": "Books",
+        "price": 822.05,
+        "SKU": "SKU24486629",
+        "stock levels": 6140,
+        "units_solds": 1814
+    },
+    {
+        "Product ID": 691,
+        "name": "Eco-friendly Watch",
+        "category": "Travel",
+        "price": 404.54,
+        "SKU": "SKU21829079",
+        "stock levels": 5330,
+        "units_solds": 719
+    },
+    {
+        "Product ID": 692,
+        "name": "Ergonomic Shirt",
+        "category": "Travel",
+        "price": 813.46,
+        "SKU": "SKU09047416",
+        "stock levels": 6271,
+        "units_solds": 236
+    },
+    {
+        "Product ID": 693,
+        "name": "Innovative Chair",
+        "category": "Electronics",
+        "price": 4768.73,
+        "SKU": "SKU11655341",
+        "stock levels": 7997,
+        "units_solds": 667
+    },
+    {
+        "Product ID": 694,
+        "name": "Compact Supplement",
+        "category": "Garden & Outdoor",
+        "price": 1789.38,
+        "SKU": "SKU57547207",
+        "stock levels": 9595,
+        "units_solds": 3419
+    },
+    {
+        "Product ID": 695,
+        "name": "Sleek Tablet",
+        "category": "Home & Kitchen",
+        "price": 670.22,
+        "SKU": "SKU50175912",
+        "stock levels": 8865,
+        "units_solds": 3099
+    },
+    {
+        "Product ID": 696,
+        "name": "Versatile Backpack",
+        "category": "Toys & Games",
+        "price": 421.47,
+        "SKU": "SKU50264344",
+        "stock levels": 1127,
+        "units_solds": 986
+    },
+    {
+        "Product ID": 697,
+        "name": "Advanced Speaker",
+        "category": "Sports & Outdoors",
+        "price": 615.98,
+        "SKU": "SKU07850707",
+        "stock levels": 1823,
+        "units_solds": 1539
+    },
+    {
+        "Product ID": 698,
+        "name": "Premium Router",
+        "category": "Music",
+        "price": 323.42,
+        "SKU": "SKU41354859",
+        "stock levels": 1140,
+        "units_solds": 4512
+    },
+    {
+        "Product ID": 699,
+        "name": "Premium Camera",
+        "category": "Toys & Games",
+        "price": 4946.77,
+        "SKU": "SKU07268142",
+        "stock levels": 2217,
+        "units_solds": 853
+    },
+    {
+        "Product ID": 700,
+        "name": "Advanced Watch",
+        "category": "Music",
+        "price": 413.58,
+        "SKU": "SKU67407444",
+        "stock levels": 2295,
+        "units_solds": 1291
+    },
+    {
+        "Product ID": 701,
+        "name": "Smart Headphones",
+        "category": "Music",
+        "price": 2573.0,
+        "SKU": "SKU66263628",
+        "stock levels": 9669,
+        "units_solds": 4174
+    },
+    {
+        "Product ID": 702,
+        "name": "Ergonomic Lipstick",
+        "category": "Garden & Outdoor",
+        "price": 3288.39,
+        "SKU": "SKU10949381",
+        "stock levels": 7598,
+        "units_solds": 1545
+    },
+    {
+        "Product ID": 703,
+        "name": "Advanced Speaker",
+        "category": "Home & Kitchen",
+        "price": 4580.81,
+        "SKU": "SKU98631966",
+        "stock levels": 9748,
+        "units_solds": 3349
+    },
+    {
+        "Product ID": 704,
+        "name": "Premium Chair",
+        "category": "Toys & Games",
+        "price": 749.3,
+        "SKU": "SKU83692690",
+        "stock levels": 2695,
+        "units_solds": 4221
+    },
+    {
+        "Product ID": 705,
+        "name": "Reliable Lipstick",
+        "category": "Electronics",
+        "price": 565.79,
+        "SKU": "SKU90236257",
+        "stock levels": 5452,
+        "units_solds": 1798
+    },
+    {
+        "Product ID": 706,
+        "name": "Smart Supplement",
+        "category": "Beauty",
+        "price": 595.98,
+        "SKU": "SKU62050438",
+        "stock levels": 7632,
+        "units_solds": 1155
+    },
+    {
+        "Product ID": 707,
+        "name": "Compact Speaker",
+        "category": "Clothing",
+        "price": 1505.79,
+        "SKU": "SKU45155939",
+        "stock levels": 1159,
+        "units_solds": 2321
+    },
+    {
+        "Product ID": 708,
+        "name": "Ergonomic Speaker",
+        "category": "Books",
+        "price": 2299.22,
+        "SKU": "SKU74358239",
+        "stock levels": 3181,
+        "units_solds": 2855
+    },
+    {
+        "Product ID": 709,
+        "name": "Portable Supplement",
+        "category": "Home & Kitchen",
+        "price": 3271.86,
+        "SKU": "SKU05477033",
+        "stock levels": 1427,
+        "units_solds": 4620
+    },
+    {
+        "Product ID": 710,
+        "name": "Sleek Chair",
+        "category": "Toys & Games",
+        "price": 175.61,
+        "SKU": "SKU03064265",
+        "stock levels": 3503,
+        "units_solds": 4737
+    },
+    {
+        "Product ID": 711,
+        "name": "Stylish Router",
+        "category": "Clothing",
+        "price": 151.13,
+        "SKU": "SKU72981068",
+        "stock levels": 3272,
+        "units_solds": 2391
+    },
+    {
+        "Product ID": 712,
+        "name": "High-Performance Chair",
+        "category": "Beauty",
+        "price": 3305.38,
+        "SKU": "SKU10775122",
+        "stock levels": 2460,
+        "units_solds": 1725
+    },
+    {
+        "Product ID": 713,
+        "name": "Durable Tablet",
+        "category": "Automotive",
+        "price": 4122.29,
+        "SKU": "SKU44412725",
+        "stock levels": 4408,
+        "units_solds": 2986
+    },
+    {
+        "Product ID": 714,
+        "name": "Versatile Monitor",
+        "category": "Books",
+        "price": 2304.36,
+        "SKU": "SKU99670622",
+        "stock levels": 2439,
+        "units_solds": 1859
+    },
+    {
+        "Product ID": 715,
+        "name": "Advanced Microwave",
+        "category": "Toys & Games",
+        "price": 420.6,
+        "SKU": "SKU19666103",
+        "stock levels": 7330,
+        "units_solds": 2011
+    },
+    {
+        "Product ID": 716,
+        "name": "Smart Tablet",
+        "category": "Automotive",
+        "price": 3292.93,
+        "SKU": "SKU79473814",
+        "stock levels": 917,
+        "units_solds": 1318
+    },
+    {
+        "Product ID": 717,
+        "name": "Portable Chair",
+        "category": "Travel",
+        "price": 4752.01,
+        "SKU": "SKU12547056",
+        "stock levels": 2040,
+        "units_solds": 4060
+    },
+    {
+        "Product ID": 718,
+        "name": "Modern Microwave",
+        "category": "Garden & Outdoor",
+        "price": 3574.65,
+        "SKU": "SKU22015701",
+        "stock levels": 889,
+        "units_solds": 772
+    },
+    {
+        "Product ID": 719,
+        "name": "Reliable Headphones",
+        "category": "Beauty",
+        "price": 901.19,
+        "SKU": "SKU11382200",
+        "stock levels": 3396,
+        "units_solds": 2336
+    },
+    {
+        "Product ID": 720,
+        "name": "Smart Printer",
+        "category": "Video Games",
+        "price": 1827.38,
+        "SKU": "SKU13440878",
+        "stock levels": 4199,
+        "units_solds": 1711
+    },
+    {
+        "Product ID": 721,
+        "name": "Sleek Headphones",
+        "category": "Books",
+        "price": 1428.7,
+        "SKU": "SKU84732370",
+        "stock levels": 9711,
+        "units_solds": 1310
+    },
+    {
+        "Product ID": 722,
+        "name": "Modern Speaker",
+        "category": "Books",
+        "price": 2569.24,
+        "SKU": "SKU52827441",
+        "stock levels": 1282,
+        "units_solds": 1887
+    },
+    {
+        "Product ID": 723,
+        "name": "Compact Microwave",
+        "category": "Video Games",
+        "price": 1533.23,
+        "SKU": "SKU50066027",
+        "stock levels": 9200,
+        "units_solds": 4933
+    },
+    {
+        "Product ID": 724,
+        "name": "Eco-friendly Printer",
+        "category": "Beauty",
+        "price": 2165.73,
+        "SKU": "SKU47187319",
+        "stock levels": 6923,
+        "units_solds": 4574
+    },
+    {
+        "Product ID": 725,
+        "name": "Innovative Backpack",
+        "category": "Travel",
+        "price": 4230.54,
+        "SKU": "SKU32241512",
+        "stock levels": 7730,
+        "units_solds": 2024
+    },
+    {
+        "Product ID": 726,
+        "name": "Reliable Shirt",
+        "category": "Sports & Outdoors",
+        "price": 2416.76,
+        "SKU": "SKU62122455",
+        "stock levels": 6654,
+        "units_solds": 3627
+    },
+    {
+        "Product ID": 727,
+        "name": "Modern Watch",
+        "category": "Garden & Outdoor",
+        "price": 2762.43,
+        "SKU": "SKU61158233",
+        "stock levels": 9136,
+        "units_solds": 374
+    },
+    {
+        "Product ID": 728,
+        "name": "Compact Microwave",
+        "category": "Sports & Outdoors",
+        "price": 3989.28,
+        "SKU": "SKU34952728",
+        "stock levels": 3280,
+        "units_solds": 943
+    },
+    {
+        "Product ID": 729,
+        "name": "Durable Tire",
+        "category": "Toys & Games",
+        "price": 3816.83,
+        "SKU": "SKU28880204",
+        "stock levels": 3470,
+        "units_solds": 501
+    },
+    {
+        "Product ID": 730,
+        "name": "Sleek Microwave",
+        "category": "Beauty",
+        "price": 3635.91,
+        "SKU": "SKU07358538",
+        "stock levels": 4556,
+        "units_solds": 3179
+    },
+    {
+        "Product ID": 731,
+        "name": "Portable Camera",
+        "category": "Pet Supplies",
+        "price": 2692.28,
+        "SKU": "SKU28369840",
+        "stock levels": 9502,
+        "units_solds": 1555
+    },
+    {
+        "Product ID": 732,
+        "name": "Durable Watch",
+        "category": "Music",
+        "price": 2659.82,
+        "SKU": "SKU74585142",
+        "stock levels": 538,
+        "units_solds": 2947
+    },
+    {
+        "Product ID": 733,
+        "name": "Portable Lawnmower",
+        "category": "Video Games",
+        "price": 4309.94,
+        "SKU": "SKU77342105",
+        "stock levels": 7689,
+        "units_solds": 1568
+    },
+    {
+        "Product ID": 734,
+        "name": "Premium Backpack",
+        "category": "Music",
+        "price": 1535.73,
+        "SKU": "SKU05487583",
+        "stock levels": 4982,
+        "units_solds": 801
+    },
+    {
+        "Product ID": 735,
+        "name": "Sleek Lawnmower",
+        "category": "Pet Supplies",
+        "price": 411.17,
+        "SKU": "SKU86320028",
+        "stock levels": 934,
+        "units_solds": 4813
+    },
+    {
+        "Product ID": 736,
+        "name": "Advanced Lipstick",
+        "category": "Home & Kitchen",
+        "price": 4693.16,
+        "SKU": "SKU20324177",
+        "stock levels": 4802,
+        "units_solds": 3424
+    },
+    {
+        "Product ID": 737,
+        "name": "Advanced Lawnmower",
+        "category": "Health & Personal Care",
+        "price": 4165.7,
+        "SKU": "SKU75277493",
+        "stock levels": 8114,
+        "units_solds": 3966
+    },
+    {
+        "Product ID": 738,
+        "name": "Eco-friendly Shirt",
+        "category": "Sports & Outdoors",
+        "price": 981.64,
+        "SKU": "SKU72466626",
+        "stock levels": 3534,
+        "units_solds": 1719
+    },
+    {
+        "Product ID": 739,
+        "name": "Compact Supplement",
+        "category": "Toys & Games",
+        "price": 3247.12,
+        "SKU": "SKU15167415",
+        "stock levels": 7012,
+        "units_solds": 63
+    },
+    {
+        "Product ID": 740,
+        "name": "Advanced Printer",
+        "category": "Garden & Outdoor",
+        "price": 534.23,
+        "SKU": "SKU31649173",
+        "stock levels": 5139,
+        "units_solds": 2638
+    },
+    {
+        "Product ID": 741,
+        "name": "Portable Novel",
+        "category": "Books",
+        "price": 1449.57,
+        "SKU": "SKU62967872",
+        "stock levels": 1151,
+        "units_solds": 4829
+    },
+    {
+        "Product ID": 742,
+        "name": "Premium Chair",
+        "category": "Beauty",
+        "price": 184.37,
+        "SKU": "SKU98532529",
+        "stock levels": 2306,
+        "units_solds": 4395
+    },
+    {
+        "Product ID": 743,
+        "name": "Modern Tire",
+        "category": "Pet Supplies",
+        "price": 361.02,
+        "SKU": "SKU56544982",
+        "stock levels": 9511,
+        "units_solds": 4479
+    },
+    {
+        "Product ID": 744,
+        "name": "High-Performance Drone",
+        "category": "Electronics",
+        "price": 1533.47,
+        "SKU": "SKU37922220",
+        "stock levels": 5736,
+        "units_solds": 2034
+    },
+    {
+        "Product ID": 745,
+        "name": "High-Performance Printer",
+        "category": "Books",
+        "price": 922.77,
+        "SKU": "SKU15161665",
+        "stock levels": 6608,
+        "units_solds": 2945
+    },
+    {
+        "Product ID": 746,
+        "name": "Versatile Chair",
+        "category": "Toys & Games",
+        "price": 3830.7,
+        "SKU": "SKU11305784",
+        "stock levels": 5632,
+        "units_solds": 1862
+    },
+    {
+        "Product ID": 747,
+        "name": "Innovative Printer",
+        "category": "Pet Supplies",
+        "price": 4538.98,
+        "SKU": "SKU91653989",
+        "stock levels": 947,
+        "units_solds": 3746
+    },
+    {
+        "Product ID": 748,
+        "name": "Ergonomic Tire",
+        "category": "Home & Kitchen",
+        "price": 4366.27,
+        "SKU": "SKU65951971",
+        "stock levels": 5598,
+        "units_solds": 1334
+    },
+    {
+        "Product ID": 749,
+        "name": "Innovative Tablet",
+        "category": "Toys & Games",
+        "price": 4129.3,
+        "SKU": "SKU84385002",
+        "stock levels": 8888,
+        "units_solds": 3230
+    },
+    {
+        "Product ID": 750,
+        "name": "Innovative Camera",
+        "category": "Sports & Outdoors",
+        "price": 4659.64,
+        "SKU": "SKU43291067",
+        "stock levels": 4390,
+        "units_solds": 1184
+    }
+]

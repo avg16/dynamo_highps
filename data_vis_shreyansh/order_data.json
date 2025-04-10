@@ -1,0 +1,4002 @@
+[
+    {
+        "order_id": 1,
+        "customer_id": 7,
+        "order date": "2022-07-26",
+        "item_details": "Machine x52 ($333.83 each), Device x46 ($27.51 each), Machine x87 ($213.27 each)",
+        "total_amount": 4775.7,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 2,
+        "customer_id": 230,
+        "order date": "2022-07-03",
+        "item_details": "Device x76 ($393.99 each)",
+        "total_amount": 9996.68,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 3,
+        "customer_id": 474,
+        "order date": "2021-11-14",
+        "item_details": "Apparatus x61 ($422.07 each)",
+        "total_amount": 4442.29,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 4,
+        "customer_id": 244,
+        "order date": "2020-08-11",
+        "item_details": "Tool x4 ($123.36 each), Device x17 ($175.14 each)",
+        "total_amount": 439.89,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 5,
+        "customer_id": 394,
+        "order date": "2021-07-27",
+        "item_details": "Machine x79 ($262.99 each)",
+        "total_amount": 2346.79,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 6,
+        "customer_id": 789,
+        "order date": "2022-04-11",
+        "item_details": "Instrument x52 ($114.06 each), Contraption x39 ($245.19 each)",
+        "total_amount": 6457.3,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 7,
+        "customer_id": 133,
+        "order date": "2020-12-29",
+        "item_details": "Contraption x43 ($275.77 each)",
+        "total_amount": 5451.83,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 8,
+        "customer_id": 706,
+        "order date": "2022-11-16",
+        "item_details": "Gadget x63 ($278.45 each), Gadget x9 ($258.99 each), Widget x4 ($451.19 each)",
+        "total_amount": 3153.19,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 9,
+        "customer_id": 199,
+        "order date": "2022-09-27",
+        "item_details": "Doohickey x21 ($384.00 each), Machine x75 ($349.72 each), Gadget x16 ($497.83 each)",
+        "total_amount": 8214.61,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 10,
+        "customer_id": 290,
+        "order date": "2021-10-24",
+        "item_details": "Contraption x32 ($205.78 each), Gadget x13 ($329.02 each)",
+        "total_amount": 151.43,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 11,
+        "customer_id": 370,
+        "order date": "2022-04-28",
+        "item_details": "Widget x46 ($350.81 each), Implement x3 ($356.00 each), Contraption x20 ($340.10 each)",
+        "total_amount": 4402.65,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 12,
+        "customer_id": 482,
+        "order date": "2022-01-24",
+        "item_details": "Contraption x4 ($433.75 each), Contraption x53 ($147.26 each)",
+        "total_amount": 5107.23,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 13,
+        "customer_id": 849,
+        "order date": "2023-03-01",
+        "item_details": "Widget x34 ($441.72 each)",
+        "total_amount": 9553.79,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 14,
+        "customer_id": 756,
+        "order date": "2021-07-29",
+        "item_details": "Contraption x99 ($351.00 each), Machine x57 ($106.43 each), Doohickey x10 ($44.12 each)",
+        "total_amount": 2071.97,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 15,
+        "customer_id": 261,
+        "order date": "2022-05-23",
+        "item_details": "Contraption x85 ($113.97 each), Contraption x33 ($77.52 each)",
+        "total_amount": 7179.27,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 16,
+        "customer_id": 515,
+        "order date": "2023-06-01",
+        "item_details": "Contraption x20 ($138.28 each), Apparatus x31 ($489.65 each), Gadget x9 ($255.35 each)",
+        "total_amount": 670.39,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 17,
+        "customer_id": 671,
+        "order date": "2020-10-01",
+        "item_details": "Contraption x25 ($158.59 each), Implement x77 ($332.59 each), Gadget x88 ($351.17 each)",
+        "total_amount": 3835.68,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 18,
+        "customer_id": 546,
+        "order date": "2022-02-21",
+        "item_details": "Contraption x59 ($99.35 each)",
+        "total_amount": 4473.89,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 19,
+        "customer_id": 409,
+        "order date": "2020-03-02",
+        "item_details": "Gadget x78 ($218.83 each), Widget x39 ($124.19 each)",
+        "total_amount": 1466.52,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 20,
+        "customer_id": 823,
+        "order date": "2020-01-01",
+        "item_details": "Implement x79 ($244.33 each)",
+        "total_amount": 4002.71,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 21,
+        "customer_id": 412,
+        "order date": "2022-08-05",
+        "item_details": "Implement x99 ($145.22 each), Widget x59 ($149.61 each), Instrument x69 ($130.95 each)",
+        "total_amount": 1178.4,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 22,
+        "customer_id": 345,
+        "order date": "2020-12-31",
+        "item_details": "Device x68 ($84.14 each)",
+        "total_amount": 1997.17,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 23,
+        "customer_id": 396,
+        "order date": "2020-01-06",
+        "item_details": "Gadget x20 ($266.93 each)",
+        "total_amount": 2473.23,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 24,
+        "customer_id": 92,
+        "order date": "2020-02-11",
+        "item_details": "Apparatus x89 ($341.09 each), Doohickey x52 ($154.47 each), Instrument x48 ($181.30 each)",
+        "total_amount": 4107.08,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 25,
+        "customer_id": 119,
+        "order date": "2021-07-15",
+        "item_details": "Instrument x3 ($207.01 each), Implement x39 ($251.86 each), Widget x81 ($86.24 each)",
+        "total_amount": 6461.29,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 26,
+        "customer_id": 630,
+        "order date": "2020-12-19",
+        "item_details": "Widget x73 ($78.01 each), Instrument x77 ($179.30 each)",
+        "total_amount": 1847.92,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 27,
+        "customer_id": 467,
+        "order date": "2022-12-03",
+        "item_details": "Tool x61 ($282.73 each), Tool x75 ($257.74 each)",
+        "total_amount": 9276.95,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 28,
+        "customer_id": 694,
+        "order date": "2021-07-05",
+        "item_details": "Machine x93 ($16.82 each), Machine x2 ($397.43 each)",
+        "total_amount": 8705.18,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 29,
+        "customer_id": 713,
+        "order date": "2020-05-13",
+        "item_details": "Gadget x40 ($282.48 each), Instrument x11 ($493.88 each)",
+        "total_amount": 7585.61,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 30,
+        "customer_id": 223,
+        "order date": "2022-04-27",
+        "item_details": "Machine x40 ($359.36 each), Instrument x66 ($186.64 each)",
+        "total_amount": 7499.3,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 31,
+        "customer_id": 908,
+        "order date": "2023-11-30",
+        "item_details": "Device x44 ($191.50 each)",
+        "total_amount": 3696.67,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 32,
+        "customer_id": 982,
+        "order date": "2021-09-28",
+        "item_details": "Doohickey x74 ($281.52 each), Instrument x17 ($234.31 each), Apparatus x40 ($187.32 each)",
+        "total_amount": 6071.52,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 33,
+        "customer_id": 313,
+        "order date": "2023-03-05",
+        "item_details": "Instrument x21 ($198.57 each), Apparatus x3 ($347.29 each), Device x5 ($249.50 each)",
+        "total_amount": 5595.66,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 34,
+        "customer_id": 13,
+        "order date": "2023-06-16",
+        "item_details": "Device x65 ($68.39 each)",
+        "total_amount": 2911.75,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 35,
+        "customer_id": 238,
+        "order date": "2021-09-16",
+        "item_details": "Gadget x15 ($476.74 each)",
+        "total_amount": 8144.15,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 36,
+        "customer_id": 777,
+        "order date": "2021-05-07",
+        "item_details": "Widget x100 ($212.21 each), Doohickey x32 ($496.27 each), Gadget x99 ($404.93 each)",
+        "total_amount": 7993.75,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 37,
+        "customer_id": 133,
+        "order date": "2023-05-22",
+        "item_details": "Implement x33 ($180.34 each)",
+        "total_amount": 9616.6,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 38,
+        "customer_id": 901,
+        "order date": "2023-09-20",
+        "item_details": "Machine x32 ($145.19 each), Implement x70 ($32.20 each), Instrument x21 ($126.31 each)",
+        "total_amount": 9126.56,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 39,
+        "customer_id": 831,
+        "order date": "2022-02-26",
+        "item_details": "Instrument x40 ($53.38 each), Machine x78 ($70.96 each), Instrument x26 ($422.43 each)",
+        "total_amount": 3458.83,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 40,
+        "customer_id": 361,
+        "order date": "2022-10-03",
+        "item_details": "Contraption x100 ($69.50 each), Machine x91 ($127.81 each)",
+        "total_amount": 4061.8,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 41,
+        "customer_id": 379,
+        "order date": "2022-11-27",
+        "item_details": "Device x89 ($433.40 each)",
+        "total_amount": 9323.13,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 42,
+        "customer_id": 828,
+        "order date": "2023-08-07",
+        "item_details": "Device x43 ($421.16 each), Machine x48 ($202.20 each), Contraption x57 ($478.91 each)",
+        "total_amount": 619.46,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 43,
+        "customer_id": 987,
+        "order date": "2020-07-28",
+        "item_details": "Gadget x36 ($91.53 each)",
+        "total_amount": 3392.62,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 44,
+        "customer_id": 137,
+        "order date": "2021-04-06",
+        "item_details": "Apparatus x36 ($152.01 each)",
+        "total_amount": 7252.35,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 45,
+        "customer_id": 886,
+        "order date": "2023-02-15",
+        "item_details": "Device x69 ($484.93 each), Tool x14 ($263.03 each), Tool x12 ($213.90 each)",
+        "total_amount": 5276.69,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 46,
+        "customer_id": 277,
+        "order date": "2023-07-28",
+        "item_details": "Instrument x38 ($166.87 each)",
+        "total_amount": 6584.7,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 47,
+        "customer_id": 397,
+        "order date": "2022-07-18",
+        "item_details": "Machine x91 ($119.02 each), Implement x18 ($406.79 each)",
+        "total_amount": 6719.01,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 48,
+        "customer_id": 228,
+        "order date": "2020-07-25",
+        "item_details": "Device x55 ($103.66 each), Device x100 ($451.42 each)",
+        "total_amount": 8191.36,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 49,
+        "customer_id": 47,
+        "order date": "2020-08-06",
+        "item_details": "Doohickey x40 ($479.22 each), Device x49 ($35.66 each)",
+        "total_amount": 2140.91,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 50,
+        "customer_id": 322,
+        "order date": "2021-04-08",
+        "item_details": "Tool x5 ($44.56 each), Apparatus x17 ($243.36 each)",
+        "total_amount": 9241.57,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 51,
+        "customer_id": 469,
+        "order date": "2023-06-05",
+        "item_details": "Widget x72 ($141.92 each)",
+        "total_amount": 6912.2,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 52,
+        "customer_id": 728,
+        "order date": "2021-12-02",
+        "item_details": "Machine x4 ($366.78 each)",
+        "total_amount": 6589.45,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 53,
+        "customer_id": 381,
+        "order date": "2023-04-18",
+        "item_details": "Widget x24 ($221.10 each), Doohickey x76 ($367.23 each)",
+        "total_amount": 8893.24,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 54,
+        "customer_id": 362,
+        "order date": "2023-04-22",
+        "item_details": "Device x71 ($89.45 each)",
+        "total_amount": 1712.17,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 55,
+        "customer_id": 796,
+        "order date": "2021-09-14",
+        "item_details": "Doohickey x50 ($443.78 each), Contraption x6 ($435.41 each)",
+        "total_amount": 9127.71,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 56,
+        "customer_id": 38,
+        "order date": "2020-09-05",
+        "item_details": "Implement x53 ($425.24 each)",
+        "total_amount": 5010.01,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 57,
+        "customer_id": 219,
+        "order date": "2022-11-02",
+        "item_details": "Contraption x66 ($172.85 each), Widget x34 ($188.63 each), Tool x42 ($35.23 each)",
+        "total_amount": 8268.38,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 58,
+        "customer_id": 356,
+        "order date": "2023-06-20",
+        "item_details": "Apparatus x80 ($490.08 each), Widget x30 ($389.30 each)",
+        "total_amount": 3999.33,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 59,
+        "customer_id": 283,
+        "order date": "2022-09-23",
+        "item_details": "Tool x59 ($458.37 each), Apparatus x41 ($136.44 each)",
+        "total_amount": 2325.35,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 60,
+        "customer_id": 52,
+        "order date": "2022-07-24",
+        "item_details": "Tool x69 ($472.57 each)",
+        "total_amount": 2110.6,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 61,
+        "customer_id": 877,
+        "order date": "2021-04-13",
+        "item_details": "Device x84 ($150.35 each), Contraption x60 ($483.38 each), Implement x31 ($60.43 each)",
+        "total_amount": 853.65,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 62,
+        "customer_id": 985,
+        "order date": "2020-07-06",
+        "item_details": "Instrument x95 ($140.34 each)",
+        "total_amount": 597.69,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 63,
+        "customer_id": 721,
+        "order date": "2022-09-17",
+        "item_details": "Contraption x28 ($108.89 each), Gadget x67 ($80.71 each)",
+        "total_amount": 5612.11,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 64,
+        "customer_id": 102,
+        "order date": "2021-07-10",
+        "item_details": "Gadget x71 ($199.55 each), Implement x100 ($256.03 each)",
+        "total_amount": 3486.58,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 65,
+        "customer_id": 307,
+        "order date": "2022-05-17",
+        "item_details": "Widget x25 ($195.99 each)",
+        "total_amount": 733.38,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 66,
+        "customer_id": 772,
+        "order date": "2023-11-21",
+        "item_details": "Contraption x50 ($62.35 each), Machine x24 ($288.55 each), Apparatus x19 ($324.82 each)",
+        "total_amount": 2040.66,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 67,
+        "customer_id": 329,
+        "order date": "2022-04-30",
+        "item_details": "Machine x14 ($335.54 each), Contraption x66 ($224.79 each), Implement x52 ($250.14 each)",
+        "total_amount": 775.41,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 68,
+        "customer_id": 836,
+        "order date": "2020-03-04",
+        "item_details": "Machine x74 ($70.85 each), Instrument x89 ($337.57 each), Instrument x59 ($161.18 each)",
+        "total_amount": 2706.04,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 69,
+        "customer_id": 125,
+        "order date": "2021-08-26",
+        "item_details": "Contraption x32 ($206.43 each), Doohickey x41 ($452.85 each)",
+        "total_amount": 7935.82,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 70,
+        "customer_id": 448,
+        "order date": "2021-10-28",
+        "item_details": "Doohickey x66 ($401.91 each), Doohickey x34 ($148.84 each), Contraption x36 ($74.34 each)",
+        "total_amount": 4046.7,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 71,
+        "customer_id": 646,
+        "order date": "2023-08-15",
+        "item_details": "Apparatus x18 ($337.92 each), Machine x61 ($219.75 each)",
+        "total_amount": 3680.09,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 72,
+        "customer_id": 284,
+        "order date": "2020-08-14",
+        "item_details": "Gadget x30 ($252.26 each), Instrument x32 ($493.13 each), Gadget x63 ($275.73 each)",
+        "total_amount": 907.4,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 73,
+        "customer_id": 840,
+        "order date": "2021-07-15",
+        "item_details": "Apparatus x73 ($486.36 each), Device x11 ($186.45 each), Instrument x7 ($495.47 each)",
+        "total_amount": 7379.29,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 74,
+        "customer_id": 50,
+        "order date": "2022-12-08",
+        "item_details": "Contraption x100 ($313.92 each), Apparatus x40 ($432.52 each)",
+        "total_amount": 3347.64,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 75,
+        "customer_id": 759,
+        "order date": "2021-07-29",
+        "item_details": "Tool x25 ($257.08 each), Device x68 ($421.38 each), Gadget x7 ($99.33 each)",
+        "total_amount": 8390.96,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 76,
+        "customer_id": 781,
+        "order date": "2021-12-21",
+        "item_details": "Doohickey x58 ($368.84 each), Machine x52 ($186.13 each)",
+        "total_amount": 8873.82,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 77,
+        "customer_id": 195,
+        "order date": "2021-01-01",
+        "item_details": "Gadget x78 ($472.26 each), Machine x83 ($448.27 each), Apparatus x27 ($290.88 each)",
+        "total_amount": 4544.79,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 78,
+        "customer_id": 792,
+        "order date": "2021-03-06",
+        "item_details": "Contraption x47 ($347.05 each), Doohickey x66 ($112.85 each)",
+        "total_amount": 515.13,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 79,
+        "customer_id": 315,
+        "order date": "2023-08-07",
+        "item_details": "Tool x11 ($246.80 each), Widget x67 ($460.79 each), Apparatus x50 ($97.49 each)",
+        "total_amount": 5485.33,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 80,
+        "customer_id": 179,
+        "order date": "2023-06-30",
+        "item_details": "Widget x48 ($64.50 each), Doohickey x93 ($407.45 each)",
+        "total_amount": 7347.21,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 81,
+        "customer_id": 211,
+        "order date": "2022-11-09",
+        "item_details": "Machine x30 ($239.27 each)",
+        "total_amount": 7081.38,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 82,
+        "customer_id": 264,
+        "order date": "2023-01-03",
+        "item_details": "Apparatus x21 ($73.18 each), Doohickey x36 ($459.57 each)",
+        "total_amount": 7767.31,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 83,
+        "customer_id": 448,
+        "order date": "2021-02-25",
+        "item_details": "Widget x35 ($387.09 each), Device x7 ($485.79 each), Widget x52 ($352.44 each)",
+        "total_amount": 4292.74,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 84,
+        "customer_id": 818,
+        "order date": "2020-03-29",
+        "item_details": "Tool x24 ($498.75 each)",
+        "total_amount": 8152.3,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 85,
+        "customer_id": 694,
+        "order date": "2023-12-05",
+        "item_details": "Machine x6 ($156.90 each), Implement x99 ($331.58 each), Widget x38 ($274.09 each)",
+        "total_amount": 4831.32,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 86,
+        "customer_id": 407,
+        "order date": "2023-02-06",
+        "item_details": "Doohickey x42 ($393.45 each)",
+        "total_amount": 7394.59,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 87,
+        "customer_id": 800,
+        "order date": "2022-08-10",
+        "item_details": "Gadget x59 ($376.33 each), Implement x55 ($131.91 each)",
+        "total_amount": 7823.86,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 88,
+        "customer_id": 267,
+        "order date": "2021-07-16",
+        "item_details": "Gadget x35 ($195.69 each), Implement x43 ($340.45 each), Device x56 ($373.05 each)",
+        "total_amount": 4412.08,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 89,
+        "customer_id": 781,
+        "order date": "2023-05-24",
+        "item_details": "Doohickey x62 ($209.75 each), Tool x73 ($307.37 each), Doohickey x2 ($321.29 each)",
+        "total_amount": 2512.68,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 90,
+        "customer_id": 359,
+        "order date": "2022-02-27",
+        "item_details": "Instrument x1 ($312.47 each), Device x17 ($465.35 each), Device x78 ($268.06 each)",
+        "total_amount": 4649.77,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 91,
+        "customer_id": 853,
+        "order date": "2021-11-25",
+        "item_details": "Doohickey x16 ($454.37 each)",
+        "total_amount": 1655.4,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 92,
+        "customer_id": 92,
+        "order date": "2022-11-26",
+        "item_details": "Implement x89 ($129.83 each), Doohickey x85 ($334.52 each)",
+        "total_amount": 9740.99,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 93,
+        "customer_id": 795,
+        "order date": "2021-08-10",
+        "item_details": "Gadget x7 ($477.57 each), Widget x49 ($473.02 each)",
+        "total_amount": 3290.07,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 94,
+        "customer_id": 136,
+        "order date": "2020-11-21",
+        "item_details": "Doohickey x13 ($124.79 each), Gadget x55 ($235.90 each)",
+        "total_amount": 7094.66,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 95,
+        "customer_id": 356,
+        "order date": "2022-10-04",
+        "item_details": "Tool x75 ($256.90 each)",
+        "total_amount": 2721.38,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 96,
+        "customer_id": 634,
+        "order date": "2021-02-03",
+        "item_details": "Apparatus x69 ($294.00 each), Apparatus x2 ($185.43 each)",
+        "total_amount": 3103.0,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 97,
+        "customer_id": 690,
+        "order date": "2020-11-19",
+        "item_details": "Apparatus x47 ($130.23 each)",
+        "total_amount": 277.52,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 98,
+        "customer_id": 357,
+        "order date": "2020-07-21",
+        "item_details": "Gadget x82 ($158.81 each), Device x20 ($289.29 each), Gadget x28 ($76.00 each)",
+        "total_amount": 8557.91,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 99,
+        "customer_id": 162,
+        "order date": "2020-10-05",
+        "item_details": "Apparatus x76 ($59.36 each), Machine x7 ($275.79 each)",
+        "total_amount": 5627.99,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 100,
+        "customer_id": 33,
+        "order date": "2020-05-26",
+        "item_details": "Contraption x41 ($447.19 each), Widget x81 ($265.83 each), Widget x10 ($267.26 each)",
+        "total_amount": 8556.77,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 101,
+        "customer_id": 779,
+        "order date": "2023-05-13",
+        "item_details": "Doohickey x37 ($99.67 each), Instrument x90 ($359.94 each), Tool x11 ($301.66 each)",
+        "total_amount": 7158.71,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 102,
+        "customer_id": 392,
+        "order date": "2023-03-16",
+        "item_details": "Instrument x7 ($385.23 each)",
+        "total_amount": 4833.01,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 103,
+        "customer_id": 810,
+        "order date": "2022-06-21",
+        "item_details": "Machine x48 ($296.76 each), Contraption x28 ($121.59 each), Contraption x98 ($99.44 each)",
+        "total_amount": 4758.39,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 104,
+        "customer_id": 772,
+        "order date": "2020-08-19",
+        "item_details": "Implement x97 ($62.65 each)",
+        "total_amount": 6443.02,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 105,
+        "customer_id": 342,
+        "order date": "2023-07-24",
+        "item_details": "Gadget x31 ($120.52 each), Apparatus x65 ($151.59 each), Machine x17 ($425.55 each)",
+        "total_amount": 9350.82,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 106,
+        "customer_id": 36,
+        "order date": "2020-04-07",
+        "item_details": "Device x77 ($391.59 each), Gadget x73 ($460.98 each)",
+        "total_amount": 9631.92,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 107,
+        "customer_id": 564,
+        "order date": "2020-07-27",
+        "item_details": "Implement x3 ($93.31 each), Machine x4 ($290.51 each), Widget x61 ($305.09 each)",
+        "total_amount": 9643.12,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 108,
+        "customer_id": 851,
+        "order date": "2022-11-02",
+        "item_details": "Apparatus x73 ($167.03 each), Widget x11 ($425.11 each), Machine x72 ($437.23 each)",
+        "total_amount": 6758.52,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 109,
+        "customer_id": 762,
+        "order date": "2022-12-10",
+        "item_details": "Implement x76 ($57.17 each), Widget x45 ($278.79 each), Instrument x23 ($325.26 each)",
+        "total_amount": 4457.75,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 110,
+        "customer_id": 703,
+        "order date": "2022-09-30",
+        "item_details": "Gadget x92 ($426.52 each)",
+        "total_amount": 6625.49,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 111,
+        "customer_id": 789,
+        "order date": "2023-02-03",
+        "item_details": "Contraption x20 ($287.18 each), Widget x66 ($414.53 each)",
+        "total_amount": 8996.94,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 112,
+        "customer_id": 545,
+        "order date": "2021-02-17",
+        "item_details": "Doohickey x10 ($373.75 each)",
+        "total_amount": 7331.16,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 113,
+        "customer_id": 537,
+        "order date": "2020-01-01",
+        "item_details": "Apparatus x24 ($152.28 each)",
+        "total_amount": 1944.49,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 114,
+        "customer_id": 804,
+        "order date": "2023-05-27",
+        "item_details": "Contraption x38 ($90.55 each), Tool x44 ($103.25 each), Doohickey x42 ($193.42 each)",
+        "total_amount": 2917.85,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 115,
+        "customer_id": 854,
+        "order date": "2023-05-18",
+        "item_details": "Tool x10 ($207.44 each)",
+        "total_amount": 8452.73,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 116,
+        "customer_id": 551,
+        "order date": "2021-04-11",
+        "item_details": "Apparatus x40 ($41.11 each)",
+        "total_amount": 3112.86,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 117,
+        "customer_id": 355,
+        "order date": "2020-11-23",
+        "item_details": "Implement x75 ($265.02 each), Widget x91 ($275.75 each)",
+        "total_amount": 9226.97,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 118,
+        "customer_id": 627,
+        "order date": "2023-09-15",
+        "item_details": "Contraption x52 ($130.48 each)",
+        "total_amount": 534.84,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 119,
+        "customer_id": 873,
+        "order date": "2022-05-13",
+        "item_details": "Implement x1 ($347.16 each), Device x96 ($123.50 each), Widget x10 ($349.17 each)",
+        "total_amount": 6931.76,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 120,
+        "customer_id": 419,
+        "order date": "2021-08-06",
+        "item_details": "Tool x10 ($113.81 each), Gadget x66 ($397.52 each), Instrument x50 ($467.31 each)",
+        "total_amount": 8846.51,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 121,
+        "customer_id": 29,
+        "order date": "2022-11-26",
+        "item_details": "Implement x21 ($65.41 each), Tool x53 ($425.96 each)",
+        "total_amount": 1948.4,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 122,
+        "customer_id": 154,
+        "order date": "2022-12-22",
+        "item_details": "Widget x45 ($390.97 each)",
+        "total_amount": 8269.54,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 123,
+        "customer_id": 747,
+        "order date": "2020-11-23",
+        "item_details": "Machine x17 ($191.88 each), Doohickey x46 ($224.85 each), Instrument x14 ($321.78 each)",
+        "total_amount": 2814.01,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 124,
+        "customer_id": 306,
+        "order date": "2022-04-17",
+        "item_details": "Contraption x89 ($487.07 each), Apparatus x11 ($134.80 each)",
+        "total_amount": 5785.68,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 125,
+        "customer_id": 525,
+        "order date": "2021-10-14",
+        "item_details": "Tool x42 ($303.53 each), Widget x69 ($337.67 each), Instrument x39 ($471.47 each)",
+        "total_amount": 1183.8,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 126,
+        "customer_id": 576,
+        "order date": "2021-02-20",
+        "item_details": "Instrument x6 ($442.33 each), Contraption x86 ($119.63 each), Widget x33 ($452.37 each)",
+        "total_amount": 8457.56,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 127,
+        "customer_id": 919,
+        "order date": "2021-02-23",
+        "item_details": "Apparatus x31 ($132.68 each), Gadget x96 ($442.29 each)",
+        "total_amount": 6270.71,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 128,
+        "customer_id": 701,
+        "order date": "2021-12-12",
+        "item_details": "Device x67 ($220.72 each)",
+        "total_amount": 9108.79,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 129,
+        "customer_id": 372,
+        "order date": "2023-04-18",
+        "item_details": "Tool x52 ($453.01 each), Machine x36 ($417.94 each), Gadget x72 ($240.96 each)",
+        "total_amount": 972.83,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 130,
+        "customer_id": 126,
+        "order date": "2023-04-01",
+        "item_details": "Instrument x90 ($167.66 each)",
+        "total_amount": 4430.6,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 131,
+        "customer_id": 821,
+        "order date": "2020-09-23",
+        "item_details": "Instrument x54 ($386.95 each)",
+        "total_amount": 9462.13,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 132,
+        "customer_id": 31,
+        "order date": "2021-04-07",
+        "item_details": "Device x9 ($466.02 each)",
+        "total_amount": 9011.65,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 133,
+        "customer_id": 983,
+        "order date": "2021-07-11",
+        "item_details": "Device x74 ($217.86 each), Tool x60 ($401.11 each)",
+        "total_amount": 6058.38,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 134,
+        "customer_id": 567,
+        "order date": "2023-01-10",
+        "item_details": "Tool x15 ($348.05 each)",
+        "total_amount": 2389.3,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 135,
+        "customer_id": 217,
+        "order date": "2023-05-01",
+        "item_details": "Widget x63 ($10.39 each)",
+        "total_amount": 9348.74,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 136,
+        "customer_id": 132,
+        "order date": "2021-11-16",
+        "item_details": "Doohickey x17 ($382.20 each)",
+        "total_amount": 5037.33,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 137,
+        "customer_id": 771,
+        "order date": "2023-01-25",
+        "item_details": "Machine x80 ($24.33 each), Doohickey x13 ($371.27 each), Contraption x55 ($318.56 each)",
+        "total_amount": 2856.93,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 138,
+        "customer_id": 566,
+        "order date": "2020-11-07",
+        "item_details": "Widget x86 ($94.75 each), Widget x22 ($357.46 each)",
+        "total_amount": 7799.81,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 139,
+        "customer_id": 665,
+        "order date": "2022-05-13",
+        "item_details": "Instrument x56 ($162.12 each)",
+        "total_amount": 3911.09,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 140,
+        "customer_id": 464,
+        "order date": "2021-04-04",
+        "item_details": "Instrument x20 ($161.41 each), Widget x10 ($338.09 each)",
+        "total_amount": 3315.69,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 141,
+        "customer_id": 99,
+        "order date": "2023-07-09",
+        "item_details": "Apparatus x67 ($67.56 each), Doohickey x74 ($262.08 each)",
+        "total_amount": 9744.36,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 142,
+        "customer_id": 742,
+        "order date": "2022-12-23",
+        "item_details": "Tool x19 ($153.84 each), Contraption x99 ($139.76 each)",
+        "total_amount": 7061.12,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 143,
+        "customer_id": 85,
+        "order date": "2022-08-11",
+        "item_details": "Gadget x20 ($471.89 each), Machine x80 ($234.14 each), Doohickey x34 ($418.64 each)",
+        "total_amount": 1348.69,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 144,
+        "customer_id": 734,
+        "order date": "2020-12-15",
+        "item_details": "Device x10 ($299.55 each), Doohickey x55 ($51.36 each)",
+        "total_amount": 8606.97,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 145,
+        "customer_id": 712,
+        "order date": "2020-10-12",
+        "item_details": "Instrument x76 ($19.91 each), Implement x84 ($180.65 each)",
+        "total_amount": 6032.74,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 146,
+        "customer_id": 740,
+        "order date": "2021-08-17",
+        "item_details": "Tool x34 ($268.88 each), Implement x88 ($65.28 each)",
+        "total_amount": 5398.94,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 147,
+        "customer_id": 734,
+        "order date": "2022-05-29",
+        "item_details": "Implement x23 ($358.02 each)",
+        "total_amount": 5939.45,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 148,
+        "customer_id": 139,
+        "order date": "2022-02-17",
+        "item_details": "Widget x90 ($247.19 each), Widget x5 ($114.37 each), Tool x96 ($420.89 each)",
+        "total_amount": 3826.01,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 149,
+        "customer_id": 844,
+        "order date": "2022-06-07",
+        "item_details": "Doohickey x82 ($410.80 each), Device x41 ($372.67 each), Contraption x59 ($222.66 each)",
+        "total_amount": 6073.61,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 150,
+        "customer_id": 551,
+        "order date": "2022-08-16",
+        "item_details": "Gadget x67 ($295.15 each), Doohickey x81 ($468.64 each)",
+        "total_amount": 6369.31,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 151,
+        "customer_id": 742,
+        "order date": "2022-12-04",
+        "item_details": "Widget x9 ($74.27 each)",
+        "total_amount": 9309.78,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 152,
+        "customer_id": 771,
+        "order date": "2020-04-12",
+        "item_details": "Apparatus x89 ($128.07 each), Tool x24 ($267.96 each)",
+        "total_amount": 8112.0,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 153,
+        "customer_id": 412,
+        "order date": "2022-02-05",
+        "item_details": "Contraption x62 ($443.28 each), Apparatus x22 ($259.24 each), Widget x100 ($186.64 each)",
+        "total_amount": 6445.72,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 154,
+        "customer_id": 988,
+        "order date": "2023-04-27",
+        "item_details": "Gadget x62 ($100.86 each)",
+        "total_amount": 958.32,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 155,
+        "customer_id": 84,
+        "order date": "2023-09-28",
+        "item_details": "Instrument x93 ($431.67 each), Contraption x47 ($46.22 each)",
+        "total_amount": 8289.36,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 156,
+        "customer_id": 516,
+        "order date": "2022-10-14",
+        "item_details": "Implement x53 ($324.86 each), Widget x41 ($358.29 each), Contraption x40 ($130.12 each)",
+        "total_amount": 4367.34,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 157,
+        "customer_id": 579,
+        "order date": "2023-05-27",
+        "item_details": "Doohickey x15 ($99.02 each)",
+        "total_amount": 1060.38,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 158,
+        "customer_id": 707,
+        "order date": "2023-07-29",
+        "item_details": "Contraption x84 ($397.92 each), Contraption x94 ($48.23 each)",
+        "total_amount": 3975.46,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 159,
+        "customer_id": 117,
+        "order date": "2021-04-02",
+        "item_details": "Doohickey x45 ($31.51 each)",
+        "total_amount": 261.69,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 160,
+        "customer_id": 459,
+        "order date": "2020-02-02",
+        "item_details": "Device x17 ($230.97 each)",
+        "total_amount": 7022.62,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 161,
+        "customer_id": 123,
+        "order date": "2022-12-28",
+        "item_details": "Tool x64 ($36.75 each), Device x23 ($93.34 each), Widget x21 ($212.58 each)",
+        "total_amount": 7574.35,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 162,
+        "customer_id": 707,
+        "order date": "2021-08-03",
+        "item_details": "Device x100 ($43.11 each), Apparatus x93 ($473.08 each)",
+        "total_amount": 6110.96,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 163,
+        "customer_id": 470,
+        "order date": "2021-07-07",
+        "item_details": "Apparatus x98 ($179.72 each), Doohickey x26 ($132.86 each)",
+        "total_amount": 2028.12,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 164,
+        "customer_id": 183,
+        "order date": "2022-07-24",
+        "item_details": "Widget x61 ($490.77 each), Widget x20 ($126.53 each)",
+        "total_amount": 8159.35,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 165,
+        "customer_id": 106,
+        "order date": "2021-05-03",
+        "item_details": "Contraption x80 ($77.57 each)",
+        "total_amount": 1781.91,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 166,
+        "customer_id": 626,
+        "order date": "2021-05-15",
+        "item_details": "Tool x22 ($40.19 each)",
+        "total_amount": 1410.42,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 167,
+        "customer_id": 397,
+        "order date": "2022-09-06",
+        "item_details": "Contraption x64 ($295.36 each), Instrument x94 ($489.18 each), Device x6 ($446.62 each)",
+        "total_amount": 9933.76,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 168,
+        "customer_id": 116,
+        "order date": "2021-02-24",
+        "item_details": "Machine x64 ($245.28 each), Device x85 ($374.56 each), Apparatus x97 ($465.09 each)",
+        "total_amount": 3146.39,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 169,
+        "customer_id": 95,
+        "order date": "2022-05-06",
+        "item_details": "Doohickey x32 ($27.19 each)",
+        "total_amount": 8912.72,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 170,
+        "customer_id": 581,
+        "order date": "2022-05-11",
+        "item_details": "Widget x38 ($468.02 each), Device x12 ($297.64 each)",
+        "total_amount": 8297.22,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 171,
+        "customer_id": 352,
+        "order date": "2022-08-29",
+        "item_details": "Tool x53 ($210.32 each)",
+        "total_amount": 5204.35,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 172,
+        "customer_id": 766,
+        "order date": "2022-08-07",
+        "item_details": "Widget x74 ($129.95 each)",
+        "total_amount": 7136.66,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 173,
+        "customer_id": 344,
+        "order date": "2021-05-17",
+        "item_details": "Instrument x54 ($454.18 each), Contraption x21 ($217.94 each)",
+        "total_amount": 9383.3,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 174,
+        "customer_id": 707,
+        "order date": "2021-02-25",
+        "item_details": "Widget x26 ($342.15 each), Instrument x71 ($442.82 each)",
+        "total_amount": 3939.33,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 175,
+        "customer_id": 619,
+        "order date": "2021-09-30",
+        "item_details": "Widget x77 ($466.78 each)",
+        "total_amount": 8413.89,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 176,
+        "customer_id": 326,
+        "order date": "2023-02-22",
+        "item_details": "Doohickey x67 ($415.85 each), Device x23 ($197.70 each)",
+        "total_amount": 8394.63,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 177,
+        "customer_id": 235,
+        "order date": "2023-10-22",
+        "item_details": "Tool x53 ($362.29 each)",
+        "total_amount": 6658.53,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 178,
+        "customer_id": 294,
+        "order date": "2021-01-01",
+        "item_details": "Device x48 ($11.80 each)",
+        "total_amount": 7641.75,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 179,
+        "customer_id": 851,
+        "order date": "2021-06-23",
+        "item_details": "Implement x97 ($107.28 each), Device x55 ($494.28 each)",
+        "total_amount": 7551.31,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 180,
+        "customer_id": 630,
+        "order date": "2021-08-03",
+        "item_details": "Contraption x54 ($46.00 each)",
+        "total_amount": 238.93,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 181,
+        "customer_id": 340,
+        "order date": "2022-12-03",
+        "item_details": "Contraption x66 ($322.66 each), Contraption x21 ($459.78 each), Doohickey x44 ($401.82 each)",
+        "total_amount": 6257.34,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 182,
+        "customer_id": 335,
+        "order date": "2020-09-24",
+        "item_details": "Implement x1 ($420.69 each), Device x29 ($57.46 each)",
+        "total_amount": 222.02,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 183,
+        "customer_id": 739,
+        "order date": "2020-01-11",
+        "item_details": "Tool x11 ($489.29 each), Machine x85 ($374.33 each)",
+        "total_amount": 5528.13,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 184,
+        "customer_id": 887,
+        "order date": "2020-07-26",
+        "item_details": "Device x46 ($492.45 each)",
+        "total_amount": 5341.76,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 185,
+        "customer_id": 439,
+        "order date": "2022-01-25",
+        "item_details": "Device x1 ($286.60 each), Implement x52 ($277.19 each)",
+        "total_amount": 3489.59,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 186,
+        "customer_id": 228,
+        "order date": "2021-06-22",
+        "item_details": "Device x63 ($16.58 each), Contraption x75 ($227.92 each), Gadget x19 ($29.84 each)",
+        "total_amount": 2691.72,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 187,
+        "customer_id": 491,
+        "order date": "2021-03-06",
+        "item_details": "Apparatus x39 ($177.16 each), Gadget x7 ($141.25 each), Doohickey x56 ($246.65 each)",
+        "total_amount": 1366.26,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 188,
+        "customer_id": 71,
+        "order date": "2023-02-04",
+        "item_details": "Machine x41 ($419.11 each)",
+        "total_amount": 132.84,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 189,
+        "customer_id": 268,
+        "order date": "2021-02-02",
+        "item_details": "Doohickey x17 ($16.94 each), Apparatus x81 ($16.93 each), Implement x98 ($367.24 each)",
+        "total_amount": 445.62,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 190,
+        "customer_id": 8,
+        "order date": "2023-06-21",
+        "item_details": "Apparatus x54 ($102.65 each), Gadget x90 ($178.55 each)",
+        "total_amount": 4729.88,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 191,
+        "customer_id": 537,
+        "order date": "2023-02-23",
+        "item_details": "Doohickey x97 ($174.57 each), Implement x100 ($241.10 each), Machine x68 ($137.90 each)",
+        "total_amount": 6810.06,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 192,
+        "customer_id": 29,
+        "order date": "2023-10-13",
+        "item_details": "Instrument x74 ($449.50 each), Machine x55 ($54.57 each)",
+        "total_amount": 5250.92,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 193,
+        "customer_id": 349,
+        "order date": "2020-02-07",
+        "item_details": "Machine x40 ($57.20 each)",
+        "total_amount": 5171.83,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 194,
+        "customer_id": 598,
+        "order date": "2020-01-01",
+        "item_details": "Gadget x53 ($90.59 each)",
+        "total_amount": 6348.55,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 195,
+        "customer_id": 540,
+        "order date": "2020-02-12",
+        "item_details": "Doohickey x71 ($268.91 each), Doohickey x26 ($66.69 each)",
+        "total_amount": 8045.93,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 196,
+        "customer_id": 30,
+        "order date": "2020-11-23",
+        "item_details": "Gadget x20 ($192.19 each), Doohickey x78 ($288.08 each)",
+        "total_amount": 8893.81,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 197,
+        "customer_id": 696,
+        "order date": "2021-10-01",
+        "item_details": "Implement x36 ($201.92 each), Implement x77 ($182.68 each)",
+        "total_amount": 5402.01,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 198,
+        "customer_id": 203,
+        "order date": "2020-06-04",
+        "item_details": "Apparatus x70 ($117.15 each), Gadget x75 ($493.03 each)",
+        "total_amount": 4656.51,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 199,
+        "customer_id": 93,
+        "order date": "2022-06-05",
+        "item_details": "Implement x8 ($291.70 each), Instrument x35 ($360.47 each), Widget x77 ($463.81 each)",
+        "total_amount": 8650.43,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 200,
+        "customer_id": 893,
+        "order date": "2023-10-22",
+        "item_details": "Contraption x80 ($198.96 each), Doohickey x54 ($63.95 each), Contraption x68 ($368.41 each)",
+        "total_amount": 3632.42,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 201,
+        "customer_id": 981,
+        "order date": "2022-05-21",
+        "item_details": "Tool x41 ($460.39 each), Widget x33 ($243.71 each)",
+        "total_amount": 8941.83,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 202,
+        "customer_id": 30,
+        "order date": "2020-10-05",
+        "item_details": "Contraption x46 ($144.79 each), Device x23 ($296.06 each)",
+        "total_amount": 9310.82,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 203,
+        "customer_id": 843,
+        "order date": "2021-12-24",
+        "item_details": "Instrument x31 ($398.76 each)",
+        "total_amount": 5197.97,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 204,
+        "customer_id": 958,
+        "order date": "2021-01-12",
+        "item_details": "Doohickey x76 ($417.68 each), Tool x73 ($301.99 each)",
+        "total_amount": 3315.03,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 205,
+        "customer_id": 926,
+        "order date": "2021-09-21",
+        "item_details": "Contraption x79 ($415.26 each)",
+        "total_amount": 9448.53,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 206,
+        "customer_id": 602,
+        "order date": "2022-12-03",
+        "item_details": "Device x37 ($60.28 each), Widget x50 ($470.55 each)",
+        "total_amount": 6823.79,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 207,
+        "customer_id": 958,
+        "order date": "2021-07-13",
+        "item_details": "Doohickey x77 ($198.17 each), Instrument x15 ($95.17 each), Device x2 ($395.46 each)",
+        "total_amount": 5827.76,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 208,
+        "customer_id": 926,
+        "order date": "2022-12-09",
+        "item_details": "Machine x39 ($376.10 each), Contraption x17 ($331.07 each), Doohickey x76 ($280.09 each)",
+        "total_amount": 4839.14,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 209,
+        "customer_id": 776,
+        "order date": "2022-12-05",
+        "item_details": "Doohickey x46 ($290.56 each)",
+        "total_amount": 158.96,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 210,
+        "customer_id": 615,
+        "order date": "2023-11-24",
+        "item_details": "Apparatus x58 ($130.73 each), Doohickey x7 ($33.52 each)",
+        "total_amount": 9285.67,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 211,
+        "customer_id": 735,
+        "order date": "2022-09-18",
+        "item_details": "Device x64 ($447.64 each), Doohickey x82 ($167.55 each), Contraption x88 ($402.68 each)",
+        "total_amount": 637.68,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 212,
+        "customer_id": 772,
+        "order date": "2022-01-25",
+        "item_details": "Apparatus x1 ($306.27 each), Apparatus x24 ($214.08 each), Tool x92 ($340.13 each)",
+        "total_amount": 3805.63,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 213,
+        "customer_id": 11,
+        "order date": "2022-01-05",
+        "item_details": "Gadget x72 ($163.96 each), Gadget x43 ($153.46 each), Implement x35 ($327.23 each)",
+        "total_amount": 5938.39,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 214,
+        "customer_id": 136,
+        "order date": "2020-05-26",
+        "item_details": "Device x85 ($72.82 each), Widget x39 ($110.75 each), Widget x26 ($386.77 each)",
+        "total_amount": 9854.78,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 215,
+        "customer_id": 734,
+        "order date": "2023-08-26",
+        "item_details": "Instrument x33 ($449.29 each), Doohickey x35 ($209.66 each)",
+        "total_amount": 4244.94,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 216,
+        "customer_id": 380,
+        "order date": "2021-09-29",
+        "item_details": "Apparatus x57 ($326.71 each), Widget x14 ($82.40 each)",
+        "total_amount": 7192.12,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 217,
+        "customer_id": 88,
+        "order date": "2020-11-30",
+        "item_details": "Doohickey x52 ($86.96 each)",
+        "total_amount": 6119.06,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 218,
+        "customer_id": 585,
+        "order date": "2023-09-01",
+        "item_details": "Contraption x37 ($188.98 each), Apparatus x18 ($131.54 each), Machine x90 ($364.10 each)",
+        "total_amount": 5809.24,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 219,
+        "customer_id": 571,
+        "order date": "2021-09-21",
+        "item_details": "Instrument x95 ($203.47 each), Machine x61 ($95.10 each)",
+        "total_amount": 8590.05,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 220,
+        "customer_id": 122,
+        "order date": "2021-12-07",
+        "item_details": "Machine x23 ($366.29 each)",
+        "total_amount": 9002.18,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 221,
+        "customer_id": 695,
+        "order date": "2023-09-16",
+        "item_details": "Contraption x23 ($457.15 each), Gadget x12 ($187.58 each), Doohickey x26 ($481.48 each)",
+        "total_amount": 6345.72,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 222,
+        "customer_id": 449,
+        "order date": "2021-11-03",
+        "item_details": "Widget x37 ($59.52 each), Contraption x72 ($250.68 each)",
+        "total_amount": 1251.72,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 223,
+        "customer_id": 916,
+        "order date": "2021-11-17",
+        "item_details": "Implement x67 ($334.49 each), Device x14 ($240.08 each), Device x97 ($347.25 each)",
+        "total_amount": 4034.55,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 224,
+        "customer_id": 643,
+        "order date": "2023-05-26",
+        "item_details": "Tool x18 ($102.04 each)",
+        "total_amount": 6358.49,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 225,
+        "customer_id": 228,
+        "order date": "2023-07-25",
+        "item_details": "Tool x34 ($177.57 each)",
+        "total_amount": 9898.38,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 226,
+        "customer_id": 22,
+        "order date": "2021-01-16",
+        "item_details": "Implement x21 ($399.78 each), Implement x50 ($201.03 each), Instrument x89 ($374.71 each)",
+        "total_amount": 2769.02,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 227,
+        "customer_id": 233,
+        "order date": "2020-01-06",
+        "item_details": "Instrument x45 ($408.51 each)",
+        "total_amount": 1744.67,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 228,
+        "customer_id": 66,
+        "order date": "2023-12-18",
+        "item_details": "Apparatus x94 ($425.91 each)",
+        "total_amount": 9065.18,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 229,
+        "customer_id": 832,
+        "order date": "2022-11-26",
+        "item_details": "Contraption x25 ($158.87 each), Contraption x13 ($249.76 each), Implement x54 ($317.17 each)",
+        "total_amount": 7240.85,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 230,
+        "customer_id": 292,
+        "order date": "2021-06-14",
+        "item_details": "Tool x85 ($488.98 each), Contraption x83 ($51.84 each)",
+        "total_amount": 912.73,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 231,
+        "customer_id": 509,
+        "order date": "2020-05-17",
+        "item_details": "Implement x40 ($160.01 each)",
+        "total_amount": 4395.89,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 232,
+        "customer_id": 34,
+        "order date": "2021-12-30",
+        "item_details": "Contraption x59 ($140.55 each), Machine x27 ($49.01 each)",
+        "total_amount": 6665.91,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 233,
+        "customer_id": 7,
+        "order date": "2020-08-27",
+        "item_details": "Implement x63 ($335.90 each)",
+        "total_amount": 7690.45,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 234,
+        "customer_id": 998,
+        "order date": "2020-12-18",
+        "item_details": "Apparatus x21 ($422.19 each), Doohickey x47 ($431.78 each)",
+        "total_amount": 307.22,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 235,
+        "customer_id": 914,
+        "order date": "2021-04-05",
+        "item_details": "Instrument x3 ($139.74 each), Tool x9 ($102.16 each)",
+        "total_amount": 4649.86,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 236,
+        "customer_id": 248,
+        "order date": "2020-09-30",
+        "item_details": "Device x6 ($443.31 each), Implement x68 ($343.28 each)",
+        "total_amount": 4109.18,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 237,
+        "customer_id": 101,
+        "order date": "2020-11-25",
+        "item_details": "Doohickey x48 ($367.89 each), Gadget x31 ($407.47 each)",
+        "total_amount": 5833.11,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 238,
+        "customer_id": 654,
+        "order date": "2022-07-20",
+        "item_details": "Tool x62 ($194.96 each), Machine x89 ($414.50 each)",
+        "total_amount": 4084.92,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 239,
+        "customer_id": 842,
+        "order date": "2022-02-06",
+        "item_details": "Apparatus x82 ($379.84 each), Apparatus x15 ($73.54 each)",
+        "total_amount": 7325.52,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 240,
+        "customer_id": 638,
+        "order date": "2021-12-30",
+        "item_details": "Instrument x65 ($463.31 each), Tool x64 ($277.02 each), Doohickey x4 ($50.00 each)",
+        "total_amount": 7785.99,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 241,
+        "customer_id": 231,
+        "order date": "2020-11-15",
+        "item_details": "Widget x23 ($119.46 each)",
+        "total_amount": 5680.81,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 242,
+        "customer_id": 986,
+        "order date": "2021-12-20",
+        "item_details": "Widget x2 ($370.28 each)",
+        "total_amount": 7353.9,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 243,
+        "customer_id": 233,
+        "order date": "2021-04-27",
+        "item_details": "Widget x79 ($396.02 each), Apparatus x87 ($116.46 each)",
+        "total_amount": 4243.92,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 244,
+        "customer_id": 594,
+        "order date": "2021-06-24",
+        "item_details": "Tool x77 ($183.91 each), Tool x80 ($87.67 each), Instrument x82 ($142.18 each)",
+        "total_amount": 4335.94,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 245,
+        "customer_id": 656,
+        "order date": "2023-08-29",
+        "item_details": "Implement x50 ($152.28 each), Widget x4 ($401.72 each), Machine x75 ($135.96 each)",
+        "total_amount": 9672.7,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 246,
+        "customer_id": 80,
+        "order date": "2021-01-11",
+        "item_details": "Apparatus x18 ($260.39 each), Gadget x74 ($417.64 each)",
+        "total_amount": 7390.59,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 247,
+        "customer_id": 178,
+        "order date": "2023-03-04",
+        "item_details": "Tool x72 ($253.47 each), Apparatus x8 ($68.72 each)",
+        "total_amount": 8326.32,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 248,
+        "customer_id": 600,
+        "order date": "2023-04-27",
+        "item_details": "Gadget x95 ($380.99 each), Tool x2 ($71.02 each)",
+        "total_amount": 7339.35,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 249,
+        "customer_id": 25,
+        "order date": "2021-02-25",
+        "item_details": "Device x100 ($93.18 each), Contraption x47 ($130.44 each), Widget x20 ($232.66 each)",
+        "total_amount": 9069.89,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 250,
+        "customer_id": 6,
+        "order date": "2020-01-18",
+        "item_details": "Tool x98 ($118.18 each), Widget x81 ($188.58 each)",
+        "total_amount": 8275.56,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 251,
+        "customer_id": 793,
+        "order date": "2023-03-31",
+        "item_details": "Gadget x54 ($105.61 each), Doohickey x5 ($259.37 each)",
+        "total_amount": 1939.45,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 252,
+        "customer_id": 123,
+        "order date": "2023-12-02",
+        "item_details": "Contraption x96 ($478.62 each)",
+        "total_amount": 4607.83,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 253,
+        "customer_id": 720,
+        "order date": "2022-12-09",
+        "item_details": "Machine x57 ($391.16 each)",
+        "total_amount": 2690.34,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 254,
+        "customer_id": 756,
+        "order date": "2020-02-01",
+        "item_details": "Implement x68 ($444.97 each), Widget x79 ($119.50 each)",
+        "total_amount": 2961.75,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 255,
+        "customer_id": 587,
+        "order date": "2021-02-16",
+        "item_details": "Tool x98 ($64.15 each), Gadget x81 ($405.53 each)",
+        "total_amount": 4047.72,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 256,
+        "customer_id": 212,
+        "order date": "2023-10-28",
+        "item_details": "Gadget x59 ($393.69 each), Machine x50 ($477.07 each)",
+        "total_amount": 5500.97,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 257,
+        "customer_id": 608,
+        "order date": "2022-06-20",
+        "item_details": "Machine x49 ($469.48 each)",
+        "total_amount": 5118.75,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 258,
+        "customer_id": 478,
+        "order date": "2020-05-31",
+        "item_details": "Tool x22 ($200.50 each)",
+        "total_amount": 1441.43,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 259,
+        "customer_id": 544,
+        "order date": "2023-04-19",
+        "item_details": "Doohickey x36 ($39.50 each)",
+        "total_amount": 5848.66,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 260,
+        "customer_id": 941,
+        "order date": "2020-03-17",
+        "item_details": "Gadget x80 ($314.58 each), Tool x8 ($97.95 each), Gadget x49 ($37.04 each)",
+        "total_amount": 2684.87,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 261,
+        "customer_id": 525,
+        "order date": "2021-03-27",
+        "item_details": "Doohickey x5 ($177.75 each), Device x13 ($316.60 each), Implement x24 ($32.91 each)",
+        "total_amount": 746.94,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 262,
+        "customer_id": 864,
+        "order date": "2020-06-25",
+        "item_details": "Contraption x84 ($442.63 each), Apparatus x8 ($63.18 each), Instrument x72 ($152.53 each)",
+        "total_amount": 6908.28,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 263,
+        "customer_id": 819,
+        "order date": "2022-03-08",
+        "item_details": "Widget x10 ($181.47 each), Contraption x48 ($499.17 each)",
+        "total_amount": 8787.22,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 264,
+        "customer_id": 459,
+        "order date": "2020-12-12",
+        "item_details": "Implement x35 ($194.83 each), Doohickey x94 ($105.29 each), Implement x37 ($196.73 each)",
+        "total_amount": 7873.67,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 265,
+        "customer_id": 637,
+        "order date": "2021-07-04",
+        "item_details": "Contraption x80 ($221.48 each), Apparatus x91 ($120.42 each), Apparatus x35 ($316.35 each)",
+        "total_amount": 9808.42,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 266,
+        "customer_id": 193,
+        "order date": "2023-10-30",
+        "item_details": "Tool x66 ($438.86 each), Apparatus x64 ($33.61 each), Tool x48 ($254.20 each)",
+        "total_amount": 7425.37,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 267,
+        "customer_id": 393,
+        "order date": "2020-12-08",
+        "item_details": "Machine x52 ($91.23 each), Device x100 ($480.68 each)",
+        "total_amount": 5406.96,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 268,
+        "customer_id": 910,
+        "order date": "2022-11-07",
+        "item_details": "Gadget x74 ($364.11 each)",
+        "total_amount": 6644.01,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 269,
+        "customer_id": 846,
+        "order date": "2021-07-21",
+        "item_details": "Doohickey x58 ($494.77 each), Tool x81 ($129.76 each)",
+        "total_amount": 1799.26,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 270,
+        "customer_id": 768,
+        "order date": "2021-10-05",
+        "item_details": "Machine x42 ($398.78 each), Doohickey x32 ($330.19 each)",
+        "total_amount": 9283.87,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 271,
+        "customer_id": 803,
+        "order date": "2022-08-07",
+        "item_details": "Device x29 ($248.63 each), Instrument x48 ($320.72 each)",
+        "total_amount": 1597.38,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 272,
+        "customer_id": 996,
+        "order date": "2022-06-24",
+        "item_details": "Widget x12 ($403.31 each)",
+        "total_amount": 8680.16,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 273,
+        "customer_id": 679,
+        "order date": "2022-03-28",
+        "item_details": "Tool x16 ($412.24 each)",
+        "total_amount": 1927.32,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 274,
+        "customer_id": 338,
+        "order date": "2022-08-05",
+        "item_details": "Machine x93 ($178.94 each), Gadget x38 ($213.59 each)",
+        "total_amount": 6945.18,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 275,
+        "customer_id": 821,
+        "order date": "2020-12-30",
+        "item_details": "Apparatus x66 ($441.71 each), Contraption x66 ($226.22 each), Doohickey x50 ($459.60 each)",
+        "total_amount": 6931.34,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 276,
+        "customer_id": 674,
+        "order date": "2021-05-11",
+        "item_details": "Apparatus x25 ($190.66 each), Gadget x24 ($232.83 each)",
+        "total_amount": 9573.8,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 277,
+        "customer_id": 807,
+        "order date": "2022-03-04",
+        "item_details": "Contraption x27 ($166.41 each), Contraption x57 ($155.29 each), Machine x30 ($344.44 each)",
+        "total_amount": 7954.95,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 278,
+        "customer_id": 225,
+        "order date": "2023-04-13",
+        "item_details": "Doohickey x94 ($203.00 each), Widget x54 ($274.92 each), Device x90 ($269.59 each)",
+        "total_amount": 6871.58,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 279,
+        "customer_id": 654,
+        "order date": "2020-11-06",
+        "item_details": "Device x38 ($233.24 each)",
+        "total_amount": 723.15,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 280,
+        "customer_id": 726,
+        "order date": "2022-02-12",
+        "item_details": "Apparatus x43 ($310.70 each), Machine x34 ($86.05 each), Instrument x88 ($174.03 each)",
+        "total_amount": 4035.68,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 281,
+        "customer_id": 49,
+        "order date": "2023-05-01",
+        "item_details": "Instrument x17 ($174.11 each), Gadget x17 ($433.01 each)",
+        "total_amount": 1827.14,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 282,
+        "customer_id": 769,
+        "order date": "2020-03-18",
+        "item_details": "Gadget x36 ($480.06 each), Gadget x92 ($25.42 each)",
+        "total_amount": 7275.64,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 283,
+        "customer_id": 189,
+        "order date": "2023-07-01",
+        "item_details": "Gadget x49 ($485.48 each), Tool x54 ($166.19 each)",
+        "total_amount": 4778.73,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 284,
+        "customer_id": 996,
+        "order date": "2023-10-21",
+        "item_details": "Instrument x21 ($77.03 each), Device x91 ($256.24 each), Apparatus x4 ($263.62 each)",
+        "total_amount": 8366.64,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 285,
+        "customer_id": 548,
+        "order date": "2022-03-21",
+        "item_details": "Gadget x84 ($239.94 each), Implement x85 ($376.21 each)",
+        "total_amount": 8100.38,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 286,
+        "customer_id": 401,
+        "order date": "2021-03-06",
+        "item_details": "Apparatus x59 ($468.80 each), Contraption x80 ($41.95 each), Contraption x7 ($293.51 each)",
+        "total_amount": 1013.63,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 287,
+        "customer_id": 121,
+        "order date": "2020-03-22",
+        "item_details": "Widget x66 ($248.97 each), Implement x28 ($476.92 each), Implement x92 ($425.43 each)",
+        "total_amount": 5276.35,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 288,
+        "customer_id": 581,
+        "order date": "2020-11-09",
+        "item_details": "Doohickey x36 ($297.60 each), Doohickey x62 ($302.00 each), Tool x5 ($89.47 each)",
+        "total_amount": 2057.01,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 289,
+        "customer_id": 362,
+        "order date": "2023-11-19",
+        "item_details": "Apparatus x31 ($274.74 each), Machine x91 ($31.27 each), Apparatus x92 ($77.77 each)",
+        "total_amount": 9390.51,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 290,
+        "customer_id": 215,
+        "order date": "2021-04-03",
+        "item_details": "Contraption x43 ($470.62 each)",
+        "total_amount": 5877.11,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 291,
+        "customer_id": 918,
+        "order date": "2021-12-09",
+        "item_details": "Implement x100 ($53.18 each), Implement x19 ($79.70 each)",
+        "total_amount": 1297.88,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 292,
+        "customer_id": 608,
+        "order date": "2022-06-21",
+        "item_details": "Device x29 ($336.01 each), Instrument x95 ($152.64 each), Widget x45 ($244.32 each)",
+        "total_amount": 2577.63,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 293,
+        "customer_id": 433,
+        "order date": "2022-06-07",
+        "item_details": "Apparatus x3 ($256.38 each)",
+        "total_amount": 8596.51,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 294,
+        "customer_id": 441,
+        "order date": "2020-01-25",
+        "item_details": "Tool x35 ($479.27 each)",
+        "total_amount": 675.98,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 295,
+        "customer_id": 749,
+        "order date": "2021-06-23",
+        "item_details": "Doohickey x29 ($437.92 each)",
+        "total_amount": 2400.28,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 296,
+        "customer_id": 872,
+        "order date": "2020-06-25",
+        "item_details": "Implement x2 ($127.47 each)",
+        "total_amount": 2531.51,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 297,
+        "customer_id": 445,
+        "order date": "2021-08-18",
+        "item_details": "Contraption x3 ($158.43 each), Device x22 ($196.94 each)",
+        "total_amount": 2032.04,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 298,
+        "customer_id": 991,
+        "order date": "2023-07-20",
+        "item_details": "Machine x50 ($52.67 each)",
+        "total_amount": 3938.14,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 299,
+        "customer_id": 277,
+        "order date": "2022-07-12",
+        "item_details": "Doohickey x13 ($341.67 each), Contraption x78 ($435.92 each), Gadget x59 ($65.36 each)",
+        "total_amount": 6008.16,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 300,
+        "customer_id": 442,
+        "order date": "2021-04-30",
+        "item_details": "Machine x1 ($52.01 each)",
+        "total_amount": 7312.31,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 301,
+        "customer_id": 891,
+        "order date": "2023-10-08",
+        "item_details": "Machine x15 ($486.02 each)",
+        "total_amount": 2941.19,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 302,
+        "customer_id": 424,
+        "order date": "2023-08-23",
+        "item_details": "Contraption x38 ($123.58 each), Device x85 ($98.63 each)",
+        "total_amount": 7851.3,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 303,
+        "customer_id": 731,
+        "order date": "2023-11-14",
+        "item_details": "Widget x92 ($212.26 each)",
+        "total_amount": 9959.76,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 304,
+        "customer_id": 868,
+        "order date": "2022-05-24",
+        "item_details": "Device x36 ($270.25 each)",
+        "total_amount": 4601.66,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 305,
+        "customer_id": 862,
+        "order date": "2021-07-20",
+        "item_details": "Implement x74 ($161.78 each), Doohickey x40 ($437.92 each)",
+        "total_amount": 6856.98,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 306,
+        "customer_id": 295,
+        "order date": "2021-11-05",
+        "item_details": "Instrument x49 ($10.39 each)",
+        "total_amount": 7789.03,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 307,
+        "customer_id": 530,
+        "order date": "2020-11-13",
+        "item_details": "Device x7 ($141.46 each), Gadget x4 ($152.58 each)",
+        "total_amount": 2387.78,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 308,
+        "customer_id": 785,
+        "order date": "2021-02-01",
+        "item_details": "Doohickey x10 ($406.04 each), Doohickey x57 ($16.58 each)",
+        "total_amount": 9107.83,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 309,
+        "customer_id": 499,
+        "order date": "2020-09-25",
+        "item_details": "Gadget x17 ($385.38 each), Instrument x98 ($409.51 each), Machine x59 ($329.90 each)",
+        "total_amount": 3570.5,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 310,
+        "customer_id": 7,
+        "order date": "2021-05-07",
+        "item_details": "Doohickey x35 ($285.90 each), Instrument x11 ($400.88 each)",
+        "total_amount": 9317.39,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 311,
+        "customer_id": 702,
+        "order date": "2020-02-09",
+        "item_details": "Contraption x32 ($463.31 each)",
+        "total_amount": 5414.63,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 312,
+        "customer_id": 441,
+        "order date": "2021-07-22",
+        "item_details": "Device x22 ($78.65 each), Contraption x95 ($302.48 each)",
+        "total_amount": 8497.89,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 313,
+        "customer_id": 117,
+        "order date": "2022-08-25",
+        "item_details": "Doohickey x22 ($420.95 each), Apparatus x25 ($491.76 each)",
+        "total_amount": 6158.04,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 314,
+        "customer_id": 494,
+        "order date": "2023-01-30",
+        "item_details": "Contraption x29 ($297.70 each), Gadget x20 ($476.39 each)",
+        "total_amount": 7395.74,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 315,
+        "customer_id": 209,
+        "order date": "2023-01-25",
+        "item_details": "Machine x82 ($479.16 each), Machine x33 ($282.61 each)",
+        "total_amount": 5748.46,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 316,
+        "customer_id": 359,
+        "order date": "2021-12-10",
+        "item_details": "Machine x98 ($90.35 each)",
+        "total_amount": 9115.33,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 317,
+        "customer_id": 354,
+        "order date": "2021-10-09",
+        "item_details": "Doohickey x20 ($25.75 each), Device x95 ($423.92 each)",
+        "total_amount": 91.53,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 318,
+        "customer_id": 457,
+        "order date": "2023-02-21",
+        "item_details": "Instrument x97 ($152.43 each), Apparatus x32 ($180.73 each), Gadget x72 ($446.30 each)",
+        "total_amount": 5768.02,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 319,
+        "customer_id": 101,
+        "order date": "2022-08-06",
+        "item_details": "Contraption x69 ($181.30 each)",
+        "total_amount": 4667.54,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 320,
+        "customer_id": 325,
+        "order date": "2021-10-13",
+        "item_details": "Tool x64 ($117.39 each), Implement x81 ($194.07 each), Instrument x67 ($208.68 each)",
+        "total_amount": 754.99,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 321,
+        "customer_id": 209,
+        "order date": "2021-03-31",
+        "item_details": "Contraption x51 ($358.93 each), Contraption x15 ($226.91 each)",
+        "total_amount": 8185.02,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 322,
+        "customer_id": 539,
+        "order date": "2023-10-21",
+        "item_details": "Doohickey x98 ($285.47 each), Instrument x25 ($269.78 each), Device x46 ($288.12 each)",
+        "total_amount": 6393.96,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 323,
+        "customer_id": 407,
+        "order date": "2021-03-24",
+        "item_details": "Doohickey x6 ($432.99 each), Doohickey x71 ($337.41 each)",
+        "total_amount": 8820.08,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 324,
+        "customer_id": 418,
+        "order date": "2020-02-28",
+        "item_details": "Instrument x56 ($294.87 each), Contraption x69 ($48.68 each), Apparatus x16 ($353.02 each)",
+        "total_amount": 8477.46,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 325,
+        "customer_id": 258,
+        "order date": "2023-10-29",
+        "item_details": "Tool x75 ($425.17 each)",
+        "total_amount": 9794.56,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 326,
+        "customer_id": 172,
+        "order date": "2023-04-16",
+        "item_details": "Widget x38 ($373.05 each)",
+        "total_amount": 1660.7,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 327,
+        "customer_id": 798,
+        "order date": "2020-10-26",
+        "item_details": "Machine x57 ($166.82 each)",
+        "total_amount": 9943.49,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 328,
+        "customer_id": 895,
+        "order date": "2023-01-06",
+        "item_details": "Doohickey x36 ($342.73 each), Doohickey x80 ($164.67 each)",
+        "total_amount": 1868.77,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 329,
+        "customer_id": 933,
+        "order date": "2020-07-26",
+        "item_details": "Instrument x45 ($447.44 each), Contraption x82 ($115.15 each)",
+        "total_amount": 7532.32,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 330,
+        "customer_id": 230,
+        "order date": "2022-10-09",
+        "item_details": "Contraption x20 ($427.67 each), Tool x3 ($95.40 each), Implement x30 ($468.57 each)",
+        "total_amount": 6564.24,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 331,
+        "customer_id": 999,
+        "order date": "2023-05-03",
+        "item_details": "Widget x12 ($61.46 each), Gadget x51 ($294.65 each), Contraption x88 ($96.60 each)",
+        "total_amount": 4503.51,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 332,
+        "customer_id": 537,
+        "order date": "2020-10-16",
+        "item_details": "Instrument x78 ($90.52 each), Doohickey x70 ($102.38 each)",
+        "total_amount": 2039.79,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 333,
+        "customer_id": 581,
+        "order date": "2023-10-18",
+        "item_details": "Widget x86 ($203.26 each), Machine x29 ($208.72 each)",
+        "total_amount": 9489.54,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 334,
+        "customer_id": 862,
+        "order date": "2020-05-13",
+        "item_details": "Tool x2 ($272.77 each), Device x92 ($478.57 each), Gadget x65 ($99.56 each)",
+        "total_amount": 3526.26,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 335,
+        "customer_id": 513,
+        "order date": "2021-08-14",
+        "item_details": "Gadget x56 ($290.33 each), Implement x38 ($406.31 each), Device x100 ($445.72 each)",
+        "total_amount": 7747.07,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 336,
+        "customer_id": 295,
+        "order date": "2023-10-14",
+        "item_details": "Apparatus x49 ($260.49 each)",
+        "total_amount": 9469.87,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 337,
+        "customer_id": 684,
+        "order date": "2023-01-19",
+        "item_details": "Gadget x46 ($62.08 each), Instrument x77 ($422.30 each)",
+        "total_amount": 8189.2,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 338,
+        "customer_id": 875,
+        "order date": "2023-10-08",
+        "item_details": "Device x44 ($443.94 each)",
+        "total_amount": 5759.23,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 339,
+        "customer_id": 800,
+        "order date": "2020-04-29",
+        "item_details": "Tool x19 ($122.76 each), Apparatus x45 ($297.01 each)",
+        "total_amount": 5214.23,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 340,
+        "customer_id": 106,
+        "order date": "2022-11-07",
+        "item_details": "Gadget x73 ($359.06 each)",
+        "total_amount": 7871.71,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 341,
+        "customer_id": 272,
+        "order date": "2021-12-11",
+        "item_details": "Implement x29 ($215.98 each), Machine x1 ($354.54 each)",
+        "total_amount": 549.5,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 342,
+        "customer_id": 377,
+        "order date": "2020-09-29",
+        "item_details": "Widget x12 ($88.39 each)",
+        "total_amount": 6767.68,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 343,
+        "customer_id": 467,
+        "order date": "2021-03-26",
+        "item_details": "Implement x46 ($193.27 each)",
+        "total_amount": 1258.69,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 344,
+        "customer_id": 400,
+        "order date": "2020-06-06",
+        "item_details": "Apparatus x84 ($82.61 each)",
+        "total_amount": 8868.91,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 345,
+        "customer_id": 791,
+        "order date": "2023-03-07",
+        "item_details": "Device x38 ($310.33 each), Gadget x52 ($112.87 each), Tool x61 ($50.83 each)",
+        "total_amount": 5171.9,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 346,
+        "customer_id": 991,
+        "order date": "2021-02-14",
+        "item_details": "Instrument x18 ($488.45 each), Apparatus x32 ($431.83 each)",
+        "total_amount": 1563.02,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 347,
+        "customer_id": 279,
+        "order date": "2022-09-30",
+        "item_details": "Widget x35 ($85.66 each), Widget x1 ($289.31 each)",
+        "total_amount": 8189.57,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 348,
+        "customer_id": 343,
+        "order date": "2020-09-19",
+        "item_details": "Implement x1 ($37.61 each)",
+        "total_amount": 5904.61,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 349,
+        "customer_id": 813,
+        "order date": "2023-01-13",
+        "item_details": "Doohickey x82 ($269.30 each)",
+        "total_amount": 4783.31,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 350,
+        "customer_id": 557,
+        "order date": "2023-11-19",
+        "item_details": "Instrument x1 ($359.37 each), Implement x17 ($59.09 each), Machine x17 ($92.44 each)",
+        "total_amount": 6381.09,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 351,
+        "customer_id": 501,
+        "order date": "2020-12-31",
+        "item_details": "Apparatus x68 ($339.80 each), Tool x56 ($436.37 each), Tool x31 ($482.42 each)",
+        "total_amount": 6198.94,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 352,
+        "customer_id": 318,
+        "order date": "2022-05-23",
+        "item_details": "Machine x77 ($495.66 each)",
+        "total_amount": 3335.12,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 353,
+        "customer_id": 904,
+        "order date": "2021-04-15",
+        "item_details": "Instrument x82 ($328.09 each)",
+        "total_amount": 2699.19,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 354,
+        "customer_id": 364,
+        "order date": "2023-07-30",
+        "item_details": "Instrument x92 ($234.41 each), Doohickey x15 ($480.14 each)",
+        "total_amount": 4618.53,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 355,
+        "customer_id": 921,
+        "order date": "2022-04-02",
+        "item_details": "Tool x55 ($25.70 each), Machine x86 ($48.90 each), Doohickey x79 ($412.82 each)",
+        "total_amount": 9477.95,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 356,
+        "customer_id": 511,
+        "order date": "2022-08-15",
+        "item_details": "Gadget x14 ($301.00 each), Machine x14 ($465.99 each)",
+        "total_amount": 1442.6,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 357,
+        "customer_id": 209,
+        "order date": "2023-12-18",
+        "item_details": "Device x8 ($267.35 each)",
+        "total_amount": 609.33,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 358,
+        "customer_id": 441,
+        "order date": "2021-02-16",
+        "item_details": "Contraption x52 ($412.35 each), Apparatus x59 ($164.59 each), Instrument x24 ($121.65 each)",
+        "total_amount": 3913.3,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 359,
+        "customer_id": 903,
+        "order date": "2021-06-25",
+        "item_details": "Machine x50 ($404.03 each), Implement x14 ($181.77 each)",
+        "total_amount": 5384.34,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 360,
+        "customer_id": 217,
+        "order date": "2023-01-01",
+        "item_details": "Device x84 ($485.32 each)",
+        "total_amount": 8286.13,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 361,
+        "customer_id": 452,
+        "order date": "2021-04-15",
+        "item_details": "Apparatus x3 ($213.47 each), Contraption x92 ($208.42 each), Machine x84 ($292.95 each)",
+        "total_amount": 3526.24,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 362,
+        "customer_id": 832,
+        "order date": "2020-11-24",
+        "item_details": "Doohickey x36 ($354.03 each), Device x100 ($250.12 each), Gadget x23 ($21.30 each)",
+        "total_amount": 1824.6,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 363,
+        "customer_id": 554,
+        "order date": "2021-04-25",
+        "item_details": "Apparatus x15 ($470.98 each), Tool x96 ($357.85 each)",
+        "total_amount": 6821.72,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 364,
+        "customer_id": 624,
+        "order date": "2021-06-16",
+        "item_details": "Gadget x23 ($153.77 each), Machine x18 ($27.28 each), Tool x57 ($466.23 each)",
+        "total_amount": 6725.04,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 365,
+        "customer_id": 101,
+        "order date": "2021-05-29",
+        "item_details": "Widget x88 ($379.43 each)",
+        "total_amount": 3703.19,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 366,
+        "customer_id": 85,
+        "order date": "2023-09-02",
+        "item_details": "Instrument x75 ($293.11 each)",
+        "total_amount": 4542.59,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 367,
+        "customer_id": 965,
+        "order date": "2020-10-26",
+        "item_details": "Gadget x36 ($360.15 each), Doohickey x57 ($387.86 each)",
+        "total_amount": 9178.54,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 368,
+        "customer_id": 858,
+        "order date": "2022-11-20",
+        "item_details": "Contraption x36 ($12.28 each), Gadget x61 ($281.77 each), Implement x60 ($479.20 each)",
+        "total_amount": 8442.71,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 369,
+        "customer_id": 233,
+        "order date": "2020-07-11",
+        "item_details": "Widget x43 ($213.66 each), Widget x25 ($419.73 each), Device x57 ($352.49 each)",
+        "total_amount": 1288.79,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 370,
+        "customer_id": 808,
+        "order date": "2023-09-18",
+        "item_details": "Tool x15 ($275.73 each), Instrument x14 ($448.00 each), Gadget x2 ($324.51 each)",
+        "total_amount": 4397.88,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 371,
+        "customer_id": 277,
+        "order date": "2021-06-08",
+        "item_details": "Machine x1 ($164.11 each), Gadget x21 ($61.71 each)",
+        "total_amount": 4104.84,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 372,
+        "customer_id": 885,
+        "order date": "2020-02-21",
+        "item_details": "Apparatus x65 ($314.88 each)",
+        "total_amount": 8351.31,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 373,
+        "customer_id": 202,
+        "order date": "2021-04-26",
+        "item_details": "Doohickey x30 ($185.77 each), Instrument x99 ($261.97 each)",
+        "total_amount": 1542.62,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 374,
+        "customer_id": 246,
+        "order date": "2022-07-30",
+        "item_details": "Contraption x50 ($406.19 each), Machine x57 ($170.55 each)",
+        "total_amount": 9221.19,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 375,
+        "customer_id": 542,
+        "order date": "2023-12-08",
+        "item_details": "Implement x37 ($215.74 each), Widget x100 ($393.32 each), Implement x90 ($202.35 each)",
+        "total_amount": 4421.81,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 376,
+        "customer_id": 126,
+        "order date": "2022-02-11",
+        "item_details": "Device x84 ($329.79 each), Doohickey x95 ($253.28 each), Tool x82 ($91.64 each)",
+        "total_amount": 1144.1,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 377,
+        "customer_id": 985,
+        "order date": "2023-05-23",
+        "item_details": "Widget x6 ($323.57 each), Doohickey x60 ($371.45 each)",
+        "total_amount": 5261.76,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 378,
+        "customer_id": 210,
+        "order date": "2023-11-26",
+        "item_details": "Doohickey x24 ($109.34 each)",
+        "total_amount": 2459.78,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 379,
+        "customer_id": 582,
+        "order date": "2023-09-03",
+        "item_details": "Device x30 ($150.22 each), Tool x90 ($20.04 each)",
+        "total_amount": 5105.87,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 380,
+        "customer_id": 15,
+        "order date": "2022-01-02",
+        "item_details": "Doohickey x27 ($161.44 each), Contraption x38 ($412.41 each)",
+        "total_amount": 802.9,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 381,
+        "customer_id": 1,
+        "order date": "2023-01-20",
+        "item_details": "Gadget x46 ($35.94 each), Device x76 ($398.91 each), Device x38 ($408.69 each)",
+        "total_amount": 7169.85,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 382,
+        "customer_id": 979,
+        "order date": "2022-12-17",
+        "item_details": "Device x28 ($319.99 each), Device x56 ($394.03 each), Device x77 ($344.75 each)",
+        "total_amount": 7401.89,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 383,
+        "customer_id": 436,
+        "order date": "2020-11-01",
+        "item_details": "Doohickey x88 ($153.49 each)",
+        "total_amount": 3569.0,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 384,
+        "customer_id": 884,
+        "order date": "2020-03-29",
+        "item_details": "Implement x33 ($215.59 each)",
+        "total_amount": 4072.18,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 385,
+        "customer_id": 478,
+        "order date": "2023-03-12",
+        "item_details": "Apparatus x45 ($22.18 each), Widget x14 ($341.42 each)",
+        "total_amount": 5342.97,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 386,
+        "customer_id": 967,
+        "order date": "2023-09-24",
+        "item_details": "Device x9 ($221.20 each)",
+        "total_amount": 4065.42,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 387,
+        "customer_id": 179,
+        "order date": "2022-05-18",
+        "item_details": "Contraption x44 ($189.90 each)",
+        "total_amount": 7991.92,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 388,
+        "customer_id": 99,
+        "order date": "2023-07-23",
+        "item_details": "Device x28 ($370.33 each), Implement x14 ($42.89 each), Instrument x68 ($301.97 each)",
+        "total_amount": 5836.93,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 389,
+        "customer_id": 92,
+        "order date": "2023-12-10",
+        "item_details": "Machine x63 ($207.67 each), Contraption x61 ($396.39 each)",
+        "total_amount": 5450.37,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 390,
+        "customer_id": 340,
+        "order date": "2022-03-12",
+        "item_details": "Contraption x82 ($167.37 each), Implement x53 ($431.08 each), Contraption x33 ($91.70 each)",
+        "total_amount": 2598.54,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 391,
+        "customer_id": 627,
+        "order date": "2023-11-23",
+        "item_details": "Machine x23 ($411.71 each), Implement x40 ($276.44 each)",
+        "total_amount": 6405.92,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 392,
+        "customer_id": 173,
+        "order date": "2021-01-25",
+        "item_details": "Apparatus x41 ($41.69 each), Gadget x36 ($399.36 each)",
+        "total_amount": 7252.57,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 393,
+        "customer_id": 216,
+        "order date": "2023-08-13",
+        "item_details": "Gadget x73 ($459.91 each), Tool x84 ($178.15 each)",
+        "total_amount": 2366.05,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 394,
+        "customer_id": 923,
+        "order date": "2022-03-02",
+        "item_details": "Apparatus x30 ($273.71 each), Machine x86 ($405.07 each)",
+        "total_amount": 681.6,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 395,
+        "customer_id": 512,
+        "order date": "2021-06-20",
+        "item_details": "Gadget x66 ($208.20 each)",
+        "total_amount": 2621.86,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 396,
+        "customer_id": 292,
+        "order date": "2023-07-19",
+        "item_details": "Contraption x26 ($369.41 each), Apparatus x91 ($282.17 each), Gadget x92 ($309.34 each)",
+        "total_amount": 9170.64,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 397,
+        "customer_id": 359,
+        "order date": "2021-02-04",
+        "item_details": "Tool x43 ($334.69 each)",
+        "total_amount": 7684.18,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 398,
+        "customer_id": 896,
+        "order date": "2023-12-25",
+        "item_details": "Device x89 ($338.89 each), Doohickey x68 ($401.79 each), Instrument x49 ($36.25 each)",
+        "total_amount": 5237.28,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 399,
+        "customer_id": 720,
+        "order date": "2022-11-28",
+        "item_details": "Instrument x40 ($337.83 each), Instrument x55 ($226.44 each)",
+        "total_amount": 7735.99,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 400,
+        "customer_id": 312,
+        "order date": "2021-01-26",
+        "item_details": "Device x47 ($149.25 each)",
+        "total_amount": 494.9,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 401,
+        "customer_id": 662,
+        "order date": "2021-04-06",
+        "item_details": "Gadget x46 ($441.11 each), Gadget x49 ($312.88 each)",
+        "total_amount": 8360.26,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 402,
+        "customer_id": 238,
+        "order date": "2021-02-06",
+        "item_details": "Gadget x27 ($254.57 each), Contraption x70 ($53.51 each), Contraption x97 ($314.24 each)",
+        "total_amount": 5984.73,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 403,
+        "customer_id": 487,
+        "order date": "2022-03-03",
+        "item_details": "Widget x6 ($357.40 each), Gadget x95 ($431.97 each)",
+        "total_amount": 1493.37,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 404,
+        "customer_id": 817,
+        "order date": "2021-03-25",
+        "item_details": "Contraption x18 ($80.65 each), Apparatus x58 ($151.59 each), Machine x78 ($169.15 each)",
+        "total_amount": 6243.38,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 405,
+        "customer_id": 432,
+        "order date": "2021-04-12",
+        "item_details": "Device x91 ($385.89 each), Contraption x56 ($323.77 each)",
+        "total_amount": 4877.04,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 406,
+        "customer_id": 295,
+        "order date": "2023-02-03",
+        "item_details": "Apparatus x42 ($179.48 each)",
+        "total_amount": 5066.0,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 407,
+        "customer_id": 352,
+        "order date": "2022-11-07",
+        "item_details": "Tool x2 ($87.29 each)",
+        "total_amount": 2217.53,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 408,
+        "customer_id": 21,
+        "order date": "2023-03-14",
+        "item_details": "Doohickey x99 ($488.65 each)",
+        "total_amount": 677.35,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 409,
+        "customer_id": 139,
+        "order date": "2022-04-26",
+        "item_details": "Device x74 ($56.92 each)",
+        "total_amount": 6538.61,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 410,
+        "customer_id": 322,
+        "order date": "2023-01-22",
+        "item_details": "Apparatus x88 ($29.86 each), Contraption x47 ($408.94 each), Tool x31 ($220.64 each)",
+        "total_amount": 8609.02,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 411,
+        "customer_id": 756,
+        "order date": "2022-04-23",
+        "item_details": "Tool x1 ($473.75 each), Tool x70 ($306.20 each), Apparatus x86 ($199.54 each)",
+        "total_amount": 2901.75,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 412,
+        "customer_id": 970,
+        "order date": "2022-05-06",
+        "item_details": "Doohickey x62 ($339.68 each)",
+        "total_amount": 2326.23,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 413,
+        "customer_id": 675,
+        "order date": "2022-01-24",
+        "item_details": "Apparatus x90 ($193.41 each), Instrument x9 ($132.48 each)",
+        "total_amount": 1329.21,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 414,
+        "customer_id": 923,
+        "order date": "2022-05-14",
+        "item_details": "Doohickey x59 ($51.66 each), Device x77 ($235.98 each)",
+        "total_amount": 5014.3,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 415,
+        "customer_id": 296,
+        "order date": "2020-05-22",
+        "item_details": "Tool x66 ($309.40 each)",
+        "total_amount": 7641.29,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 416,
+        "customer_id": 120,
+        "order date": "2022-06-20",
+        "item_details": "Doohickey x57 ($296.24 each), Widget x92 ($298.43 each), Contraption x57 ($39.25 each)",
+        "total_amount": 5696.84,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 417,
+        "customer_id": 307,
+        "order date": "2023-04-12",
+        "item_details": "Instrument x24 ($457.50 each)",
+        "total_amount": 6681.41,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 418,
+        "customer_id": 877,
+        "order date": "2023-12-10",
+        "item_details": "Implement x85 ($201.21 each), Doohickey x40 ($333.75 each), Device x16 ($207.90 each)",
+        "total_amount": 3429.56,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 419,
+        "customer_id": 437,
+        "order date": "2023-12-18",
+        "item_details": "Machine x82 ($263.32 each), Implement x20 ($477.96 each), Apparatus x26 ($36.63 each)",
+        "total_amount": 146.71,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 420,
+        "customer_id": 850,
+        "order date": "2020-06-01",
+        "item_details": "Apparatus x39 ($479.31 each), Widget x14 ($113.88 each)",
+        "total_amount": 687.22,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 421,
+        "customer_id": 801,
+        "order date": "2021-05-27",
+        "item_details": "Implement x45 ($467.50 each), Doohickey x66 ($36.71 each)",
+        "total_amount": 1660.68,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 422,
+        "customer_id": 653,
+        "order date": "2022-01-14",
+        "item_details": "Tool x24 ($173.47 each), Machine x39 ($258.80 each), Gadget x35 ($298.11 each)",
+        "total_amount": 5207.58,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 423,
+        "customer_id": 510,
+        "order date": "2021-10-08",
+        "item_details": "Widget x40 ($350.13 each), Implement x93 ($311.29 each)",
+        "total_amount": 7022.07,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 424,
+        "customer_id": 146,
+        "order date": "2022-08-09",
+        "item_details": "Machine x9 ($309.86 each), Apparatus x47 ($403.21 each)",
+        "total_amount": 5979.7,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 425,
+        "customer_id": 382,
+        "order date": "2023-01-05",
+        "item_details": "Apparatus x71 ($410.99 each)",
+        "total_amount": 4093.77,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 426,
+        "customer_id": 683,
+        "order date": "2020-08-31",
+        "item_details": "Doohickey x73 ($429.61 each), Apparatus x18 ($376.89 each)",
+        "total_amount": 2933.71,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 427,
+        "customer_id": 571,
+        "order date": "2021-05-29",
+        "item_details": "Gadget x5 ($266.06 each)",
+        "total_amount": 3799.11,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 428,
+        "customer_id": 87,
+        "order date": "2021-12-18",
+        "item_details": "Machine x71 ($158.43 each), Implement x9 ($139.55 each)",
+        "total_amount": 5766.96,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 429,
+        "customer_id": 635,
+        "order date": "2020-06-20",
+        "item_details": "Tool x64 ($337.45 each)",
+        "total_amount": 8244.42,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 430,
+        "customer_id": 876,
+        "order date": "2020-09-02",
+        "item_details": "Doohickey x48 ($392.71 each), Apparatus x28 ($82.60 each), Tool x23 ($178.47 each)",
+        "total_amount": 8842.6,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 431,
+        "customer_id": 351,
+        "order date": "2022-07-02",
+        "item_details": "Widget x1 ($75.63 each)",
+        "total_amount": 8597.78,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 432,
+        "customer_id": 658,
+        "order date": "2022-07-09",
+        "item_details": "Gadget x11 ($375.49 each)",
+        "total_amount": 2171.41,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 433,
+        "customer_id": 3,
+        "order date": "2020-03-12",
+        "item_details": "Gadget x76 ($268.61 each), Contraption x60 ($381.82 each)",
+        "total_amount": 9660.9,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 434,
+        "customer_id": 390,
+        "order date": "2021-07-29",
+        "item_details": "Contraption x34 ($433.54 each), Contraption x93 ($133.75 each)",
+        "total_amount": 3913.21,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 435,
+        "customer_id": 737,
+        "order date": "2020-02-28",
+        "item_details": "Instrument x72 ($356.97 each)",
+        "total_amount": 895.07,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 436,
+        "customer_id": 549,
+        "order date": "2021-09-26",
+        "item_details": "Widget x89 ($186.92 each), Apparatus x25 ($356.12 each)",
+        "total_amount": 3703.81,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 437,
+        "customer_id": 919,
+        "order date": "2021-01-19",
+        "item_details": "Instrument x77 ($226.99 each), Contraption x12 ($169.27 each)",
+        "total_amount": 9041.95,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 438,
+        "customer_id": 179,
+        "order date": "2022-12-08",
+        "item_details": "Apparatus x53 ($297.03 each), Instrument x57 ($410.45 each)",
+        "total_amount": 8004.31,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 439,
+        "customer_id": 799,
+        "order date": "2022-08-22",
+        "item_details": "Apparatus x45 ($337.20 each)",
+        "total_amount": 4071.31,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 440,
+        "customer_id": 519,
+        "order date": "2022-04-11",
+        "item_details": "Instrument x23 ($462.44 each), Apparatus x29 ($61.19 each), Apparatus x67 ($149.86 each)",
+        "total_amount": 363.26,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 441,
+        "customer_id": 893,
+        "order date": "2021-08-27",
+        "item_details": "Implement x83 ($308.50 each)",
+        "total_amount": 438.97,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 442,
+        "customer_id": 516,
+        "order date": "2023-03-09",
+        "item_details": "Widget x22 ($17.04 each), Machine x83 ($145.71 each), Widget x4 ($227.03 each)",
+        "total_amount": 1328.39,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 443,
+        "customer_id": 355,
+        "order date": "2022-06-19",
+        "item_details": "Instrument x29 ($378.60 each), Machine x86 ($82.85 each), Machine x9 ($304.46 each)",
+        "total_amount": 809.86,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 444,
+        "customer_id": 209,
+        "order date": "2023-04-28",
+        "item_details": "Widget x83 ($246.07 each), Widget x44 ($241.94 each), Tool x52 ($198.34 each)",
+        "total_amount": 7241.9,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 445,
+        "customer_id": 457,
+        "order date": "2022-03-17",
+        "item_details": "Machine x99 ($77.21 each), Apparatus x6 ($480.36 each)",
+        "total_amount": 7406.57,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 446,
+        "customer_id": 735,
+        "order date": "2022-11-16",
+        "item_details": "Machine x86 ($461.46 each), Machine x75 ($263.87 each)",
+        "total_amount": 1620.45,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 447,
+        "customer_id": 741,
+        "order date": "2020-08-03",
+        "item_details": "Machine x20 ($116.25 each)",
+        "total_amount": 7166.98,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 448,
+        "customer_id": 922,
+        "order date": "2022-05-09",
+        "item_details": "Tool x59 ($57.92 each), Apparatus x91 ($297.21 each), Implement x95 ($169.34 each)",
+        "total_amount": 8836.02,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 449,
+        "customer_id": 650,
+        "order date": "2023-05-12",
+        "item_details": "Implement x21 ($324.47 each)",
+        "total_amount": 4009.01,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 450,
+        "customer_id": 565,
+        "order date": "2022-11-13",
+        "item_details": "Implement x77 ($423.01 each), Apparatus x95 ($418.54 each)",
+        "total_amount": 8912.51,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 451,
+        "customer_id": 27,
+        "order date": "2022-02-26",
+        "item_details": "Machine x38 ($176.72 each), Instrument x45 ($234.48 each), Contraption x68 ($27.19 each)",
+        "total_amount": 7260.55,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 452,
+        "customer_id": 208,
+        "order date": "2023-04-13",
+        "item_details": "Gadget x15 ($250.09 each), Doohickey x99 ($215.53 each), Device x41 ($422.04 each)",
+        "total_amount": 8367.71,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 453,
+        "customer_id": 297,
+        "order date": "2022-02-07",
+        "item_details": "Widget x50 ($253.56 each)",
+        "total_amount": 849.14,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 454,
+        "customer_id": 156,
+        "order date": "2020-01-19",
+        "item_details": "Instrument x100 ($435.55 each), Widget x75 ($46.49 each)",
+        "total_amount": 1333.13,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 455,
+        "customer_id": 20,
+        "order date": "2023-03-02",
+        "item_details": "Doohickey x96 ($250.04 each)",
+        "total_amount": 1765.29,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 456,
+        "customer_id": 850,
+        "order date": "2020-10-23",
+        "item_details": "Apparatus x35 ($112.57 each), Widget x47 ($484.52 each)",
+        "total_amount": 2093.46,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 457,
+        "customer_id": 519,
+        "order date": "2020-11-05",
+        "item_details": "Widget x70 ($337.20 each), Gadget x70 ($35.68 each)",
+        "total_amount": 2979.59,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 458,
+        "customer_id": 703,
+        "order date": "2021-06-08",
+        "item_details": "Instrument x50 ($269.62 each), Gadget x57 ($199.53 each)",
+        "total_amount": 8113.69,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 459,
+        "customer_id": 174,
+        "order date": "2022-07-11",
+        "item_details": "Apparatus x1 ($259.83 each), Gadget x2 ($317.11 each)",
+        "total_amount": 6023.7,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 460,
+        "customer_id": 439,
+        "order date": "2023-09-01",
+        "item_details": "Machine x81 ($339.01 each)",
+        "total_amount": 9953.8,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 461,
+        "customer_id": 44,
+        "order date": "2022-04-09",
+        "item_details": "Doohickey x21 ($294.98 each)",
+        "total_amount": 2375.28,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 462,
+        "customer_id": 812,
+        "order date": "2022-09-20",
+        "item_details": "Widget x94 ($147.82 each), Contraption x84 ($265.44 each)",
+        "total_amount": 424.05,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 463,
+        "customer_id": 9,
+        "order date": "2023-07-29",
+        "item_details": "Instrument x76 ($64.74 each), Doohickey x53 ($208.53 each)",
+        "total_amount": 9064.14,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 464,
+        "customer_id": 329,
+        "order date": "2022-06-19",
+        "item_details": "Implement x47 ($344.59 each)",
+        "total_amount": 8885.91,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 465,
+        "customer_id": 592,
+        "order date": "2023-11-10",
+        "item_details": "Device x48 ($449.67 each)",
+        "total_amount": 4393.16,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 466,
+        "customer_id": 81,
+        "order date": "2021-01-04",
+        "item_details": "Doohickey x22 ($234.11 each), Implement x80 ($167.93 each)",
+        "total_amount": 5019.49,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 467,
+        "customer_id": 75,
+        "order date": "2020-03-16",
+        "item_details": "Instrument x85 ($441.83 each)",
+        "total_amount": 2942.09,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 468,
+        "customer_id": 558,
+        "order date": "2023-12-25",
+        "item_details": "Device x33 ($393.22 each), Gadget x43 ($203.43 each), Widget x5 ($486.31 each)",
+        "total_amount": 7286.28,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 469,
+        "customer_id": 202,
+        "order date": "2020-07-06",
+        "item_details": "Implement x70 ($425.44 each), Contraption x85 ($165.26 each)",
+        "total_amount": 4326.87,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 470,
+        "customer_id": 954,
+        "order date": "2023-01-18",
+        "item_details": "Gadget x18 ($318.07 each), Apparatus x100 ($228.92 each)",
+        "total_amount": 7371.06,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 471,
+        "customer_id": 93,
+        "order date": "2022-03-18",
+        "item_details": "Apparatus x33 ($377.26 each)",
+        "total_amount": 3389.8,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 472,
+        "customer_id": 268,
+        "order date": "2021-05-23",
+        "item_details": "Instrument x37 ($476.66 each), Device x24 ($95.59 each), Doohickey x94 ($343.19 each)",
+        "total_amount": 3331.87,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 473,
+        "customer_id": 637,
+        "order date": "2020-01-23",
+        "item_details": "Doohickey x28 ($488.97 each)",
+        "total_amount": 3581.06,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 474,
+        "customer_id": 85,
+        "order date": "2023-07-16",
+        "item_details": "Gadget x88 ($311.92 each), Device x78 ($497.45 each), Tool x1 ($165.00 each)",
+        "total_amount": 6610.46,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 475,
+        "customer_id": 161,
+        "order date": "2020-08-23",
+        "item_details": "Instrument x62 ($410.81 each), Device x93 ($156.49 each), Tool x92 ($494.76 each)",
+        "total_amount": 9661.87,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 476,
+        "customer_id": 941,
+        "order date": "2023-12-29",
+        "item_details": "Contraption x35 ($219.14 each)",
+        "total_amount": 823.93,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 477,
+        "customer_id": 82,
+        "order date": "2022-06-23",
+        "item_details": "Widget x39 ($377.96 each), Machine x53 ($17.53 each)",
+        "total_amount": 7449.63,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 478,
+        "customer_id": 783,
+        "order date": "2022-05-11",
+        "item_details": "Apparatus x50 ($76.97 each)",
+        "total_amount": 5880.31,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 479,
+        "customer_id": 906,
+        "order date": "2022-02-18",
+        "item_details": "Implement x94 ($330.00 each), Gadget x56 ($145.41 each)",
+        "total_amount": 7458.12,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 480,
+        "customer_id": 718,
+        "order date": "2020-04-13",
+        "item_details": "Machine x81 ($94.76 each), Gadget x9 ($158.87 each), Doohickey x8 ($247.93 each)",
+        "total_amount": 1860.26,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 481,
+        "customer_id": 632,
+        "order date": "2022-11-07",
+        "item_details": "Tool x15 ($436.35 each), Widget x84 ($279.80 each)",
+        "total_amount": 1374.67,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 482,
+        "customer_id": 577,
+        "order date": "2020-03-22",
+        "item_details": "Widget x41 ($15.40 each), Instrument x48 ($415.55 each)",
+        "total_amount": 3638.04,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 483,
+        "customer_id": 880,
+        "order date": "2023-05-29",
+        "item_details": "Device x12 ($139.33 each)",
+        "total_amount": 8481.85,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 484,
+        "customer_id": 261,
+        "order date": "2022-09-17",
+        "item_details": "Doohickey x32 ($42.05 each), Instrument x97 ($242.17 each), Widget x8 ($325.29 each)",
+        "total_amount": 9109.82,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 485,
+        "customer_id": 453,
+        "order date": "2020-12-13",
+        "item_details": "Instrument x73 ($344.32 each)",
+        "total_amount": 1312.33,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 486,
+        "customer_id": 478,
+        "order date": "2021-12-28",
+        "item_details": "Contraption x71 ($247.45 each), Device x29 ($21.05 each), Implement x77 ($16.32 each)",
+        "total_amount": 5641.52,
+        "shipping_status": "Shipped"
+    },
+    {
+        "order_id": 487,
+        "customer_id": 464,
+        "order date": "2023-03-24",
+        "item_details": "Device x44 ($328.66 each)",
+        "total_amount": 2493.6,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 488,
+        "customer_id": 358,
+        "order date": "2022-12-15",
+        "item_details": "Doohickey x37 ($354.33 each)",
+        "total_amount": 9227.89,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 489,
+        "customer_id": 386,
+        "order date": "2022-03-30",
+        "item_details": "Device x92 ($471.04 each), Implement x59 ($242.34 each)",
+        "total_amount": 2512.15,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 490,
+        "customer_id": 548,
+        "order date": "2023-06-19",
+        "item_details": "Instrument x56 ($130.65 each), Machine x80 ($89.08 each), Apparatus x91 ($20.15 each)",
+        "total_amount": 5445.79,
+        "shipping_status": "Returned"
+    },
+    {
+        "order_id": 491,
+        "customer_id": 340,
+        "order date": "2020-12-27",
+        "item_details": "Doohickey x73 ($72.32 each), Implement x71 ($192.61 each), Gadget x35 ($263.06 each)",
+        "total_amount": 2408.46,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 492,
+        "customer_id": 122,
+        "order date": "2023-08-30",
+        "item_details": "Machine x80 ($379.57 each), Machine x88 ($174.18 each), Doohickey x12 ($55.05 each)",
+        "total_amount": 6531.17,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 493,
+        "customer_id": 869,
+        "order date": "2023-02-04",
+        "item_details": "Doohickey x67 ($165.47 each)",
+        "total_amount": 4640.89,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 494,
+        "customer_id": 364,
+        "order date": "2023-08-07",
+        "item_details": "Machine x100 ($286.90 each), Implement x35 ($456.15 each), Machine x55 ($165.40 each)",
+        "total_amount": 3145.08,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 495,
+        "customer_id": 682,
+        "order date": "2023-09-12",
+        "item_details": "Implement x19 ($274.28 each)",
+        "total_amount": 5754.67,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 496,
+        "customer_id": 421,
+        "order date": "2022-02-05",
+        "item_details": "Gadget x55 ($482.06 each), Contraption x9 ($288.21 each), Tool x75 ($464.13 each)",
+        "total_amount": 8413.64,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 497,
+        "customer_id": 900,
+        "order date": "2021-10-19",
+        "item_details": "Tool x75 ($35.15 each), Machine x88 ($419.89 each)",
+        "total_amount": 6218.08,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 498,
+        "customer_id": 761,
+        "order date": "2023-01-06",
+        "item_details": "Device x24 ($235.60 each), Implement x1 ($268.30 each)",
+        "total_amount": 9396.23,
+        "shipping_status": "Delivered"
+    },
+    {
+        "order_id": 499,
+        "customer_id": 304,
+        "order date": "2022-09-07",
+        "item_details": "Tool x61 ($223.92 each), Widget x29 ($464.20 each), Contraption x15 ($165.81 each)",
+        "total_amount": 8159.06,
+        "shipping_status": "Pending"
+    },
+    {
+        "order_id": 500,
+        "customer_id": 69,
+        "order date": "2023-02-18",
+        "item_details": "Gadget x13 ($319.14 each), Gadget x63 ($318.62 each)",
+        "total_amount": 6152.9,
+        "shipping_status": "Pending"
+    }
+]
