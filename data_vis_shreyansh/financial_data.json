@@ -1,0 +1,4002 @@
+[
+    {
+        "transaction_id": 1,
+        "date": "2022-05-14",
+        "ledger": "Liabilities",
+        "amount": -985.19,
+        "status": "Pending",
+        "budget_amount": -1162.12
+    },
+    {
+        "transaction_id": 2,
+        "date": "2022-08-25",
+        "ledger": "Equity",
+        "amount": 8617.34,
+        "status": "Reversed",
+        "budget_amount": 9633.79
+    },
+    {
+        "transaction_id": 3,
+        "date": "2023-06-05",
+        "ledger": "Assets",
+        "amount": 116.35,
+        "status": "Pending",
+        "budget_amount": 93.23
+    },
+    {
+        "transaction_id": 4,
+        "date": "2023-12-03",
+        "ledger": "Liabilities",
+        "amount": -2779.59,
+        "status": "Pending",
+        "budget_amount": -3233.68
+    },
+    {
+        "transaction_id": 5,
+        "date": "2022-08-31",
+        "ledger": "COGS",
+        "amount": -2008.76,
+        "status": "Pending",
+        "budget_amount": -2110.01
+    },
+    {
+        "transaction_id": 6,
+        "date": "2023-02-06",
+        "ledger": "Assets",
+        "amount": 6342.97,
+        "status": "Pending",
+        "budget_amount": 6311.76
+    },
+    {
+        "transaction_id": 7,
+        "date": "2023-03-14",
+        "ledger": "OtherIncome",
+        "amount": 7641.21,
+        "status": "Failed",
+        "budget_amount": 7566.14
+    },
+    {
+        "transaction_id": 8,
+        "date": "2021-06-04",
+        "ledger": "Sales",
+        "amount": 8035.39,
+        "status": "Pending",
+        "budget_amount": 8138.79
+    },
+    {
+        "transaction_id": 9,
+        "date": "2023-09-20",
+        "ledger": "Sales",
+        "amount": 2381.79,
+        "status": "Cleared",
+        "budget_amount": 2116.55
+    },
+    {
+        "transaction_id": 10,
+        "date": "2022-05-20",
+        "ledger": "Sales",
+        "amount": 3967.12,
+        "status": "Cleared",
+        "budget_amount": 4603.43
+    },
+    {
+        "transaction_id": 11,
+        "date": "2022-04-30",
+        "ledger": "OtherExpenses",
+        "amount": -920.06,
+        "status": "Reversed",
+        "budget_amount": -1039.05
+    },
+    {
+        "transaction_id": 12,
+        "date": "2022-11-04",
+        "ledger": "Equity",
+        "amount": 4861.12,
+        "status": "Pending",
+        "budget_amount": 4763.05
+    },
+    {
+        "transaction_id": 13,
+        "date": "2023-04-29",
+        "ledger": "COGS",
+        "amount": -1426.75,
+        "status": "Cleared",
+        "budget_amount": -1508.39
+    },
+    {
+        "transaction_id": 14,
+        "date": "2021-04-14",
+        "ledger": "Assets",
+        "amount": 8143.71,
+        "status": "Pending",
+        "budget_amount": 9177.15
+    },
+    {
+        "transaction_id": 15,
+        "date": "2022-07-25",
+        "ledger": "Equity",
+        "amount": 3801.09,
+        "status": "Failed",
+        "budget_amount": 3324.34
+    },
+    {
+        "transaction_id": 16,
+        "date": "2023-06-18",
+        "ledger": "OtherIncome",
+        "amount": 2617.18,
+        "status": "Cleared",
+        "budget_amount": 2233.81
+    },
+    {
+        "transaction_id": 17,
+        "date": "2022-06-15",
+        "ledger": "Equity",
+        "amount": 7789.98,
+        "status": "Reversed",
+        "budget_amount": 7326.34
+    },
+    {
+        "transaction_id": 18,
+        "date": "2021-06-29",
+        "ledger": "Sales",
+        "amount": 293.61,
+        "status": "Cleared",
+        "budget_amount": 237.61
+    },
+    {
+        "transaction_id": 19,
+        "date": "2022-02-22",
+        "ledger": "OtherExpenses",
+        "amount": -428.04,
+        "status": "Cleared",
+        "budget_amount": -404.98
+    },
+    {
+        "transaction_id": 20,
+        "date": "2021-02-06",
+        "ledger": "OtherIncome",
+        "amount": 3984.44,
+        "status": "Reversed",
+        "budget_amount": 4562.94
+    },
+    {
+        "transaction_id": 21,
+        "date": "2021-12-21",
+        "ledger": "Expenses",
+        "amount": -2278.51,
+        "status": "Reversed",
+        "budget_amount": -2025.13
+    },
+    {
+        "transaction_id": 22,
+        "date": "2021-01-16",
+        "ledger": "Equity",
+        "amount": 6581.65,
+        "status": "Cleared",
+        "budget_amount": 6525.73
+    },
+    {
+        "transaction_id": 23,
+        "date": "2021-12-05",
+        "ledger": "OtherExpenses",
+        "amount": -4119.93,
+        "status": "Reversed",
+        "budget_amount": -4491.5
+    },
+    {
+        "transaction_id": 24,
+        "date": "2022-04-12",
+        "ledger": "OtherIncome",
+        "amount": 3341.13,
+        "status": "Cleared",
+        "budget_amount": 3549.94
+    },
+    {
+        "transaction_id": 25,
+        "date": "2023-11-06",
+        "ledger": "Sales",
+        "amount": 1394.37,
+        "status": "Cleared",
+        "budget_amount": 1534.34
+    },
+    {
+        "transaction_id": 26,
+        "date": "2022-03-10",
+        "ledger": "COGS",
+        "amount": -1934.74,
+        "status": "Pending",
+        "budget_amount": -2144.82
+    },
+    {
+        "transaction_id": 27,
+        "date": "2022-01-18",
+        "ledger": "Equity",
+        "amount": 7455.46,
+        "status": "Pending",
+        "budget_amount": 6838.89
+    },
+    {
+        "transaction_id": 28,
+        "date": "2021-09-07",
+        "ledger": "OtherIncome",
+        "amount": 698.92,
+        "status": "Pending",
+        "budget_amount": 676.34
+    },
+    {
+        "transaction_id": 29,
+        "date": "2022-02-10",
+        "ledger": "Liabilities",
+        "amount": -1609.79,
+        "status": "Pending",
+        "budget_amount": -1918.74
+    },
+    {
+        "transaction_id": 30,
+        "date": "2023-02-26",
+        "ledger": "Equity",
+        "amount": 8114.12,
+        "status": "Reversed",
+        "budget_amount": 8000.24
+    },
+    {
+        "transaction_id": 31,
+        "date": "2022-02-26",
+        "ledger": "Sales",
+        "amount": 7945.47,
+        "status": "Reversed",
+        "budget_amount": 6538.25
+    },
+    {
+        "transaction_id": 32,
+        "date": "2022-01-14",
+        "ledger": "Assets",
+        "amount": 5835.47,
+        "status": "Pending",
+        "budget_amount": 5772.44
+    },
+    {
+        "transaction_id": 33,
+        "date": "2021-07-21",
+        "ledger": "Sales",
+        "amount": 4279.86,
+        "status": "Cleared",
+        "budget_amount": 4945.19
+    },
+    {
+        "transaction_id": 34,
+        "date": "2022-12-05",
+        "ledger": "Sales",
+        "amount": 1655.49,
+        "status": "Failed",
+        "budget_amount": 1705.01
+    },
+    {
+        "transaction_id": 35,
+        "date": "2023-10-31",
+        "ledger": "OtherIncome",
+        "amount": 2717.61,
+        "status": "Cleared",
+        "budget_amount": 2693.7
+    },
+    {
+        "transaction_id": 36,
+        "date": "2022-11-19",
+        "ledger": "Liabilities",
+        "amount": -2011.0,
+        "status": "Cleared",
+        "budget_amount": -1670.62
+    },
+    {
+        "transaction_id": 37,
+        "date": "2023-08-23",
+        "ledger": "OtherExpenses",
+        "amount": -4402.41,
+        "status": "Reversed",
+        "budget_amount": -3872.2
+    },
+    {
+        "transaction_id": 38,
+        "date": "2021-02-08",
+        "ledger": "Assets",
+        "amount": 7411.91,
+        "status": "Failed",
+        "budget_amount": 6329.39
+    },
+    {
+        "transaction_id": 39,
+        "date": "2022-09-30",
+        "ledger": "OtherIncome",
+        "amount": 4192.83,
+        "status": "Failed",
+        "budget_amount": 4797.98
+    },
+    {
+        "transaction_id": 40,
+        "date": "2022-05-13",
+        "ledger": "Equity",
+        "amount": 7766.12,
+        "status": "Failed",
+        "budget_amount": 8090.76
+    },
+    {
+        "transaction_id": 41,
+        "date": "2021-11-21",
+        "ledger": "OtherExpenses",
+        "amount": -2117.0,
+        "status": "Reversed",
+        "budget_amount": -2163.65
+    },
+    {
+        "transaction_id": 42,
+        "date": "2023-06-21",
+        "ledger": "Liabilities",
+        "amount": -3456.93,
+        "status": "Failed",
+        "budget_amount": -3468.85
+    },
+    {
+        "transaction_id": 43,
+        "date": "2022-02-07",
+        "ledger": "Expenses",
+        "amount": -2206.99,
+        "status": "Pending",
+        "budget_amount": -2623.73
+    },
+    {
+        "transaction_id": 44,
+        "date": "2023-12-05",
+        "ledger": "Assets",
+        "amount": 4881.21,
+        "status": "Failed",
+        "budget_amount": 4639.83
+    },
+    {
+        "transaction_id": 45,
+        "date": "2021-11-04",
+        "ledger": "Liabilities",
+        "amount": -1787.11,
+        "status": "Cleared",
+        "budget_amount": -1771.96
+    },
+    {
+        "transaction_id": 46,
+        "date": "2022-07-07",
+        "ledger": "Sales",
+        "amount": 7722.55,
+        "status": "Reversed",
+        "budget_amount": 6482.68
+    },
+    {
+        "transaction_id": 47,
+        "date": "2023-04-05",
+        "ledger": "Assets",
+        "amount": 5570.87,
+        "status": "Reversed",
+        "budget_amount": 5332.05
+    },
+    {
+        "transaction_id": 48,
+        "date": "2022-01-23",
+        "ledger": "Liabilities",
+        "amount": -3517.44,
+        "status": "Cleared",
+        "budget_amount": -4058.88
+    },
+    {
+        "transaction_id": 49,
+        "date": "2022-07-11",
+        "ledger": "Liabilities",
+        "amount": -4515.75,
+        "status": "Cleared",
+        "budget_amount": -4783.94
+    },
+    {
+        "transaction_id": 50,
+        "date": "2022-11-30",
+        "ledger": "Equity",
+        "amount": 4471.43,
+        "status": "Failed",
+        "budget_amount": 3890.94
+    },
+    {
+        "transaction_id": 51,
+        "date": "2022-09-11",
+        "ledger": "Sales",
+        "amount": 9154.77,
+        "status": "Failed",
+        "budget_amount": 8814.47
+    },
+    {
+        "transaction_id": 52,
+        "date": "2023-06-11",
+        "ledger": "OtherIncome",
+        "amount": 146.96,
+        "status": "Pending",
+        "budget_amount": 121.11
+    },
+    {
+        "transaction_id": 53,
+        "date": "2021-02-01",
+        "ledger": "OtherExpenses",
+        "amount": -3128.7,
+        "status": "Reversed",
+        "budget_amount": -3450.77
+    },
+    {
+        "transaction_id": 54,
+        "date": "2023-02-11",
+        "ledger": "OtherExpenses",
+        "amount": -401.31,
+        "status": "Failed",
+        "budget_amount": -324.09
+    },
+    {
+        "transaction_id": 55,
+        "date": "2023-11-25",
+        "ledger": "Sales",
+        "amount": 9095.54,
+        "status": "Pending",
+        "budget_amount": 7962.22
+    },
+    {
+        "transaction_id": 56,
+        "date": "2023-02-22",
+        "ledger": "Expenses",
+        "amount": -2404.4,
+        "status": "Cleared",
+        "budget_amount": -2880.86
+    },
+    {
+        "transaction_id": 57,
+        "date": "2022-11-11",
+        "ledger": "Equity",
+        "amount": 6985.4,
+        "status": "Pending",
+        "budget_amount": 6136.46
+    },
+    {
+        "transaction_id": 58,
+        "date": "2021-12-02",
+        "ledger": "OtherIncome",
+        "amount": 7220.19,
+        "status": "Reversed",
+        "budget_amount": 6150.02
+    },
+    {
+        "transaction_id": 59,
+        "date": "2022-06-24",
+        "ledger": "Equity",
+        "amount": 5197.82,
+        "status": "Failed",
+        "budget_amount": 5898.64
+    },
+    {
+        "transaction_id": 60,
+        "date": "2021-01-12",
+        "ledger": "Equity",
+        "amount": 8282.52,
+        "status": "Cleared",
+        "budget_amount": 6634.71
+    },
+    {
+        "transaction_id": 61,
+        "date": "2021-12-02",
+        "ledger": "Sales",
+        "amount": 9179.98,
+        "status": "Cleared",
+        "budget_amount": 9319.34
+    },
+    {
+        "transaction_id": 62,
+        "date": "2022-01-18",
+        "ledger": "OtherIncome",
+        "amount": 1892.37,
+        "status": "Pending",
+        "budget_amount": 1565.31
+    },
+    {
+        "transaction_id": 63,
+        "date": "2022-11-25",
+        "ledger": "Expenses",
+        "amount": -3377.06,
+        "status": "Reversed",
+        "budget_amount": -3747.33
+    },
+    {
+        "transaction_id": 64,
+        "date": "2023-03-10",
+        "ledger": "Expenses",
+        "amount": -272.23,
+        "status": "Failed",
+        "budget_amount": -291.67
+    },
+    {
+        "transaction_id": 65,
+        "date": "2022-08-29",
+        "ledger": "Sales",
+        "amount": 8393.44,
+        "status": "Pending",
+        "budget_amount": 7959.37
+    },
+    {
+        "transaction_id": 66,
+        "date": "2022-07-27",
+        "ledger": "COGS",
+        "amount": -1258.39,
+        "status": "Failed",
+        "budget_amount": -1298.19
+    },
+    {
+        "transaction_id": 67,
+        "date": "2022-05-06",
+        "ledger": "Sales",
+        "amount": 2194.16,
+        "status": "Reversed",
+        "budget_amount": 2547.46
+    },
+    {
+        "transaction_id": 68,
+        "date": "2022-10-08",
+        "ledger": "OtherExpenses",
+        "amount": -480.75,
+        "status": "Pending",
+        "budget_amount": -457.7
+    },
+    {
+        "transaction_id": 69,
+        "date": "2021-01-21",
+        "ledger": "Equity",
+        "amount": 2073.35,
+        "status": "Failed",
+        "budget_amount": 1855.03
+    },
+    {
+        "transaction_id": 70,
+        "date": "2021-11-15",
+        "ledger": "Assets",
+        "amount": 2985.89,
+        "status": "Reversed",
+        "budget_amount": 3019.03
+    },
+    {
+        "transaction_id": 71,
+        "date": "2022-07-11",
+        "ledger": "Sales",
+        "amount": 787.18,
+        "status": "Failed",
+        "budget_amount": 908.22
+    },
+    {
+        "transaction_id": 72,
+        "date": "2023-05-15",
+        "ledger": "COGS",
+        "amount": -1327.33,
+        "status": "Failed",
+        "budget_amount": -1570.35
+    },
+    {
+        "transaction_id": 73,
+        "date": "2022-11-08",
+        "ledger": "Liabilities",
+        "amount": -1556.83,
+        "status": "Pending",
+        "budget_amount": -1863.3
+    },
+    {
+        "transaction_id": 74,
+        "date": "2023-04-27",
+        "ledger": "COGS",
+        "amount": -1333.54,
+        "status": "Failed",
+        "budget_amount": -1280.37
+    },
+    {
+        "transaction_id": 75,
+        "date": "2023-01-11",
+        "ledger": "Expenses",
+        "amount": -2136.32,
+        "status": "Reversed",
+        "budget_amount": -2082.93
+    },
+    {
+        "transaction_id": 76,
+        "date": "2022-12-04",
+        "ledger": "OtherExpenses",
+        "amount": -4619.91,
+        "status": "Reversed",
+        "budget_amount": -4211.12
+    },
+    {
+        "transaction_id": 77,
+        "date": "2023-01-06",
+        "ledger": "Assets",
+        "amount": 3561.47,
+        "status": "Cleared",
+        "budget_amount": 3842.48
+    },
+    {
+        "transaction_id": 78,
+        "date": "2021-10-02",
+        "ledger": "Sales",
+        "amount": 3898.99,
+        "status": "Cleared",
+        "budget_amount": 4331.36
+    },
+    {
+        "transaction_id": 79,
+        "date": "2022-12-30",
+        "ledger": "Liabilities",
+        "amount": -2964.73,
+        "status": "Reversed",
+        "budget_amount": -3226.9
+    },
+    {
+        "transaction_id": 80,
+        "date": "2022-07-24",
+        "ledger": "Assets",
+        "amount": 3345.57,
+        "status": "Reversed",
+        "budget_amount": 2957.27
+    },
+    {
+        "transaction_id": 81,
+        "date": "2023-06-30",
+        "ledger": "Assets",
+        "amount": 9370.05,
+        "status": "Cleared",
+        "budget_amount": 10592.83
+    },
+    {
+        "transaction_id": 82,
+        "date": "2021-09-03",
+        "ledger": "Expenses",
+        "amount": -2207.89,
+        "status": "Failed",
+        "budget_amount": -2530.56
+    },
+    {
+        "transaction_id": 83,
+        "date": "2023-03-10",
+        "ledger": "OtherIncome",
+        "amount": 2002.54,
+        "status": "Reversed",
+        "budget_amount": 1851.84
+    },
+    {
+        "transaction_id": 84,
+        "date": "2021-10-08",
+        "ledger": "OtherExpenses",
+        "amount": -4819.13,
+        "status": "Reversed",
+        "budget_amount": -5458.37
+    },
+    {
+        "transaction_id": 85,
+        "date": "2023-01-28",
+        "ledger": "Sales",
+        "amount": 7031.54,
+        "status": "Reversed",
+        "budget_amount": 6859.38
+    },
+    {
+        "transaction_id": 86,
+        "date": "2022-03-16",
+        "ledger": "Liabilities",
+        "amount": -4096.66,
+        "status": "Pending",
+        "budget_amount": -4323.35
+    },
+    {
+        "transaction_id": 87,
+        "date": "2023-09-09",
+        "ledger": "Sales",
+        "amount": 2562.89,
+        "status": "Pending",
+        "budget_amount": 2539.66
+    },
+    {
+        "transaction_id": 88,
+        "date": "2022-12-31",
+        "ledger": "COGS",
+        "amount": -4106.69,
+        "status": "Reversed",
+        "budget_amount": -3726.94
+    },
+    {
+        "transaction_id": 89,
+        "date": "2023-12-23",
+        "ledger": "OtherExpenses",
+        "amount": -2652.9,
+        "status": "Failed",
+        "budget_amount": -3052.92
+    },
+    {
+        "transaction_id": 90,
+        "date": "2023-01-31",
+        "ledger": "Expenses",
+        "amount": -4887.46,
+        "status": "Failed",
+        "budget_amount": -4989.73
+    },
+    {
+        "transaction_id": 91,
+        "date": "2021-06-10",
+        "ledger": "OtherExpenses",
+        "amount": -2983.21,
+        "status": "Reversed",
+        "budget_amount": -2457.1
+    },
+    {
+        "transaction_id": 92,
+        "date": "2022-06-28",
+        "ledger": "Sales",
+        "amount": 5699.08,
+        "status": "Pending",
+        "budget_amount": 5067.56
+    },
+    {
+        "transaction_id": 93,
+        "date": "2022-08-25",
+        "ledger": "Equity",
+        "amount": 2291.42,
+        "status": "Failed",
+        "budget_amount": 2736.82
+    },
+    {
+        "transaction_id": 94,
+        "date": "2023-08-27",
+        "ledger": "Assets",
+        "amount": 4179.12,
+        "status": "Pending",
+        "budget_amount": 3979.93
+    },
+    {
+        "transaction_id": 95,
+        "date": "2021-01-12",
+        "ledger": "Sales",
+        "amount": 2633.27,
+        "status": "Failed",
+        "budget_amount": 3144.82
+    },
+    {
+        "transaction_id": 96,
+        "date": "2021-06-30",
+        "ledger": "Expenses",
+        "amount": -645.97,
+        "status": "Pending",
+        "budget_amount": -605.72
+    },
+    {
+        "transaction_id": 97,
+        "date": "2021-05-05",
+        "ledger": "COGS",
+        "amount": -3788.98,
+        "status": "Pending",
+        "budget_amount": -3590.0
+    },
+    {
+        "transaction_id": 98,
+        "date": "2021-07-02",
+        "ledger": "Equity",
+        "amount": 3594.52,
+        "status": "Reversed",
+        "budget_amount": 3782.7
+    },
+    {
+        "transaction_id": 99,
+        "date": "2023-03-04",
+        "ledger": "OtherIncome",
+        "amount": 3737.79,
+        "status": "Pending",
+        "budget_amount": 3678.18
+    },
+    {
+        "transaction_id": 100,
+        "date": "2023-06-15",
+        "ledger": "Liabilities",
+        "amount": -3536.42,
+        "status": "Cleared",
+        "budget_amount": -4013.47
+    },
+    {
+        "transaction_id": 101,
+        "date": "2022-07-17",
+        "ledger": "Equity",
+        "amount": 5940.21,
+        "status": "Reversed",
+        "budget_amount": 6772.42
+    },
+    {
+        "transaction_id": 102,
+        "date": "2021-01-21",
+        "ledger": "Sales",
+        "amount": 2310.03,
+        "status": "Cleared",
+        "budget_amount": 2286.96
+    },
+    {
+        "transaction_id": 103,
+        "date": "2022-01-04",
+        "ledger": "OtherIncome",
+        "amount": 3736.17,
+        "status": "Failed",
+        "budget_amount": 3159.06
+    },
+    {
+        "transaction_id": 104,
+        "date": "2023-05-09",
+        "ledger": "Liabilities",
+        "amount": -4701.1,
+        "status": "Reversed",
+        "budget_amount": -5490.36
+    },
+    {
+        "transaction_id": 105,
+        "date": "2022-04-17",
+        "ledger": "OtherIncome",
+        "amount": 9207.4,
+        "status": "Cleared",
+        "budget_amount": 11013.87
+    },
+    {
+        "transaction_id": 106,
+        "date": "2023-10-20",
+        "ledger": "Assets",
+        "amount": 8388.76,
+        "status": "Cleared",
+        "budget_amount": 8156.44
+    },
+    {
+        "transaction_id": 107,
+        "date": "2021-10-05",
+        "ledger": "OtherExpenses",
+        "amount": -4362.36,
+        "status": "Pending",
+        "budget_amount": -4562.34
+    },
+    {
+        "transaction_id": 108,
+        "date": "2021-04-11",
+        "ledger": "OtherExpenses",
+        "amount": -175.47,
+        "status": "Pending",
+        "budget_amount": -175.27
+    },
+    {
+        "transaction_id": 109,
+        "date": "2021-09-12",
+        "ledger": "Sales",
+        "amount": 208.62,
+        "status": "Cleared",
+        "budget_amount": 214.87
+    },
+    {
+        "transaction_id": 110,
+        "date": "2022-09-06",
+        "ledger": "Expenses",
+        "amount": -2784.84,
+        "status": "Cleared",
+        "budget_amount": -3086.17
+    },
+    {
+        "transaction_id": 111,
+        "date": "2023-07-10",
+        "ledger": "OtherExpenses",
+        "amount": -4507.56,
+        "status": "Cleared",
+        "budget_amount": -3898.64
+    },
+    {
+        "transaction_id": 112,
+        "date": "2022-04-19",
+        "ledger": "Equity",
+        "amount": 9571.41,
+        "status": "Cleared",
+        "budget_amount": 9085.56
+    },
+    {
+        "transaction_id": 113,
+        "date": "2023-01-24",
+        "ledger": "Liabilities",
+        "amount": -1395.09,
+        "status": "Pending",
+        "budget_amount": -1380.37
+    },
+    {
+        "transaction_id": 114,
+        "date": "2022-11-08",
+        "ledger": "Assets",
+        "amount": 6847.91,
+        "status": "Reversed",
+        "budget_amount": 6621.85
+    },
+    {
+        "transaction_id": 115,
+        "date": "2021-10-10",
+        "ledger": "Equity",
+        "amount": 1812.93,
+        "status": "Cleared",
+        "budget_amount": 1473.45
+    },
+    {
+        "transaction_id": 116,
+        "date": "2023-07-22",
+        "ledger": "COGS",
+        "amount": -3147.98,
+        "status": "Failed",
+        "budget_amount": -3644.27
+    },
+    {
+        "transaction_id": 117,
+        "date": "2021-03-20",
+        "ledger": "Expenses",
+        "amount": -2558.19,
+        "status": "Pending",
+        "budget_amount": -2578.13
+    },
+    {
+        "transaction_id": 118,
+        "date": "2022-11-16",
+        "ledger": "Expenses",
+        "amount": -2099.72,
+        "status": "Cleared",
+        "budget_amount": -1863.76
+    },
+    {
+        "transaction_id": 119,
+        "date": "2023-03-15",
+        "ledger": "Sales",
+        "amount": 6553.44,
+        "status": "Failed",
+        "budget_amount": 6427.04
+    },
+    {
+        "transaction_id": 120,
+        "date": "2022-08-28",
+        "ledger": "Assets",
+        "amount": 7457.88,
+        "status": "Reversed",
+        "budget_amount": 8183.42
+    },
+    {
+        "transaction_id": 121,
+        "date": "2021-09-05",
+        "ledger": "Assets",
+        "amount": 391.31,
+        "status": "Cleared",
+        "budget_amount": 425.29
+    },
+    {
+        "transaction_id": 122,
+        "date": "2022-07-02",
+        "ledger": "Sales",
+        "amount": 9979.98,
+        "status": "Reversed",
+        "budget_amount": 11713.34
+    },
+    {
+        "transaction_id": 123,
+        "date": "2022-07-26",
+        "ledger": "Expenses",
+        "amount": -619.37,
+        "status": "Reversed",
+        "budget_amount": -583.54
+    },
+    {
+        "transaction_id": 124,
+        "date": "2022-11-26",
+        "ledger": "Sales",
+        "amount": 7305.09,
+        "status": "Failed",
+        "budget_amount": 6569.93
+    },
+    {
+        "transaction_id": 125,
+        "date": "2022-05-03",
+        "ledger": "Sales",
+        "amount": 729.98,
+        "status": "Cleared",
+        "budget_amount": 695.17
+    },
+    {
+        "transaction_id": 126,
+        "date": "2021-01-03",
+        "ledger": "COGS",
+        "amount": -4845.36,
+        "status": "Cleared",
+        "budget_amount": -5144.48
+    },
+    {
+        "transaction_id": 127,
+        "date": "2023-10-23",
+        "ledger": "Sales",
+        "amount": 7831.52,
+        "status": "Reversed",
+        "budget_amount": 9397.52
+    },
+    {
+        "transaction_id": 128,
+        "date": "2021-05-23",
+        "ledger": "OtherExpenses",
+        "amount": -1142.9,
+        "status": "Pending",
+        "budget_amount": -1149.99
+    },
+    {
+        "transaction_id": 129,
+        "date": "2023-08-20",
+        "ledger": "Liabilities",
+        "amount": -4737.95,
+        "status": "Cleared",
+        "budget_amount": -4566.09
+    },
+    {
+        "transaction_id": 130,
+        "date": "2021-09-12",
+        "ledger": "Assets",
+        "amount": 1075.98,
+        "status": "Pending",
+        "budget_amount": 968.01
+    },
+    {
+        "transaction_id": 131,
+        "date": "2021-05-22",
+        "ledger": "Sales",
+        "amount": 8850.91,
+        "status": "Cleared",
+        "budget_amount": 7135.51
+    },
+    {
+        "transaction_id": 132,
+        "date": "2022-09-01",
+        "ledger": "OtherIncome",
+        "amount": 7797.37,
+        "status": "Pending",
+        "budget_amount": 7713.34
+    },
+    {
+        "transaction_id": 133,
+        "date": "2022-11-14",
+        "ledger": "OtherIncome",
+        "amount": 5348.03,
+        "status": "Reversed",
+        "budget_amount": 4367.72
+    },
+    {
+        "transaction_id": 134,
+        "date": "2023-01-20",
+        "ledger": "Equity",
+        "amount": 459.11,
+        "status": "Pending",
+        "budget_amount": 531.29
+    },
+    {
+        "transaction_id": 135,
+        "date": "2023-10-21",
+        "ledger": "Expenses",
+        "amount": -424.24,
+        "status": "Reversed",
+        "budget_amount": -379.81
+    },
+    {
+        "transaction_id": 136,
+        "date": "2023-10-17",
+        "ledger": "Assets",
+        "amount": 5509.39,
+        "status": "Reversed",
+        "budget_amount": 5715.75
+    },
+    {
+        "transaction_id": 137,
+        "date": "2022-08-15",
+        "ledger": "OtherExpenses",
+        "amount": -4793.2,
+        "status": "Failed",
+        "budget_amount": -4576.51
+    },
+    {
+        "transaction_id": 138,
+        "date": "2021-08-26",
+        "ledger": "Expenses",
+        "amount": -3928.24,
+        "status": "Pending",
+        "budget_amount": -4478.1
+    },
+    {
+        "transaction_id": 139,
+        "date": "2023-09-05",
+        "ledger": "Equity",
+        "amount": 6879.81,
+        "status": "Reversed",
+        "budget_amount": 7772.5
+    },
+    {
+        "transaction_id": 140,
+        "date": "2021-06-11",
+        "ledger": "Equity",
+        "amount": 6376.9,
+        "status": "Cleared",
+        "budget_amount": 5328.15
+    },
+    {
+        "transaction_id": 141,
+        "date": "2023-03-02",
+        "ledger": "Sales",
+        "amount": 702.18,
+        "status": "Failed",
+        "budget_amount": 693.43
+    },
+    {
+        "transaction_id": 142,
+        "date": "2021-01-08",
+        "ledger": "Liabilities",
+        "amount": -1517.69,
+        "status": "Pending",
+        "budget_amount": -1707.33
+    },
+    {
+        "transaction_id": 143,
+        "date": "2022-12-22",
+        "ledger": "Expenses",
+        "amount": -1352.19,
+        "status": "Failed",
+        "budget_amount": -1087.67
+    },
+    {
+        "transaction_id": 144,
+        "date": "2022-05-09",
+        "ledger": "OtherExpenses",
+        "amount": -2337.28,
+        "status": "Reversed",
+        "budget_amount": -2704.29
+    },
+    {
+        "transaction_id": 145,
+        "date": "2022-04-24",
+        "ledger": "OtherExpenses",
+        "amount": -1270.67,
+        "status": "Cleared",
+        "budget_amount": -1415.83
+    },
+    {
+        "transaction_id": 146,
+        "date": "2022-05-09",
+        "ledger": "Assets",
+        "amount": 5832.34,
+        "status": "Reversed",
+        "budget_amount": 4885.59
+    },
+    {
+        "transaction_id": 147,
+        "date": "2022-04-26",
+        "ledger": "Assets",
+        "amount": 7846.16,
+        "status": "Failed",
+        "budget_amount": 7392.34
+    },
+    {
+        "transaction_id": 148,
+        "date": "2023-09-24",
+        "ledger": "Liabilities",
+        "amount": -2012.63,
+        "status": "Cleared",
+        "budget_amount": -1807.49
+    },
+    {
+        "transaction_id": 149,
+        "date": "2021-03-07",
+        "ledger": "Assets",
+        "amount": 1596.34,
+        "status": "Cleared",
+        "budget_amount": 1608.42
+    },
+    {
+        "transaction_id": 150,
+        "date": "2021-07-07",
+        "ledger": "OtherIncome",
+        "amount": 3097.84,
+        "status": "Reversed",
+        "budget_amount": 3396.5
+    },
+    {
+        "transaction_id": 151,
+        "date": "2021-10-08",
+        "ledger": "Liabilities",
+        "amount": -3558.27,
+        "status": "Cleared",
+        "budget_amount": -3447.27
+    },
+    {
+        "transaction_id": 152,
+        "date": "2023-08-26",
+        "ledger": "Assets",
+        "amount": 2173.45,
+        "status": "Cleared",
+        "budget_amount": 2069.92
+    },
+    {
+        "transaction_id": 153,
+        "date": "2022-04-30",
+        "ledger": "Expenses",
+        "amount": -560.85,
+        "status": "Cleared",
+        "budget_amount": -455.28
+    },
+    {
+        "transaction_id": 154,
+        "date": "2021-03-29",
+        "ledger": "Sales",
+        "amount": 7912.34,
+        "status": "Cleared",
+        "budget_amount": 8439.2
+    },
+    {
+        "transaction_id": 155,
+        "date": "2022-02-17",
+        "ledger": "Expenses",
+        "amount": -807.79,
+        "status": "Failed",
+        "budget_amount": -836.51
+    },
+    {
+        "transaction_id": 156,
+        "date": "2021-03-20",
+        "ledger": "Equity",
+        "amount": 4863.95,
+        "status": "Reversed",
+        "budget_amount": 5783.62
+    },
+    {
+        "transaction_id": 157,
+        "date": "2023-05-30",
+        "ledger": "Sales",
+        "amount": 3259.39,
+        "status": "Cleared",
+        "budget_amount": 3035.5
+    },
+    {
+        "transaction_id": 158,
+        "date": "2022-12-28",
+        "ledger": "OtherExpenses",
+        "amount": -1194.54,
+        "status": "Pending",
+        "budget_amount": -1262.87
+    },
+    {
+        "transaction_id": 159,
+        "date": "2022-02-17",
+        "ledger": "Liabilities",
+        "amount": -4573.38,
+        "status": "Cleared",
+        "budget_amount": -3925.14
+    },
+    {
+        "transaction_id": 160,
+        "date": "2023-04-21",
+        "ledger": "OtherIncome",
+        "amount": 4168.14,
+        "status": "Cleared",
+        "budget_amount": 4338.42
+    },
+    {
+        "transaction_id": 161,
+        "date": "2023-01-07",
+        "ledger": "Equity",
+        "amount": 6378.45,
+        "status": "Pending",
+        "budget_amount": 7377.39
+    },
+    {
+        "transaction_id": 162,
+        "date": "2023-08-07",
+        "ledger": "Liabilities",
+        "amount": -4325.94,
+        "status": "Failed",
+        "budget_amount": -3894.32
+    },
+    {
+        "transaction_id": 163,
+        "date": "2022-04-11",
+        "ledger": "Sales",
+        "amount": 2892.15,
+        "status": "Failed",
+        "budget_amount": 3331.71
+    },
+    {
+        "transaction_id": 164,
+        "date": "2022-10-25",
+        "ledger": "OtherExpenses",
+        "amount": -3351.62,
+        "status": "Failed",
+        "budget_amount": -3935.79
+    },
+    {
+        "transaction_id": 165,
+        "date": "2023-10-26",
+        "ledger": "Equity",
+        "amount": 5164.93,
+        "status": "Failed",
+        "budget_amount": 5565.01
+    },
+    {
+        "transaction_id": 166,
+        "date": "2022-04-17",
+        "ledger": "Liabilities",
+        "amount": -790.16,
+        "status": "Failed",
+        "budget_amount": -637.11
+    },
+    {
+        "transaction_id": 167,
+        "date": "2023-09-25",
+        "ledger": "Sales",
+        "amount": 8874.65,
+        "status": "Pending",
+        "budget_amount": 9538.12
+    },
+    {
+        "transaction_id": 168,
+        "date": "2023-07-02",
+        "ledger": "Equity",
+        "amount": 8505.45,
+        "status": "Failed",
+        "budget_amount": 7907.24
+    },
+    {
+        "transaction_id": 169,
+        "date": "2021-04-30",
+        "ledger": "Equity",
+        "amount": 5894.97,
+        "status": "Pending",
+        "budget_amount": 4777.52
+    },
+    {
+        "transaction_id": 170,
+        "date": "2021-05-18",
+        "ledger": "Liabilities",
+        "amount": -4466.33,
+        "status": "Failed",
+        "budget_amount": -5144.13
+    },
+    {
+        "transaction_id": 171,
+        "date": "2023-01-14",
+        "ledger": "Expenses",
+        "amount": -3648.73,
+        "status": "Cleared",
+        "budget_amount": -3872.56
+    },
+    {
+        "transaction_id": 172,
+        "date": "2022-11-14",
+        "ledger": "Liabilities",
+        "amount": -3193.53,
+        "status": "Pending",
+        "budget_amount": -2567.87
+    },
+    {
+        "transaction_id": 173,
+        "date": "2022-09-27",
+        "ledger": "OtherIncome",
+        "amount": 5701.78,
+        "status": "Failed",
+        "budget_amount": 4789.89
+    },
+    {
+        "transaction_id": 174,
+        "date": "2023-08-15",
+        "ledger": "Liabilities",
+        "amount": -1700.96,
+        "status": "Pending",
+        "budget_amount": -1980.35
+    },
+    {
+        "transaction_id": 175,
+        "date": "2022-08-14",
+        "ledger": "Expenses",
+        "amount": -2874.27,
+        "status": "Reversed",
+        "budget_amount": -3424.46
+    },
+    {
+        "transaction_id": 176,
+        "date": "2023-10-11",
+        "ledger": "Equity",
+        "amount": 3881.89,
+        "status": "Cleared",
+        "budget_amount": 3659.67
+    },
+    {
+        "transaction_id": 177,
+        "date": "2022-10-08",
+        "ledger": "Sales",
+        "amount": 2471.77,
+        "status": "Reversed",
+        "budget_amount": 2776.56
+    },
+    {
+        "transaction_id": 178,
+        "date": "2021-01-30",
+        "ledger": "Assets",
+        "amount": 3019.09,
+        "status": "Pending",
+        "budget_amount": 2752.16
+    },
+    {
+        "transaction_id": 179,
+        "date": "2023-02-10",
+        "ledger": "OtherExpenses",
+        "amount": -3743.97,
+        "status": "Pending",
+        "budget_amount": -3162.48
+    },
+    {
+        "transaction_id": 180,
+        "date": "2023-06-22",
+        "ledger": "OtherIncome",
+        "amount": 4564.79,
+        "status": "Failed",
+        "budget_amount": 4652.47
+    },
+    {
+        "transaction_id": 181,
+        "date": "2023-10-12",
+        "ledger": "Equity",
+        "amount": 9002.33,
+        "status": "Pending",
+        "budget_amount": 8889.83
+    },
+    {
+        "transaction_id": 182,
+        "date": "2021-07-15",
+        "ledger": "Equity",
+        "amount": 5662.06,
+        "status": "Failed",
+        "budget_amount": 4580.38
+    },
+    {
+        "transaction_id": 183,
+        "date": "2021-05-18",
+        "ledger": "Equity",
+        "amount": 4208.19,
+        "status": "Failed",
+        "budget_amount": 4950.36
+    },
+    {
+        "transaction_id": 184,
+        "date": "2023-05-26",
+        "ledger": "Expenses",
+        "amount": -1204.74,
+        "status": "Cleared",
+        "budget_amount": -1276.88
+    },
+    {
+        "transaction_id": 185,
+        "date": "2023-10-02",
+        "ledger": "Sales",
+        "amount": 921.85,
+        "status": "Cleared",
+        "budget_amount": 834.57
+    },
+    {
+        "transaction_id": 186,
+        "date": "2022-02-06",
+        "ledger": "COGS",
+        "amount": -4561.42,
+        "status": "Pending",
+        "budget_amount": -3910.68
+    },
+    {
+        "transaction_id": 187,
+        "date": "2021-12-28",
+        "ledger": "Assets",
+        "amount": 3720.48,
+        "status": "Pending",
+        "budget_amount": 3562.34
+    },
+    {
+        "transaction_id": 188,
+        "date": "2022-04-06",
+        "ledger": "OtherExpenses",
+        "amount": -4549.0,
+        "status": "Cleared",
+        "budget_amount": -5091.16
+    },
+    {
+        "transaction_id": 189,
+        "date": "2023-11-01",
+        "ledger": "Liabilities",
+        "amount": -1153.69,
+        "status": "Cleared",
+        "budget_amount": -1112.66
+    },
+    {
+        "transaction_id": 190,
+        "date": "2023-12-19",
+        "ledger": "Liabilities",
+        "amount": -966.69,
+        "status": "Pending",
+        "budget_amount": -896.17
+    },
+    {
+        "transaction_id": 191,
+        "date": "2022-04-11",
+        "ledger": "OtherIncome",
+        "amount": 9666.96,
+        "status": "Pending",
+        "budget_amount": 10882.31
+    },
+    {
+        "transaction_id": 192,
+        "date": "2021-12-01",
+        "ledger": "Assets",
+        "amount": 5672.12,
+        "status": "Reversed",
+        "budget_amount": 6319.28
+    },
+    {
+        "transaction_id": 193,
+        "date": "2023-07-19",
+        "ledger": "OtherIncome",
+        "amount": 6951.67,
+        "status": "Reversed",
+        "budget_amount": 6545.39
+    },
+    {
+        "transaction_id": 194,
+        "date": "2022-07-11",
+        "ledger": "Sales",
+        "amount": 9810.99,
+        "status": "Pending",
+        "budget_amount": 10499.05
+    },
+    {
+        "transaction_id": 195,
+        "date": "2021-07-02",
+        "ledger": "Expenses",
+        "amount": -4916.56,
+        "status": "Reversed",
+        "budget_amount": -5170.99
+    },
+    {
+        "transaction_id": 196,
+        "date": "2023-11-12",
+        "ledger": "Sales",
+        "amount": 1974.63,
+        "status": "Reversed",
+        "budget_amount": 1710.79
+    },
+    {
+        "transaction_id": 197,
+        "date": "2022-01-07",
+        "ledger": "OtherExpenses",
+        "amount": -1852.9,
+        "status": "Cleared",
+        "budget_amount": -2073.81
+    },
+    {
+        "transaction_id": 198,
+        "date": "2021-08-10",
+        "ledger": "Liabilities",
+        "amount": -4264.73,
+        "status": "Failed",
+        "budget_amount": -4038.5
+    },
+    {
+        "transaction_id": 199,
+        "date": "2021-07-03",
+        "ledger": "OtherExpenses",
+        "amount": -4547.32,
+        "status": "Reversed",
+        "budget_amount": -5284.55
+    },
+    {
+        "transaction_id": 200,
+        "date": "2022-03-06",
+        "ledger": "Sales",
+        "amount": 5542.46,
+        "status": "Reversed",
+        "budget_amount": 4873.22
+    },
+    {
+        "transaction_id": 201,
+        "date": "2022-03-19",
+        "ledger": "Sales",
+        "amount": 3186.96,
+        "status": "Pending",
+        "budget_amount": 3339.75
+    },
+    {
+        "transaction_id": 202,
+        "date": "2023-08-24",
+        "ledger": "Sales",
+        "amount": 580.52,
+        "status": "Cleared",
+        "budget_amount": 555.62
+    },
+    {
+        "transaction_id": 203,
+        "date": "2022-10-17",
+        "ledger": "Assets",
+        "amount": 1253.08,
+        "status": "Reversed",
+        "budget_amount": 1440.36
+    },
+    {
+        "transaction_id": 204,
+        "date": "2022-05-19",
+        "ledger": "Liabilities",
+        "amount": -4604.75,
+        "status": "Pending",
+        "budget_amount": -4140.2
+    },
+    {
+        "transaction_id": 205,
+        "date": "2022-09-27",
+        "ledger": "Sales",
+        "amount": 7446.81,
+        "status": "Pending",
+        "budget_amount": 6168.98
+    },
+    {
+        "transaction_id": 206,
+        "date": "2022-10-23",
+        "ledger": "OtherExpenses",
+        "amount": -1421.22,
+        "status": "Pending",
+        "budget_amount": -1554.54
+    },
+    {
+        "transaction_id": 207,
+        "date": "2023-04-03",
+        "ledger": "OtherIncome",
+        "amount": 1333.57,
+        "status": "Reversed",
+        "budget_amount": 1080.88
+    },
+    {
+        "transaction_id": 208,
+        "date": "2022-08-31",
+        "ledger": "COGS",
+        "amount": -2985.19,
+        "status": "Pending",
+        "budget_amount": -3121.88
+    },
+    {
+        "transaction_id": 209,
+        "date": "2023-01-31",
+        "ledger": "Equity",
+        "amount": 1845.1,
+        "status": "Cleared",
+        "budget_amount": 2088.23
+    },
+    {
+        "transaction_id": 210,
+        "date": "2021-12-20",
+        "ledger": "Liabilities",
+        "amount": -4436.66,
+        "status": "Cleared",
+        "budget_amount": -3737.29
+    },
+    {
+        "transaction_id": 211,
+        "date": "2022-06-29",
+        "ledger": "Expenses",
+        "amount": -869.79,
+        "status": "Pending",
+        "budget_amount": -754.82
+    },
+    {
+        "transaction_id": 212,
+        "date": "2021-09-23",
+        "ledger": "Liabilities",
+        "amount": -275.04,
+        "status": "Failed",
+        "budget_amount": -281.97
+    },
+    {
+        "transaction_id": 213,
+        "date": "2021-12-19",
+        "ledger": "OtherExpenses",
+        "amount": -2670.51,
+        "status": "Cleared",
+        "budget_amount": -2514.97
+    },
+    {
+        "transaction_id": 214,
+        "date": "2021-07-04",
+        "ledger": "OtherExpenses",
+        "amount": -2887.96,
+        "status": "Pending",
+        "budget_amount": -3331.58
+    },
+    {
+        "transaction_id": 215,
+        "date": "2023-01-21",
+        "ledger": "Sales",
+        "amount": 6356.14,
+        "status": "Failed",
+        "budget_amount": 5137.42
+    },
+    {
+        "transaction_id": 216,
+        "date": "2023-08-18",
+        "ledger": "Equity",
+        "amount": 5873.14,
+        "status": "Cleared",
+        "budget_amount": 5495.25
+    },
+    {
+        "transaction_id": 217,
+        "date": "2022-02-14",
+        "ledger": "OtherExpenses",
+        "amount": -4563.55,
+        "status": "Cleared",
+        "budget_amount": -5077.63
+    },
+    {
+        "transaction_id": 218,
+        "date": "2021-09-13",
+        "ledger": "Assets",
+        "amount": 362.53,
+        "status": "Cleared",
+        "budget_amount": 298.19
+    },
+    {
+        "transaction_id": 219,
+        "date": "2021-05-31",
+        "ledger": "Liabilities",
+        "amount": -110.0,
+        "status": "Pending",
+        "budget_amount": -98.19
+    },
+    {
+        "transaction_id": 220,
+        "date": "2022-11-22",
+        "ledger": "Sales",
+        "amount": 5174.2,
+        "status": "Cleared",
+        "budget_amount": 4347.85
+    },
+    {
+        "transaction_id": 221,
+        "date": "2023-04-29",
+        "ledger": "OtherExpenses",
+        "amount": -488.62,
+        "status": "Pending",
+        "budget_amount": -460.23
+    },
+    {
+        "transaction_id": 222,
+        "date": "2023-12-16",
+        "ledger": "Assets",
+        "amount": 9956.83,
+        "status": "Reversed",
+        "budget_amount": 10798.4
+    },
+    {
+        "transaction_id": 223,
+        "date": "2023-06-23",
+        "ledger": "OtherExpenses",
+        "amount": -3848.58,
+        "status": "Cleared",
+        "budget_amount": -3458.0
+    },
+    {
+        "transaction_id": 224,
+        "date": "2022-05-05",
+        "ledger": "OtherIncome",
+        "amount": 5381.07,
+        "status": "Cleared",
+        "budget_amount": 6419.58
+    },
+    {
+        "transaction_id": 225,
+        "date": "2023-03-08",
+        "ledger": "Assets",
+        "amount": 3592.49,
+        "status": "Reversed",
+        "budget_amount": 4297.42
+    },
+    {
+        "transaction_id": 226,
+        "date": "2022-04-05",
+        "ledger": "Liabilities",
+        "amount": -2248.25,
+        "status": "Failed",
+        "budget_amount": -2094.42
+    },
+    {
+        "transaction_id": 227,
+        "date": "2022-05-14",
+        "ledger": "Liabilities",
+        "amount": -4879.45,
+        "status": "Reversed",
+        "budget_amount": -4694.8
+    },
+    {
+        "transaction_id": 228,
+        "date": "2023-09-28",
+        "ledger": "Assets",
+        "amount": 4491.0,
+        "status": "Cleared",
+        "budget_amount": 5136.48
+    },
+    {
+        "transaction_id": 229,
+        "date": "2023-09-18",
+        "ledger": "Expenses",
+        "amount": -2230.07,
+        "status": "Cleared",
+        "budget_amount": -2572.75
+    },
+    {
+        "transaction_id": 230,
+        "date": "2021-03-13",
+        "ledger": "Equity",
+        "amount": 9528.96,
+        "status": "Pending",
+        "budget_amount": 8638.09
+    },
+    {
+        "transaction_id": 231,
+        "date": "2023-02-27",
+        "ledger": "Assets",
+        "amount": 7036.45,
+        "status": "Reversed",
+        "budget_amount": 8371.14
+    },
+    {
+        "transaction_id": 232,
+        "date": "2022-03-29",
+        "ledger": "Expenses",
+        "amount": -1231.53,
+        "status": "Failed",
+        "budget_amount": -1112.31
+    },
+    {
+        "transaction_id": 233,
+        "date": "2022-03-16",
+        "ledger": "Equity",
+        "amount": 6593.95,
+        "status": "Cleared",
+        "budget_amount": 5329.46
+    },
+    {
+        "transaction_id": 234,
+        "date": "2021-07-08",
+        "ledger": "Equity",
+        "amount": 2163.4,
+        "status": "Failed",
+        "budget_amount": 2406.97
+    },
+    {
+        "transaction_id": 235,
+        "date": "2021-12-29",
+        "ledger": "Expenses",
+        "amount": -981.27,
+        "status": "Cleared",
+        "budget_amount": -804.16
+    },
+    {
+        "transaction_id": 236,
+        "date": "2022-10-05",
+        "ledger": "OtherIncome",
+        "amount": 1670.25,
+        "status": "Pending",
+        "budget_amount": 1812.6
+    },
+    {
+        "transaction_id": 237,
+        "date": "2023-05-28",
+        "ledger": "OtherIncome",
+        "amount": 2070.22,
+        "status": "Failed",
+        "budget_amount": 1738.61
+    },
+    {
+        "transaction_id": 238,
+        "date": "2023-03-24",
+        "ledger": "Liabilities",
+        "amount": -3994.86,
+        "status": "Failed",
+        "budget_amount": -3619.06
+    },
+    {
+        "transaction_id": 239,
+        "date": "2023-08-11",
+        "ledger": "Assets",
+        "amount": 7931.9,
+        "status": "Failed",
+        "budget_amount": 7135.63
+    },
+    {
+        "transaction_id": 240,
+        "date": "2022-05-27",
+        "ledger": "Liabilities",
+        "amount": -1491.88,
+        "status": "Failed",
+        "budget_amount": -1765.54
+    },
+    {
+        "transaction_id": 241,
+        "date": "2021-08-19",
+        "ledger": "Assets",
+        "amount": 9283.36,
+        "status": "Pending",
+        "budget_amount": 10984.51
+    },
+    {
+        "transaction_id": 242,
+        "date": "2021-04-03",
+        "ledger": "Liabilities",
+        "amount": -3216.43,
+        "status": "Cleared",
+        "budget_amount": -3012.03
+    },
+    {
+        "transaction_id": 243,
+        "date": "2021-01-23",
+        "ledger": "Liabilities",
+        "amount": -4522.1,
+        "status": "Failed",
+        "budget_amount": -5290.22
+    },
+    {
+        "transaction_id": 244,
+        "date": "2022-06-01",
+        "ledger": "Expenses",
+        "amount": -1252.31,
+        "status": "Cleared",
+        "budget_amount": -1475.89
+    },
+    {
+        "transaction_id": 245,
+        "date": "2023-09-19",
+        "ledger": "OtherExpenses",
+        "amount": -3449.26,
+        "status": "Pending",
+        "budget_amount": -4067.66
+    },
+    {
+        "transaction_id": 246,
+        "date": "2022-05-18",
+        "ledger": "COGS",
+        "amount": -729.68,
+        "status": "Pending",
+        "budget_amount": -639.48
+    },
+    {
+        "transaction_id": 247,
+        "date": "2021-08-12",
+        "ledger": "COGS",
+        "amount": -3806.61,
+        "status": "Cleared",
+        "budget_amount": -4158.29
+    },
+    {
+        "transaction_id": 248,
+        "date": "2021-11-07",
+        "ledger": "Assets",
+        "amount": 2190.38,
+        "status": "Pending",
+        "budget_amount": 1994.5
+    },
+    {
+        "transaction_id": 249,
+        "date": "2023-12-29",
+        "ledger": "Sales",
+        "amount": 4891.05,
+        "status": "Reversed",
+        "budget_amount": 5179.07
+    },
+    {
+        "transaction_id": 250,
+        "date": "2023-06-03",
+        "ledger": "COGS",
+        "amount": -214.17,
+        "status": "Cleared",
+        "budget_amount": -181.53
+    },
+    {
+        "transaction_id": 251,
+        "date": "2022-04-24",
+        "ledger": "Liabilities",
+        "amount": -4602.18,
+        "status": "Pending",
+        "budget_amount": -4201.91
+    },
+    {
+        "transaction_id": 252,
+        "date": "2023-04-16",
+        "ledger": "Sales",
+        "amount": 1365.65,
+        "status": "Failed",
+        "budget_amount": 1312.73
+    },
+    {
+        "transaction_id": 253,
+        "date": "2023-10-08",
+        "ledger": "OtherIncome",
+        "amount": 5551.82,
+        "status": "Cleared",
+        "budget_amount": 4580.51
+    },
+    {
+        "transaction_id": 254,
+        "date": "2021-05-31",
+        "ledger": "Liabilities",
+        "amount": -4366.76,
+        "status": "Failed",
+        "budget_amount": -3787.65
+    },
+    {
+        "transaction_id": 255,
+        "date": "2021-08-29",
+        "ledger": "Assets",
+        "amount": 4452.6,
+        "status": "Reversed",
+        "budget_amount": 4671.88
+    },
+    {
+        "transaction_id": 256,
+        "date": "2023-02-22",
+        "ledger": "Liabilities",
+        "amount": -1413.39,
+        "status": "Reversed",
+        "budget_amount": -1627.09
+    },
+    {
+        "transaction_id": 257,
+        "date": "2021-07-28",
+        "ledger": "Sales",
+        "amount": 7720.62,
+        "status": "Reversed",
+        "budget_amount": 7070.04
+    },
+    {
+        "transaction_id": 258,
+        "date": "2021-02-17",
+        "ledger": "Expenses",
+        "amount": -2208.32,
+        "status": "Pending",
+        "budget_amount": -1986.51
+    },
+    {
+        "transaction_id": 259,
+        "date": "2021-02-18",
+        "ledger": "OtherIncome",
+        "amount": 4108.49,
+        "status": "Failed",
+        "budget_amount": 3580.38
+    },
+    {
+        "transaction_id": 260,
+        "date": "2022-11-10",
+        "ledger": "Assets",
+        "amount": 9356.04,
+        "status": "Reversed",
+        "budget_amount": 9130.88
+    },
+    {
+        "transaction_id": 261,
+        "date": "2022-09-18",
+        "ledger": "COGS",
+        "amount": -2442.29,
+        "status": "Failed",
+        "budget_amount": -2687.45
+    },
+    {
+        "transaction_id": 262,
+        "date": "2021-03-10",
+        "ledger": "Expenses",
+        "amount": -1800.13,
+        "status": "Reversed",
+        "budget_amount": -1966.62
+    },
+    {
+        "transaction_id": 263,
+        "date": "2023-05-19",
+        "ledger": "Equity",
+        "amount": 7500.95,
+        "status": "Failed",
+        "budget_amount": 8541.54
+    },
+    {
+        "transaction_id": 264,
+        "date": "2023-04-19",
+        "ledger": "Equity",
+        "amount": 4056.01,
+        "status": "Failed",
+        "budget_amount": 4126.99
+    },
+    {
+        "transaction_id": 265,
+        "date": "2021-07-02",
+        "ledger": "Assets",
+        "amount": 4780.04,
+        "status": "Reversed",
+        "budget_amount": 4648.87
+    },
+    {
+        "transaction_id": 266,
+        "date": "2021-12-23",
+        "ledger": "Expenses",
+        "amount": -2091.4,
+        "status": "Failed",
+        "budget_amount": -1730.16
+    },
+    {
+        "transaction_id": 267,
+        "date": "2022-08-18",
+        "ledger": "OtherIncome",
+        "amount": 8983.77,
+        "status": "Reversed",
+        "budget_amount": 7358.99
+    },
+    {
+        "transaction_id": 268,
+        "date": "2021-12-06",
+        "ledger": "Sales",
+        "amount": 2771.32,
+        "status": "Pending",
+        "budget_amount": 2355.28
+    },
+    {
+        "transaction_id": 269,
+        "date": "2023-01-24",
+        "ledger": "Liabilities",
+        "amount": -4989.16,
+        "status": "Failed",
+        "budget_amount": -4486.84
+    },
+    {
+        "transaction_id": 270,
+        "date": "2021-04-05",
+        "ledger": "Equity",
+        "amount": 5979.74,
+        "status": "Pending",
+        "budget_amount": 4798.78
+    },
+    {
+        "transaction_id": 271,
+        "date": "2023-10-01",
+        "ledger": "OtherIncome",
+        "amount": 1338.44,
+        "status": "Failed",
+        "budget_amount": 1244.45
+    },
+    {
+        "transaction_id": 272,
+        "date": "2021-05-14",
+        "ledger": "COGS",
+        "amount": -4510.58,
+        "status": "Reversed",
+        "budget_amount": -5168.96
+    },
+    {
+        "transaction_id": 273,
+        "date": "2023-02-05",
+        "ledger": "Expenses",
+        "amount": -1675.73,
+        "status": "Pending",
+        "budget_amount": -1626.62
+    },
+    {
+        "transaction_id": 274,
+        "date": "2022-08-04",
+        "ledger": "Expenses",
+        "amount": -3411.14,
+        "status": "Reversed",
+        "budget_amount": -3413.69
+    },
+    {
+        "transaction_id": 275,
+        "date": "2022-12-22",
+        "ledger": "Sales",
+        "amount": 2415.85,
+        "status": "Cleared",
+        "budget_amount": 2199.4
+    },
+    {
+        "transaction_id": 276,
+        "date": "2023-06-25",
+        "ledger": "Liabilities",
+        "amount": -4702.35,
+        "status": "Reversed",
+        "budget_amount": -5570.4
+    },
+    {
+        "transaction_id": 277,
+        "date": "2022-03-29",
+        "ledger": "Liabilities",
+        "amount": -441.98,
+        "status": "Pending",
+        "budget_amount": -373.61
+    },
+    {
+        "transaction_id": 278,
+        "date": "2022-09-14",
+        "ledger": "OtherIncome",
+        "amount": 3434.22,
+        "status": "Failed",
+        "budget_amount": 3702.35
+    },
+    {
+        "transaction_id": 279,
+        "date": "2021-03-24",
+        "ledger": "Expenses",
+        "amount": -3408.64,
+        "status": "Pending",
+        "budget_amount": -3425.38
+    },
+    {
+        "transaction_id": 280,
+        "date": "2022-09-29",
+        "ledger": "COGS",
+        "amount": -4537.48,
+        "status": "Reversed",
+        "budget_amount": -4936.47
+    },
+    {
+        "transaction_id": 281,
+        "date": "2022-09-01",
+        "ledger": "OtherExpenses",
+        "amount": -1519.98,
+        "status": "Reversed",
+        "budget_amount": -1630.41
+    },
+    {
+        "transaction_id": 282,
+        "date": "2023-10-08",
+        "ledger": "COGS",
+        "amount": -3929.13,
+        "status": "Pending",
+        "budget_amount": -3619.78
+    },
+    {
+        "transaction_id": 283,
+        "date": "2021-10-12",
+        "ledger": "Equity",
+        "amount": 7057.09,
+        "status": "Reversed",
+        "budget_amount": 6635.01
+    },
+    {
+        "transaction_id": 284,
+        "date": "2023-10-02",
+        "ledger": "Assets",
+        "amount": 9314.59,
+        "status": "Failed",
+        "budget_amount": 10540.96
+    },
+    {
+        "transaction_id": 285,
+        "date": "2022-10-19",
+        "ledger": "Liabilities",
+        "amount": -4264.07,
+        "status": "Failed",
+        "budget_amount": -4700.72
+    },
+    {
+        "transaction_id": 286,
+        "date": "2021-04-30",
+        "ledger": "Equity",
+        "amount": 5200.47,
+        "status": "Cleared",
+        "budget_amount": 5017.75
+    },
+    {
+        "transaction_id": 287,
+        "date": "2021-09-25",
+        "ledger": "Sales",
+        "amount": 2366.6,
+        "status": "Cleared",
+        "budget_amount": 2422.83
+    },
+    {
+        "transaction_id": 288,
+        "date": "2022-05-18",
+        "ledger": "Equity",
+        "amount": 1681.68,
+        "status": "Cleared",
+        "budget_amount": 1537.25
+    },
+    {
+        "transaction_id": 289,
+        "date": "2022-04-17",
+        "ledger": "Equity",
+        "amount": 9466.22,
+        "status": "Reversed",
+        "budget_amount": 7746.97
+    },
+    {
+        "transaction_id": 290,
+        "date": "2022-12-11",
+        "ledger": "Sales",
+        "amount": 6950.17,
+        "status": "Failed",
+        "budget_amount": 7033.05
+    },
+    {
+        "transaction_id": 291,
+        "date": "2022-09-06",
+        "ledger": "Assets",
+        "amount": 5628.54,
+        "status": "Reversed",
+        "budget_amount": 4769.3
+    },
+    {
+        "transaction_id": 292,
+        "date": "2022-12-13",
+        "ledger": "Assets",
+        "amount": 8366.22,
+        "status": "Cleared",
+        "budget_amount": 8116.02
+    },
+    {
+        "transaction_id": 293,
+        "date": "2021-02-21",
+        "ledger": "OtherExpenses",
+        "amount": -3747.39,
+        "status": "Pending",
+        "budget_amount": -3346.54
+    },
+    {
+        "transaction_id": 294,
+        "date": "2021-02-03",
+        "ledger": "Assets",
+        "amount": 1483.11,
+        "status": "Pending",
+        "budget_amount": 1225.9
+    },
+    {
+        "transaction_id": 295,
+        "date": "2023-07-21",
+        "ledger": "Equity",
+        "amount": 780.91,
+        "status": "Failed",
+        "budget_amount": 643.09
+    },
+    {
+        "transaction_id": 296,
+        "date": "2021-02-25",
+        "ledger": "OtherIncome",
+        "amount": 371.65,
+        "status": "Pending",
+        "budget_amount": 315.66
+    },
+    {
+        "transaction_id": 297,
+        "date": "2022-01-04",
+        "ledger": "Liabilities",
+        "amount": -4485.44,
+        "status": "Reversed",
+        "budget_amount": -4189.29
+    },
+    {
+        "transaction_id": 298,
+        "date": "2023-04-16",
+        "ledger": "COGS",
+        "amount": -2812.93,
+        "status": "Failed",
+        "budget_amount": -3023.88
+    },
+    {
+        "transaction_id": 299,
+        "date": "2023-08-05",
+        "ledger": "Equity",
+        "amount": 387.35,
+        "status": "Pending",
+        "budget_amount": 317.76
+    },
+    {
+        "transaction_id": 300,
+        "date": "2022-01-29",
+        "ledger": "COGS",
+        "amount": -433.54,
+        "status": "Cleared",
+        "budget_amount": -440.13
+    },
+    {
+        "transaction_id": 301,
+        "date": "2021-06-18",
+        "ledger": "COGS",
+        "amount": -4824.24,
+        "status": "Failed",
+        "budget_amount": -5306.52
+    },
+    {
+        "transaction_id": 302,
+        "date": "2022-01-01",
+        "ledger": "Sales",
+        "amount": 4487.32,
+        "status": "Failed",
+        "budget_amount": 5054.18
+    },
+    {
+        "transaction_id": 303,
+        "date": "2023-11-01",
+        "ledger": "Liabilities",
+        "amount": -4580.88,
+        "status": "Reversed",
+        "budget_amount": -5380.06
+    },
+    {
+        "transaction_id": 304,
+        "date": "2023-03-07",
+        "ledger": "OtherExpenses",
+        "amount": -2551.95,
+        "status": "Reversed",
+        "budget_amount": -2557.98
+    },
+    {
+        "transaction_id": 305,
+        "date": "2023-02-16",
+        "ledger": "Sales",
+        "amount": 1430.75,
+        "status": "Cleared",
+        "budget_amount": 1622.84
+    },
+    {
+        "transaction_id": 306,
+        "date": "2021-11-12",
+        "ledger": "OtherExpenses",
+        "amount": -2175.03,
+        "status": "Failed",
+        "budget_amount": -2208.59
+    },
+    {
+        "transaction_id": 307,
+        "date": "2023-02-13",
+        "ledger": "Liabilities",
+        "amount": -1215.87,
+        "status": "Pending",
+        "budget_amount": -1199.14
+    },
+    {
+        "transaction_id": 308,
+        "date": "2021-05-31",
+        "ledger": "Liabilities",
+        "amount": -2212.53,
+        "status": "Failed",
+        "budget_amount": -1923.27
+    },
+    {
+        "transaction_id": 309,
+        "date": "2022-09-06",
+        "ledger": "Liabilities",
+        "amount": -3371.98,
+        "status": "Failed",
+        "budget_amount": -2754.39
+    },
+    {
+        "transaction_id": 310,
+        "date": "2021-12-24",
+        "ledger": "OtherIncome",
+        "amount": 7645.37,
+        "status": "Pending",
+        "budget_amount": 7770.24
+    },
+    {
+        "transaction_id": 311,
+        "date": "2021-03-29",
+        "ledger": "OtherExpenses",
+        "amount": -4177.51,
+        "status": "Failed",
+        "budget_amount": -3891.16
+    },
+    {
+        "transaction_id": 312,
+        "date": "2023-03-06",
+        "ledger": "Assets",
+        "amount": 5393.21,
+        "status": "Reversed",
+        "budget_amount": 5639.04
+    },
+    {
+        "transaction_id": 313,
+        "date": "2023-03-14",
+        "ledger": "Equity",
+        "amount": 7287.86,
+        "status": "Failed",
+        "budget_amount": 6030.28
+    },
+    {
+        "transaction_id": 314,
+        "date": "2022-04-22",
+        "ledger": "OtherExpenses",
+        "amount": -1067.54,
+        "status": "Cleared",
+        "budget_amount": -980.25
+    },
+    {
+        "transaction_id": 315,
+        "date": "2023-02-18",
+        "ledger": "Expenses",
+        "amount": -264.08,
+        "status": "Failed",
+        "budget_amount": -294.23
+    },
+    {
+        "transaction_id": 316,
+        "date": "2022-09-06",
+        "ledger": "Assets",
+        "amount": 8250.21,
+        "status": "Reversed",
+        "budget_amount": 9414.42
+    },
+    {
+        "transaction_id": 317,
+        "date": "2023-11-21",
+        "ledger": "Sales",
+        "amount": 2563.39,
+        "status": "Reversed",
+        "budget_amount": 2157.45
+    },
+    {
+        "transaction_id": 318,
+        "date": "2022-11-06",
+        "ledger": "COGS",
+        "amount": -2345.91,
+        "status": "Reversed",
+        "budget_amount": -2045.0
+    },
+    {
+        "transaction_id": 319,
+        "date": "2023-03-11",
+        "ledger": "Assets",
+        "amount": 3196.87,
+        "status": "Pending",
+        "budget_amount": 3191.83
+    },
+    {
+        "transaction_id": 320,
+        "date": "2021-07-22",
+        "ledger": "COGS",
+        "amount": -2338.95,
+        "status": "Cleared",
+        "budget_amount": -2504.35
+    },
+    {
+        "transaction_id": 321,
+        "date": "2022-06-29",
+        "ledger": "OtherIncome",
+        "amount": 874.65,
+        "status": "Pending",
+        "budget_amount": 1028.84
+    },
+    {
+        "transaction_id": 322,
+        "date": "2021-04-27",
+        "ledger": "COGS",
+        "amount": -4358.87,
+        "status": "Pending",
+        "budget_amount": -5152.23
+    },
+    {
+        "transaction_id": 323,
+        "date": "2023-09-06",
+        "ledger": "OtherExpenses",
+        "amount": -1740.25,
+        "status": "Cleared",
+        "budget_amount": -1587.46
+    },
+    {
+        "transaction_id": 324,
+        "date": "2022-06-23",
+        "ledger": "Expenses",
+        "amount": -4831.19,
+        "status": "Failed",
+        "budget_amount": -4860.8
+    },
+    {
+        "transaction_id": 325,
+        "date": "2022-04-17",
+        "ledger": "COGS",
+        "amount": -1582.97,
+        "status": "Pending",
+        "budget_amount": -1874.62
+    },
+    {
+        "transaction_id": 326,
+        "date": "2023-09-11",
+        "ledger": "Liabilities",
+        "amount": -701.35,
+        "status": "Cleared",
+        "budget_amount": -574.08
+    },
+    {
+        "transaction_id": 327,
+        "date": "2023-05-25",
+        "ledger": "Equity",
+        "amount": 7992.4,
+        "status": "Cleared",
+        "budget_amount": 8556.86
+    },
+    {
+        "transaction_id": 328,
+        "date": "2022-02-09",
+        "ledger": "OtherExpenses",
+        "amount": -3965.86,
+        "status": "Cleared",
+        "budget_amount": -3804.68
+    },
+    {
+        "transaction_id": 329,
+        "date": "2021-08-11",
+        "ledger": "Sales",
+        "amount": 5179.86,
+        "status": "Cleared",
+        "budget_amount": 4459.9
+    },
+    {
+        "transaction_id": 330,
+        "date": "2021-06-06",
+        "ledger": "Equity",
+        "amount": 7790.73,
+        "status": "Failed",
+        "budget_amount": 7975.91
+    },
+    {
+        "transaction_id": 331,
+        "date": "2023-06-06",
+        "ledger": "COGS",
+        "amount": -482.87,
+        "status": "Reversed",
+        "budget_amount": -570.33
+    },
+    {
+        "transaction_id": 332,
+        "date": "2022-11-30",
+        "ledger": "Expenses",
+        "amount": -3151.75,
+        "status": "Reversed",
+        "budget_amount": -3628.11
+    },
+    {
+        "transaction_id": 333,
+        "date": "2022-12-06",
+        "ledger": "COGS",
+        "amount": -4515.23,
+        "status": "Reversed",
+        "budget_amount": -3762.08
+    },
+    {
+        "transaction_id": 334,
+        "date": "2022-09-22",
+        "ledger": "Sales",
+        "amount": 947.87,
+        "status": "Failed",
+        "budget_amount": 788.32
+    },
+    {
+        "transaction_id": 335,
+        "date": "2022-02-06",
+        "ledger": "Assets",
+        "amount": 108.86,
+        "status": "Pending",
+        "budget_amount": 113.71
+    },
+    {
+        "transaction_id": 336,
+        "date": "2023-01-30",
+        "ledger": "Sales",
+        "amount": 5084.49,
+        "status": "Reversed",
+        "budget_amount": 4094.86
+    },
+    {
+        "transaction_id": 337,
+        "date": "2022-11-01",
+        "ledger": "COGS",
+        "amount": -2381.82,
+        "status": "Cleared",
+        "budget_amount": -2160.94
+    },
+    {
+        "transaction_id": 338,
+        "date": "2023-10-14",
+        "ledger": "Equity",
+        "amount": 5057.66,
+        "status": "Cleared",
+        "budget_amount": 5897.51
+    },
+    {
+        "transaction_id": 339,
+        "date": "2022-02-02",
+        "ledger": "Assets",
+        "amount": 1676.33,
+        "status": "Failed",
+        "budget_amount": 1705.96
+    },
+    {
+        "transaction_id": 340,
+        "date": "2022-07-13",
+        "ledger": "COGS",
+        "amount": -203.81,
+        "status": "Reversed",
+        "budget_amount": -178.5
+    },
+    {
+        "transaction_id": 341,
+        "date": "2022-04-13",
+        "ledger": "Sales",
+        "amount": 4773.55,
+        "status": "Pending",
+        "budget_amount": 5217.87
+    },
+    {
+        "transaction_id": 342,
+        "date": "2022-08-11",
+        "ledger": "Equity",
+        "amount": 5209.4,
+        "status": "Pending",
+        "budget_amount": 5629.12
+    },
+    {
+        "transaction_id": 343,
+        "date": "2021-05-01",
+        "ledger": "Equity",
+        "amount": 1785.9,
+        "status": "Failed",
+        "budget_amount": 1654.12
+    },
+    {
+        "transaction_id": 344,
+        "date": "2023-12-27",
+        "ledger": "Equity",
+        "amount": 5960.47,
+        "status": "Failed",
+        "budget_amount": 5474.71
+    },
+    {
+        "transaction_id": 345,
+        "date": "2022-11-13",
+        "ledger": "COGS",
+        "amount": -1766.75,
+        "status": "Failed",
+        "budget_amount": -1650.01
+    },
+    {
+        "transaction_id": 346,
+        "date": "2021-01-28",
+        "ledger": "Expenses",
+        "amount": -1163.32,
+        "status": "Cleared",
+        "budget_amount": -1261.23
+    },
+    {
+        "transaction_id": 347,
+        "date": "2022-06-22",
+        "ledger": "OtherIncome",
+        "amount": 6170.15,
+        "status": "Failed",
+        "budget_amount": 6705.14
+    },
+    {
+        "transaction_id": 348,
+        "date": "2021-12-28",
+        "ledger": "OtherIncome",
+        "amount": 1903.44,
+        "status": "Reversed",
+        "budget_amount": 1602.96
+    },
+    {
+        "transaction_id": 349,
+        "date": "2021-01-19",
+        "ledger": "OtherExpenses",
+        "amount": -2855.91,
+        "status": "Cleared",
+        "budget_amount": -2743.62
+    },
+    {
+        "transaction_id": 350,
+        "date": "2023-05-10",
+        "ledger": "Assets",
+        "amount": 7009.7,
+        "status": "Pending",
+        "budget_amount": 6024.45
+    },
+    {
+        "transaction_id": 351,
+        "date": "2022-11-23",
+        "ledger": "OtherExpenses",
+        "amount": -2407.52,
+        "status": "Cleared",
+        "budget_amount": -2621.23
+    },
+    {
+        "transaction_id": 352,
+        "date": "2022-01-24",
+        "ledger": "Sales",
+        "amount": 6910.77,
+        "status": "Failed",
+        "budget_amount": 7025.28
+    },
+    {
+        "transaction_id": 353,
+        "date": "2021-02-14",
+        "ledger": "Equity",
+        "amount": 2599.14,
+        "status": "Cleared",
+        "budget_amount": 2657.98
+    },
+    {
+        "transaction_id": 354,
+        "date": "2021-04-28",
+        "ledger": "OtherIncome",
+        "amount": 5716.67,
+        "status": "Pending",
+        "budget_amount": 5495.13
+    },
+    {
+        "transaction_id": 355,
+        "date": "2023-05-02",
+        "ledger": "OtherIncome",
+        "amount": 8935.65,
+        "status": "Failed",
+        "budget_amount": 10265.48
+    },
+    {
+        "transaction_id": 356,
+        "date": "2023-01-31",
+        "ledger": "OtherIncome",
+        "amount": 274.11,
+        "status": "Reversed",
+        "budget_amount": 295.11
+    },
+    {
+        "transaction_id": 357,
+        "date": "2021-09-28",
+        "ledger": "COGS",
+        "amount": -4754.21,
+        "status": "Reversed",
+        "budget_amount": -4098.59
+    },
+    {
+        "transaction_id": 358,
+        "date": "2023-10-29",
+        "ledger": "Equity",
+        "amount": 2337.88,
+        "status": "Failed",
+        "budget_amount": 2484.97
+    },
+    {
+        "transaction_id": 359,
+        "date": "2023-10-27",
+        "ledger": "OtherExpenses",
+        "amount": -281.26,
+        "status": "Reversed",
+        "budget_amount": -271.52
+    },
+    {
+        "transaction_id": 360,
+        "date": "2021-04-13",
+        "ledger": "Equity",
+        "amount": 1848.76,
+        "status": "Pending",
+        "budget_amount": 1530.42
+    },
+    {
+        "transaction_id": 361,
+        "date": "2023-12-30",
+        "ledger": "COGS",
+        "amount": -2936.62,
+        "status": "Reversed",
+        "budget_amount": -2457.03
+    },
+    {
+        "transaction_id": 362,
+        "date": "2023-10-27",
+        "ledger": "OtherIncome",
+        "amount": 7536.08,
+        "status": "Pending",
+        "budget_amount": 7462.87
+    },
+    {
+        "transaction_id": 363,
+        "date": "2023-12-28",
+        "ledger": "OtherExpenses",
+        "amount": -3286.59,
+        "status": "Pending",
+        "budget_amount": -3896.43
+    },
+    {
+        "transaction_id": 364,
+        "date": "2021-07-02",
+        "ledger": "OtherExpenses",
+        "amount": -4440.63,
+        "status": "Pending",
+        "budget_amount": -4396.65
+    },
+    {
+        "transaction_id": 365,
+        "date": "2021-03-06",
+        "ledger": "Expenses",
+        "amount": -3815.28,
+        "status": "Reversed",
+        "budget_amount": -4196.74
+    },
+    {
+        "transaction_id": 366,
+        "date": "2023-11-26",
+        "ledger": "Liabilities",
+        "amount": -996.79,
+        "status": "Reversed",
+        "budget_amount": -1166.5
+    },
+    {
+        "transaction_id": 367,
+        "date": "2021-10-17",
+        "ledger": "Equity",
+        "amount": 9376.28,
+        "status": "Failed",
+        "budget_amount": 11048.84
+    },
+    {
+        "transaction_id": 368,
+        "date": "2023-03-02",
+        "ledger": "Equity",
+        "amount": 3745.45,
+        "status": "Failed",
+        "budget_amount": 4123.61
+    },
+    {
+        "transaction_id": 369,
+        "date": "2021-03-16",
+        "ledger": "Liabilities",
+        "amount": -4847.55,
+        "status": "Cleared",
+        "budget_amount": -5486.43
+    },
+    {
+        "transaction_id": 370,
+        "date": "2022-02-01",
+        "ledger": "OtherIncome",
+        "amount": 5936.34,
+        "status": "Cleared",
+        "budget_amount": 6114.99
+    },
+    {
+        "transaction_id": 371,
+        "date": "2021-04-16",
+        "ledger": "Equity",
+        "amount": 4781.11,
+        "status": "Failed",
+        "budget_amount": 4096.34
+    },
+    {
+        "transaction_id": 372,
+        "date": "2023-12-29",
+        "ledger": "Sales",
+        "amount": 1057.86,
+        "status": "Failed",
+        "budget_amount": 990.41
+    },
+    {
+        "transaction_id": 373,
+        "date": "2023-12-18",
+        "ledger": "COGS",
+        "amount": -3195.14,
+        "status": "Failed",
+        "budget_amount": -3426.23
+    },
+    {
+        "transaction_id": 374,
+        "date": "2021-11-13",
+        "ledger": "COGS",
+        "amount": -2365.93,
+        "status": "Cleared",
+        "budget_amount": -2492.44
+    },
+    {
+        "transaction_id": 375,
+        "date": "2021-06-04",
+        "ledger": "COGS",
+        "amount": -2877.41,
+        "status": "Pending",
+        "budget_amount": -2695.44
+    },
+    {
+        "transaction_id": 376,
+        "date": "2023-06-27",
+        "ledger": "Expenses",
+        "amount": -2568.98,
+        "status": "Pending",
+        "budget_amount": -2936.71
+    },
+    {
+        "transaction_id": 377,
+        "date": "2023-04-17",
+        "ledger": "COGS",
+        "amount": -2722.59,
+        "status": "Cleared",
+        "budget_amount": -3025.61
+    },
+    {
+        "transaction_id": 378,
+        "date": "2021-09-30",
+        "ledger": "Sales",
+        "amount": 7325.19,
+        "status": "Cleared",
+        "budget_amount": 8187.33
+    },
+    {
+        "transaction_id": 379,
+        "date": "2021-08-04",
+        "ledger": "Liabilities",
+        "amount": -3049.57,
+        "status": "Pending",
+        "budget_amount": -3103.12
+    },
+    {
+        "transaction_id": 380,
+        "date": "2021-07-21",
+        "ledger": "Liabilities",
+        "amount": -3631.79,
+        "status": "Cleared",
+        "budget_amount": -3487.55
+    },
+    {
+        "transaction_id": 381,
+        "date": "2021-06-15",
+        "ledger": "Sales",
+        "amount": 3117.31,
+        "status": "Cleared",
+        "budget_amount": 3235.34
+    },
+    {
+        "transaction_id": 382,
+        "date": "2022-04-04",
+        "ledger": "OtherExpenses",
+        "amount": -4501.68,
+        "status": "Cleared",
+        "budget_amount": -4060.51
+    },
+    {
+        "transaction_id": 383,
+        "date": "2022-01-01",
+        "ledger": "Sales",
+        "amount": 236.44,
+        "status": "Pending",
+        "budget_amount": 244.3
+    },
+    {
+        "transaction_id": 384,
+        "date": "2022-07-05",
+        "ledger": "OtherExpenses",
+        "amount": -3406.78,
+        "status": "Cleared",
+        "budget_amount": -4078.38
+    },
+    {
+        "transaction_id": 385,
+        "date": "2022-10-31",
+        "ledger": "Assets",
+        "amount": 5003.13,
+        "status": "Cleared",
+        "budget_amount": 5466.68
+    },
+    {
+        "transaction_id": 386,
+        "date": "2022-05-20",
+        "ledger": "Equity",
+        "amount": 2369.42,
+        "status": "Cleared",
+        "budget_amount": 1996.08
+    },
+    {
+        "transaction_id": 387,
+        "date": "2023-02-04",
+        "ledger": "COGS",
+        "amount": -2693.7,
+        "status": "Failed",
+        "budget_amount": -2630.17
+    },
+    {
+        "transaction_id": 388,
+        "date": "2022-02-27",
+        "ledger": "OtherIncome",
+        "amount": 1502.32,
+        "status": "Reversed",
+        "budget_amount": 1304.11
+    },
+    {
+        "transaction_id": 389,
+        "date": "2021-05-28",
+        "ledger": "Assets",
+        "amount": 4156.2,
+        "status": "Cleared",
+        "budget_amount": 4962.96
+    },
+    {
+        "transaction_id": 390,
+        "date": "2023-12-16",
+        "ledger": "Equity",
+        "amount": 8782.08,
+        "status": "Failed",
+        "budget_amount": 8300.76
+    },
+    {
+        "transaction_id": 391,
+        "date": "2022-05-30",
+        "ledger": "Equity",
+        "amount": 5007.55,
+        "status": "Reversed",
+        "budget_amount": 4074.03
+    },
+    {
+        "transaction_id": 392,
+        "date": "2021-04-01",
+        "ledger": "Expenses",
+        "amount": -4540.95,
+        "status": "Pending",
+        "budget_amount": -4551.8
+    },
+    {
+        "transaction_id": 393,
+        "date": "2021-08-13",
+        "ledger": "OtherExpenses",
+        "amount": -4552.92,
+        "status": "Cleared",
+        "budget_amount": -4423.5
+    },
+    {
+        "transaction_id": 394,
+        "date": "2022-07-01",
+        "ledger": "Assets",
+        "amount": 1664.15,
+        "status": "Cleared",
+        "budget_amount": 1504.21
+    },
+    {
+        "transaction_id": 395,
+        "date": "2023-12-22",
+        "ledger": "Liabilities",
+        "amount": -4351.43,
+        "status": "Reversed",
+        "budget_amount": -4032.07
+    },
+    {
+        "transaction_id": 396,
+        "date": "2022-10-24",
+        "ledger": "Assets",
+        "amount": 9711.93,
+        "status": "Reversed",
+        "budget_amount": 9498.15
+    },
+    {
+        "transaction_id": 397,
+        "date": "2023-06-12",
+        "ledger": "COGS",
+        "amount": -1714.57,
+        "status": "Cleared",
+        "budget_amount": -1692.27
+    },
+    {
+        "transaction_id": 398,
+        "date": "2021-03-04",
+        "ledger": "Assets",
+        "amount": 4796.56,
+        "status": "Reversed",
+        "budget_amount": 4766.29
+    },
+    {
+        "transaction_id": 399,
+        "date": "2021-02-22",
+        "ledger": "Equity",
+        "amount": 1076.18,
+        "status": "Failed",
+        "budget_amount": 1026.23
+    },
+    {
+        "transaction_id": 400,
+        "date": "2023-07-25",
+        "ledger": "Assets",
+        "amount": 5857.79,
+        "status": "Failed",
+        "budget_amount": 5990.37
+    },
+    {
+        "transaction_id": 401,
+        "date": "2021-06-08",
+        "ledger": "Expenses",
+        "amount": -3476.33,
+        "status": "Cleared",
+        "budget_amount": -3840.33
+    },
+    {
+        "transaction_id": 402,
+        "date": "2022-05-26",
+        "ledger": "Assets",
+        "amount": 7017.56,
+        "status": "Reversed",
+        "budget_amount": 5638.76
+    },
+    {
+        "transaction_id": 403,
+        "date": "2023-10-13",
+        "ledger": "Equity",
+        "amount": 4691.42,
+        "status": "Pending",
+        "budget_amount": 4273.58
+    },
+    {
+        "transaction_id": 404,
+        "date": "2022-07-08",
+        "ledger": "OtherExpenses",
+        "amount": -3040.85,
+        "status": "Reversed",
+        "budget_amount": -3300.59
+    },
+    {
+        "transaction_id": 405,
+        "date": "2022-12-11",
+        "ledger": "Sales",
+        "amount": 6402.11,
+        "status": "Reversed",
+        "budget_amount": 7395.78
+    },
+    {
+        "transaction_id": 406,
+        "date": "2023-12-14",
+        "ledger": "COGS",
+        "amount": -328.22,
+        "status": "Pending",
+        "budget_amount": -342.47
+    },
+    {
+        "transaction_id": 407,
+        "date": "2021-10-15",
+        "ledger": "OtherExpenses",
+        "amount": -1075.35,
+        "status": "Failed",
+        "budget_amount": -1075.95
+    },
+    {
+        "transaction_id": 408,
+        "date": "2021-03-24",
+        "ledger": "Liabilities",
+        "amount": -3181.1,
+        "status": "Cleared",
+        "budget_amount": -3579.58
+    },
+    {
+        "transaction_id": 409,
+        "date": "2023-11-02",
+        "ledger": "OtherIncome",
+        "amount": 7970.15,
+        "status": "Reversed",
+        "budget_amount": 6472.99
+    },
+    {
+        "transaction_id": 410,
+        "date": "2021-01-29",
+        "ledger": "Expenses",
+        "amount": -1488.52,
+        "status": "Pending",
+        "budget_amount": -1489.52
+    },
+    {
+        "transaction_id": 411,
+        "date": "2022-10-06",
+        "ledger": "COGS",
+        "amount": -369.58,
+        "status": "Pending",
+        "budget_amount": -344.68
+    },
+    {
+        "transaction_id": 412,
+        "date": "2022-09-21",
+        "ledger": "Liabilities",
+        "amount": -4864.78,
+        "status": "Cleared",
+        "budget_amount": -4889.37
+    },
+    {
+        "transaction_id": 413,
+        "date": "2023-03-28",
+        "ledger": "Liabilities",
+        "amount": -1684.16,
+        "status": "Failed",
+        "budget_amount": -1907.01
+    },
+    {
+        "transaction_id": 414,
+        "date": "2021-10-17",
+        "ledger": "Equity",
+        "amount": 6439.23,
+        "status": "Failed",
+        "budget_amount": 5828.32
+    },
+    {
+        "transaction_id": 415,
+        "date": "2022-04-25",
+        "ledger": "Liabilities",
+        "amount": -3062.7,
+        "status": "Cleared",
+        "budget_amount": -2456.03
+    },
+    {
+        "transaction_id": 416,
+        "date": "2021-05-26",
+        "ledger": "COGS",
+        "amount": -4935.28,
+        "status": "Cleared",
+        "budget_amount": -4339.61
+    },
+    {
+        "transaction_id": 417,
+        "date": "2021-09-17",
+        "ledger": "Expenses",
+        "amount": -2517.77,
+        "status": "Pending",
+        "budget_amount": -2820.0
+    },
+    {
+        "transaction_id": 418,
+        "date": "2022-08-06",
+        "ledger": "Liabilities",
+        "amount": -3941.88,
+        "status": "Reversed",
+        "budget_amount": -3316.23
+    },
+    {
+        "transaction_id": 419,
+        "date": "2023-02-11",
+        "ledger": "Liabilities",
+        "amount": -994.39,
+        "status": "Reversed",
+        "budget_amount": -1110.39
+    },
+    {
+        "transaction_id": 420,
+        "date": "2022-08-27",
+        "ledger": "Equity",
+        "amount": 9259.12,
+        "status": "Pending",
+        "budget_amount": 10973.99
+    },
+    {
+        "transaction_id": 421,
+        "date": "2023-06-27",
+        "ledger": "Equity",
+        "amount": 8639.57,
+        "status": "Pending",
+        "budget_amount": 7473.16
+    },
+    {
+        "transaction_id": 422,
+        "date": "2023-09-25",
+        "ledger": "COGS",
+        "amount": -1613.63,
+        "status": "Pending",
+        "budget_amount": -1716.78
+    },
+    {
+        "transaction_id": 423,
+        "date": "2023-12-27",
+        "ledger": "Liabilities",
+        "amount": -609.59,
+        "status": "Reversed",
+        "budget_amount": -588.76
+    },
+    {
+        "transaction_id": 424,
+        "date": "2022-03-28",
+        "ledger": "Liabilities",
+        "amount": -1165.18,
+        "status": "Cleared",
+        "budget_amount": -1103.45
+    },
+    {
+        "transaction_id": 425,
+        "date": "2021-10-10",
+        "ledger": "OtherIncome",
+        "amount": 6336.58,
+        "status": "Reversed",
+        "budget_amount": 6804.19
+    },
+    {
+        "transaction_id": 426,
+        "date": "2023-11-17",
+        "ledger": "Expenses",
+        "amount": -3045.39,
+        "status": "Failed",
+        "budget_amount": -3579.72
+    },
+    {
+        "transaction_id": 427,
+        "date": "2022-05-09",
+        "ledger": "OtherIncome",
+        "amount": 3804.53,
+        "status": "Cleared",
+        "budget_amount": 4375.53
+    },
+    {
+        "transaction_id": 428,
+        "date": "2023-11-30",
+        "ledger": "OtherIncome",
+        "amount": 7533.34,
+        "status": "Failed",
+        "budget_amount": 6135.01
+    },
+    {
+        "transaction_id": 429,
+        "date": "2023-12-05",
+        "ledger": "Sales",
+        "amount": 2519.22,
+        "status": "Pending",
+        "budget_amount": 2708.02
+    },
+    {
+        "transaction_id": 430,
+        "date": "2022-02-22",
+        "ledger": "OtherExpenses",
+        "amount": -3752.86,
+        "status": "Pending",
+        "budget_amount": -4169.49
+    },
+    {
+        "transaction_id": 431,
+        "date": "2023-03-26",
+        "ledger": "Equity",
+        "amount": 7339.34,
+        "status": "Cleared",
+        "budget_amount": 6997.84
+    },
+    {
+        "transaction_id": 432,
+        "date": "2022-05-06",
+        "ledger": "Expenses",
+        "amount": -2162.4,
+        "status": "Failed",
+        "budget_amount": -1873.53
+    },
+    {
+        "transaction_id": 433,
+        "date": "2023-05-15",
+        "ledger": "Sales",
+        "amount": 3558.55,
+        "status": "Pending",
+        "budget_amount": 3604.73
+    },
+    {
+        "transaction_id": 434,
+        "date": "2022-12-18",
+        "ledger": "Liabilities",
+        "amount": -3360.89,
+        "status": "Reversed",
+        "budget_amount": -2866.92
+    },
+    {
+        "transaction_id": 435,
+        "date": "2023-10-25",
+        "ledger": "Liabilities",
+        "amount": -4138.83,
+        "status": "Failed",
+        "budget_amount": -4445.18
+    },
+    {
+        "transaction_id": 436,
+        "date": "2023-12-27",
+        "ledger": "Sales",
+        "amount": 750.77,
+        "status": "Failed",
+        "budget_amount": 653.04
+    },
+    {
+        "transaction_id": 437,
+        "date": "2023-07-29",
+        "ledger": "Expenses",
+        "amount": -745.97,
+        "status": "Pending",
+        "budget_amount": -674.53
+    },
+    {
+        "transaction_id": 438,
+        "date": "2023-11-23",
+        "ledger": "COGS",
+        "amount": -4356.39,
+        "status": "Failed",
+        "budget_amount": -3796.37
+    },
+    {
+        "transaction_id": 439,
+        "date": "2023-01-29",
+        "ledger": "Assets",
+        "amount": 3933.33,
+        "status": "Failed",
+        "budget_amount": 3985.2
+    },
+    {
+        "transaction_id": 440,
+        "date": "2021-01-15",
+        "ledger": "Assets",
+        "amount": 1005.75,
+        "status": "Pending",
+        "budget_amount": 853.6
+    },
+    {
+        "transaction_id": 441,
+        "date": "2022-11-18",
+        "ledger": "Assets",
+        "amount": 141.31,
+        "status": "Reversed",
+        "budget_amount": 137.71
+    },
+    {
+        "transaction_id": 442,
+        "date": "2022-11-07",
+        "ledger": "Assets",
+        "amount": 4016.54,
+        "status": "Pending",
+        "budget_amount": 3917.57
+    },
+    {
+        "transaction_id": 443,
+        "date": "2023-02-06",
+        "ledger": "OtherExpenses",
+        "amount": -2496.79,
+        "status": "Pending",
+        "budget_amount": -2095.99
+    },
+    {
+        "transaction_id": 444,
+        "date": "2022-12-09",
+        "ledger": "Sales",
+        "amount": 9579.73,
+        "status": "Pending",
+        "budget_amount": 8139.21
+    },
+    {
+        "transaction_id": 445,
+        "date": "2022-09-14",
+        "ledger": "Assets",
+        "amount": 2840.85,
+        "status": "Failed",
+        "budget_amount": 3153.38
+    },
+    {
+        "transaction_id": 446,
+        "date": "2022-07-23",
+        "ledger": "COGS",
+        "amount": -1711.72,
+        "status": "Pending",
+        "budget_amount": -1842.39
+    },
+    {
+        "transaction_id": 447,
+        "date": "2023-09-21",
+        "ledger": "OtherIncome",
+        "amount": 8906.48,
+        "status": "Pending",
+        "budget_amount": 7980.57
+    },
+    {
+        "transaction_id": 448,
+        "date": "2023-05-25",
+        "ledger": "OtherExpenses",
+        "amount": -1886.73,
+        "status": "Cleared",
+        "budget_amount": -1914.8
+    },
+    {
+        "transaction_id": 449,
+        "date": "2023-09-19",
+        "ledger": "OtherIncome",
+        "amount": 6943.91,
+        "status": "Pending",
+        "budget_amount": 6083.25
+    },
+    {
+        "transaction_id": 450,
+        "date": "2023-12-09",
+        "ledger": "Expenses",
+        "amount": -1573.86,
+        "status": "Pending",
+        "budget_amount": -1454.86
+    },
+    {
+        "transaction_id": 451,
+        "date": "2023-05-25",
+        "ledger": "Expenses",
+        "amount": -209.57,
+        "status": "Reversed",
+        "budget_amount": -207.45
+    },
+    {
+        "transaction_id": 452,
+        "date": "2023-12-12",
+        "ledger": "Assets",
+        "amount": 5226.35,
+        "status": "Cleared",
+        "budget_amount": 5971.43
+    },
+    {
+        "transaction_id": 453,
+        "date": "2023-05-19",
+        "ledger": "OtherIncome",
+        "amount": 2457.67,
+        "status": "Pending",
+        "budget_amount": 2344.64
+    },
+    {
+        "transaction_id": 454,
+        "date": "2023-04-23",
+        "ledger": "Sales",
+        "amount": 3787.36,
+        "status": "Failed",
+        "budget_amount": 4246.89
+    },
+    {
+        "transaction_id": 455,
+        "date": "2022-02-16",
+        "ledger": "Liabilities",
+        "amount": -3699.88,
+        "status": "Failed",
+        "budget_amount": -3350.05
+    },
+    {
+        "transaction_id": 456,
+        "date": "2023-03-04",
+        "ledger": "Equity",
+        "amount": 4425.09,
+        "status": "Cleared",
+        "budget_amount": 4585.26
+    },
+    {
+        "transaction_id": 457,
+        "date": "2022-03-17",
+        "ledger": "Sales",
+        "amount": 4878.76,
+        "status": "Pending",
+        "budget_amount": 5388.32
+    },
+    {
+        "transaction_id": 458,
+        "date": "2021-01-04",
+        "ledger": "COGS",
+        "amount": -3928.49,
+        "status": "Cleared",
+        "budget_amount": -4198.17
+    },
+    {
+        "transaction_id": 459,
+        "date": "2023-09-15",
+        "ledger": "Liabilities",
+        "amount": -4631.71,
+        "status": "Reversed",
+        "budget_amount": -4114.21
+    },
+    {
+        "transaction_id": 460,
+        "date": "2021-10-03",
+        "ledger": "Liabilities",
+        "amount": -1487.62,
+        "status": "Pending",
+        "budget_amount": -1659.99
+    },
+    {
+        "transaction_id": 461,
+        "date": "2022-06-05",
+        "ledger": "Sales",
+        "amount": 580.63,
+        "status": "Reversed",
+        "budget_amount": 471.88
+    },
+    {
+        "transaction_id": 462,
+        "date": "2022-10-16",
+        "ledger": "COGS",
+        "amount": -3616.83,
+        "status": "Reversed",
+        "budget_amount": -3554.25
+    },
+    {
+        "transaction_id": 463,
+        "date": "2022-04-07",
+        "ledger": "Liabilities",
+        "amount": -2576.58,
+        "status": "Reversed",
+        "budget_amount": -2892.14
+    },
+    {
+        "transaction_id": 464,
+        "date": "2022-08-29",
+        "ledger": "Sales",
+        "amount": 5819.46,
+        "status": "Pending",
+        "budget_amount": 4876.41
+    },
+    {
+        "transaction_id": 465,
+        "date": "2021-10-09",
+        "ledger": "OtherExpenses",
+        "amount": -4236.54,
+        "status": "Failed",
+        "budget_amount": -3500.52
+    },
+    {
+        "transaction_id": 466,
+        "date": "2022-01-18",
+        "ledger": "COGS",
+        "amount": -2160.63,
+        "status": "Failed",
+        "budget_amount": -2156.28
+    },
+    {
+        "transaction_id": 467,
+        "date": "2021-03-07",
+        "ledger": "OtherExpenses",
+        "amount": -2674.96,
+        "status": "Pending",
+        "budget_amount": -2472.7
+    },
+    {
+        "transaction_id": 468,
+        "date": "2022-10-19",
+        "ledger": "Assets",
+        "amount": 4564.01,
+        "status": "Failed",
+        "budget_amount": 4432.4
+    },
+    {
+        "transaction_id": 469,
+        "date": "2022-04-22",
+        "ledger": "OtherIncome",
+        "amount": 5635.83,
+        "status": "Cleared",
+        "budget_amount": 6209.17
+    },
+    {
+        "transaction_id": 470,
+        "date": "2021-02-22",
+        "ledger": "COGS",
+        "amount": -143.82,
+        "status": "Reversed",
+        "budget_amount": -136.39
+    },
+    {
+        "transaction_id": 471,
+        "date": "2022-12-20",
+        "ledger": "Sales",
+        "amount": 9868.16,
+        "status": "Failed",
+        "budget_amount": 8879.8
+    },
+    {
+        "transaction_id": 472,
+        "date": "2023-05-09",
+        "ledger": "Expenses",
+        "amount": -3407.24,
+        "status": "Reversed",
+        "budget_amount": -3484.36
+    },
+    {
+        "transaction_id": 473,
+        "date": "2022-01-23",
+        "ledger": "Liabilities",
+        "amount": -436.35,
+        "status": "Pending",
+        "budget_amount": -370.73
+    },
+    {
+        "transaction_id": 474,
+        "date": "2023-05-22",
+        "ledger": "Assets",
+        "amount": 5241.84,
+        "status": "Reversed",
+        "budget_amount": 6226.31
+    },
+    {
+        "transaction_id": 475,
+        "date": "2021-03-14",
+        "ledger": "OtherIncome",
+        "amount": 7286.94,
+        "status": "Pending",
+        "budget_amount": 6131.72
+    },
+    {
+        "transaction_id": 476,
+        "date": "2021-02-17",
+        "ledger": "Expenses",
+        "amount": -3548.75,
+        "status": "Cleared",
+        "budget_amount": -2914.15
+    },
+    {
+        "transaction_id": 477,
+        "date": "2023-04-18",
+        "ledger": "Sales",
+        "amount": 4393.21,
+        "status": "Cleared",
+        "budget_amount": 5142.24
+    },
+    {
+        "transaction_id": 478,
+        "date": "2021-06-23",
+        "ledger": "Sales",
+        "amount": 6430.46,
+        "status": "Reversed",
+        "budget_amount": 6831.73
+    },
+    {
+        "transaction_id": 479,
+        "date": "2021-01-20",
+        "ledger": "OtherExpenses",
+        "amount": -3652.41,
+        "status": "Failed",
+        "budget_amount": -3499.44
+    },
+    {
+        "transaction_id": 480,
+        "date": "2023-12-03",
+        "ledger": "Assets",
+        "amount": 7835.49,
+        "status": "Reversed",
+        "budget_amount": 7859.17
+    },
+    {
+        "transaction_id": 481,
+        "date": "2023-06-25",
+        "ledger": "COGS",
+        "amount": -386.08,
+        "status": "Failed",
+        "budget_amount": -389.24
+    },
+    {
+        "transaction_id": 482,
+        "date": "2022-12-06",
+        "ledger": "Sales",
+        "amount": 180.74,
+        "status": "Reversed",
+        "budget_amount": 169.66
+    },
+    {
+        "transaction_id": 483,
+        "date": "2021-08-09",
+        "ledger": "OtherExpenses",
+        "amount": -3463.34,
+        "status": "Pending",
+        "budget_amount": -3895.03
+    },
+    {
+        "transaction_id": 484,
+        "date": "2023-11-10",
+        "ledger": "OtherIncome",
+        "amount": 5164.43,
+        "status": "Failed",
+        "budget_amount": 5418.64
+    },
+    {
+        "transaction_id": 485,
+        "date": "2022-02-24",
+        "ledger": "OtherExpenses",
+        "amount": -4434.85,
+        "status": "Failed",
+        "budget_amount": -3883.52
+    },
+    {
+        "transaction_id": 486,
+        "date": "2023-10-23",
+        "ledger": "Assets",
+        "amount": 5432.71,
+        "status": "Cleared",
+        "budget_amount": 4995.69
+    },
+    {
+        "transaction_id": 487,
+        "date": "2022-03-06",
+        "ledger": "Assets",
+        "amount": 7579.76,
+        "status": "Failed",
+        "budget_amount": 6787.65
+    },
+    {
+        "transaction_id": 488,
+        "date": "2021-04-25",
+        "ledger": "OtherIncome",
+        "amount": 116.51,
+        "status": "Pending",
+        "budget_amount": 113.73
+    },
+    {
+        "transaction_id": 489,
+        "date": "2022-10-02",
+        "ledger": "OtherIncome",
+        "amount": 9906.44,
+        "status": "Pending",
+        "budget_amount": 10112.26
+    },
+    {
+        "transaction_id": 490,
+        "date": "2021-05-17",
+        "ledger": "Liabilities",
+        "amount": -2765.86,
+        "status": "Cleared",
+        "budget_amount": -3203.26
+    },
+    {
+        "transaction_id": 491,
+        "date": "2023-01-22",
+        "ledger": "OtherIncome",
+        "amount": 687.09,
+        "status": "Pending",
+        "budget_amount": 575.26
+    },
+    {
+        "transaction_id": 492,
+        "date": "2023-07-13",
+        "ledger": "Sales",
+        "amount": 3444.82,
+        "status": "Cleared",
+        "budget_amount": 2771.5
+    },
+    {
+        "transaction_id": 493,
+        "date": "2022-03-20",
+        "ledger": "Expenses",
+        "amount": -350.32,
+        "status": "Failed",
+        "budget_amount": -322.46
+    },
+    {
+        "transaction_id": 494,
+        "date": "2023-07-19",
+        "ledger": "Equity",
+        "amount": 8222.32,
+        "status": "Cleared",
+        "budget_amount": 6981.83
+    },
+    {
+        "transaction_id": 495,
+        "date": "2022-11-27",
+        "ledger": "OtherExpenses",
+        "amount": -1736.23,
+        "status": "Cleared",
+        "budget_amount": -1511.26
+    },
+    {
+        "transaction_id": 496,
+        "date": "2021-08-16",
+        "ledger": "OtherIncome",
+        "amount": 7199.81,
+        "status": "Reversed",
+        "budget_amount": 6945.82
+    },
+    {
+        "transaction_id": 497,
+        "date": "2021-11-08",
+        "ledger": "Equity",
+        "amount": 6539.22,
+        "status": "Failed",
+        "budget_amount": 5482.32
+    },
+    {
+        "transaction_id": 498,
+        "date": "2023-02-26",
+        "ledger": "OtherExpenses",
+        "amount": -3993.26,
+        "status": "Failed",
+        "budget_amount": -3857.59
+    },
+    {
+        "transaction_id": 499,
+        "date": "2021-09-07",
+        "ledger": "Assets",
+        "amount": 8185.86,
+        "status": "Failed",
+        "budget_amount": 7717.17
+    },
+    {
+        "transaction_id": 500,
+        "date": "2023-01-27",
+        "ledger": "Equity",
+        "amount": 4904.06,
+        "status": "Cleared",
+        "budget_amount": 5023.75
+    }
+]
