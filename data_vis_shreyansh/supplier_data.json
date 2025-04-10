@@ -1,0 +1,2902 @@
+[
+    {
+        "Supplier ID": 1,
+        "contact information": "Griffin-Contreras | bradforddouglas@berger-young.com | 001-695-468-5451",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Tablets",
+            "Laptops"
+        ],
+        "delivery_time_days": 11,
+        "SLA_days": 46,
+        "quality_rating": 3.5,
+        "spend_amount": 20577.06,
+        "risk_index": 0.21
+    },
+    {
+        "Supplier ID": 2,
+        "contact information": "Rangel-Le | fordnicole@harris-garcia.net | (237)555-1178x9267",
+        "payment terms": "COD",
+        "products supplied": [
+            "Smartphones"
+        ],
+        "delivery_time_days": 47,
+        "SLA_days": 58,
+        "quality_rating": 2.9,
+        "spend_amount": 5709.42,
+        "risk_index": 0.59
+    },
+    {
+        "Supplier ID": 3,
+        "contact information": "Sparks-Morrison | gabriellawrence@elliott.com | 369.273.3026",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Servers",
+            "Mice",
+            "Smartphones",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 30,
+        "SLA_days": 40,
+        "quality_rating": 2.8,
+        "spend_amount": 10990.72,
+        "risk_index": 0.71
+    },
+    {
+        "Supplier ID": 4,
+        "contact information": "Hart-Combs | annetteadams@tran.com | +1-347-305-1921x1742",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Mice",
+            "Keyboards",
+            "Monitors",
+            "Scanners"
+        ],
+        "delivery_time_days": 42,
+        "SLA_days": 52,
+        "quality_rating": 1.8,
+        "spend_amount": 34959.77,
+        "risk_index": 0.77
+    },
+    {
+        "Supplier ID": 5,
+        "contact information": "Larson, Miller and Miller | charleskelly@brock.com | 408.356.7689x7800",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Printers",
+            "Firewalls",
+            "Mice",
+            "Tablets"
+        ],
+        "delivery_time_days": 52,
+        "SLA_days": 53,
+        "quality_rating": 1.9,
+        "spend_amount": 3725.08,
+        "risk_index": 0.6
+    },
+    {
+        "Supplier ID": 6,
+        "contact information": "Boyle and Sons | sgilbert@mosley.com | 893-413-9763",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Tablets",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 53,
+        "quality_rating": 1.5,
+        "spend_amount": 84668.73,
+        "risk_index": 0.7
+    },
+    {
+        "Supplier ID": 7,
+        "contact information": "Rios-Krause | martinjennifer@cunningham-gross.com | 001-543-432-6759x4045",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Keyboards"
+        ],
+        "delivery_time_days": 15,
+        "SLA_days": 24,
+        "quality_rating": 5.0,
+        "spend_amount": 4454.36,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 8,
+        "contact information": "Hart Group | ellisdavid@thompson-chambers.com | (214)932-9220",
+        "payment terms": "COD",
+        "products supplied": [
+            "UPS",
+            "Switches"
+        ],
+        "delivery_time_days": 22,
+        "SLA_days": 42,
+        "quality_rating": 3.3,
+        "spend_amount": 90415.44,
+        "risk_index": 0.76
+    },
+    {
+        "Supplier ID": 9,
+        "contact information": "Crosby, Heath and Randall | chelsea67@lee.com | (443)509-1035",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment",
+            "Laptops"
+        ],
+        "delivery_time_days": 54,
+        "SLA_days": 59,
+        "quality_rating": 3.9,
+        "spend_amount": 76444.75,
+        "risk_index": 0.15
+    },
+    {
+        "Supplier ID": 10,
+        "contact information": "Morgan-Lewis | susanclements@russell.com | +1-502-650-7644x537",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Tablets",
+            "Projectors",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 54,
+        "quality_rating": 4.8,
+        "spend_amount": 91494.26,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 11,
+        "contact information": "Howard, Robinson and Burgess | robbinsmichelle@larson-johnson.com | (234)824-4833x541",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "UPS",
+            "Servers",
+            "Routers"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 34,
+        "quality_rating": 3.5,
+        "spend_amount": 88522.08,
+        "risk_index": 0.22
+    },
+    {
+        "Supplier ID": 12,
+        "contact information": "Mills, Smith and Johnson | christinathomas@freeman-hernandez.net | 001-387-200-9859x7146",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Projectors",
+            "Scanners"
+        ],
+        "delivery_time_days": 30,
+        "SLA_days": 33,
+        "quality_rating": 2.9,
+        "spend_amount": 9484.81,
+        "risk_index": 0.27
+    },
+    {
+        "Supplier ID": 13,
+        "contact information": "Benjamin, Robinson and Estrada | aliciaschaefer@walls.com | 487.785.5151x42178",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Routers",
+            "Networking Equipment",
+            "UPS"
+        ],
+        "delivery_time_days": 10,
+        "SLA_days": 42,
+        "quality_rating": 3.6,
+        "spend_amount": 69619.2,
+        "risk_index": 0.66
+    },
+    {
+        "Supplier ID": 14,
+        "contact information": "Fisher-Moreno | justin14@hernandez.com | 480.293.6678x4379",
+        "payment terms": "COD",
+        "products supplied": [
+            "Laptops",
+            "Mice",
+            "Tablets"
+        ],
+        "delivery_time_days": 49,
+        "SLA_days": 57,
+        "quality_rating": 1.6,
+        "spend_amount": 85575.19,
+        "risk_index": 0.5
+    },
+    {
+        "Supplier ID": 15,
+        "contact information": "Green, Benitez and Juarez | tinafields@bean.net | 001-985-784-0451",
+        "payment terms": "COD",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 53,
+        "SLA_days": 57,
+        "quality_rating": 4.1,
+        "spend_amount": 4673.54,
+        "risk_index": 0.06
+    },
+    {
+        "Supplier ID": 16,
+        "contact information": "Simon and Sons | caitlinhernandez@boyer-morales.biz | 232-719-1769",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Firewalls",
+            "Switches"
+        ],
+        "delivery_time_days": 8,
+        "SLA_days": 28,
+        "quality_rating": 3.3,
+        "spend_amount": 59121.6,
+        "risk_index": 0.77
+    },
+    {
+        "Supplier ID": 17,
+        "contact information": "Smith-Mueller | justingibson@morris.com | 670-581-8534x77757",
+        "payment terms": "COD",
+        "products supplied": [
+            "Switches"
+        ],
+        "delivery_time_days": 10,
+        "SLA_days": 13,
+        "quality_rating": 2.4,
+        "spend_amount": 77107.11,
+        "risk_index": 0.23
+    },
+    {
+        "Supplier ID": 18,
+        "contact information": "Smith-Anderson | joshua07@moran.com | 001-422-245-9868x8661",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Projectors",
+            "Laptops",
+            "UPS"
+        ],
+        "delivery_time_days": 25,
+        "SLA_days": 45,
+        "quality_rating": 3.9,
+        "spend_amount": 76565.77,
+        "risk_index": 0.45
+    },
+    {
+        "Supplier ID": 19,
+        "contact information": "Hill, Blackwell and Mckinney | ronald33@brown.com | 352.769.9224x4051",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Laptops",
+            "UPS",
+            "Smartphones",
+            "Servers"
+        ],
+        "delivery_time_days": 31,
+        "SLA_days": 35,
+        "quality_rating": 4.7,
+        "spend_amount": 60802.8,
+        "risk_index": 0.27
+    },
+    {
+        "Supplier ID": 20,
+        "contact information": "Campbell, Bradley and Wagner | amberjones@carter-bates.biz | +1-482-684-4300x3497",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "UPS"
+        ],
+        "delivery_time_days": 33,
+        "SLA_days": 59,
+        "quality_rating": 1.3,
+        "spend_amount": 89685.25,
+        "risk_index": 0.08
+    },
+    {
+        "Supplier ID": 21,
+        "contact information": "Smith-Miles | cdominguez@castillo.com | 001-685-617-3177",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Keyboards",
+            "Routers",
+            "Networking Equipment",
+            "Servers"
+        ],
+        "delivery_time_days": 43,
+        "SLA_days": 57,
+        "quality_rating": 3.8,
+        "spend_amount": 14093.54,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 22,
+        "contact information": "Bond, Leon and Davis | steven95@lee.com | 495.368.2428x43470",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Tablets"
+        ],
+        "delivery_time_days": 37,
+        "SLA_days": 42,
+        "quality_rating": 1.0,
+        "spend_amount": 62497.6,
+        "risk_index": 0.46
+    },
+    {
+        "Supplier ID": 23,
+        "contact information": "Gutierrez, Hooper and Gilbert | grichards@clark.com | (730)952-7619",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Networking Equipment",
+            "Keyboards",
+            "Servers",
+            "Projectors"
+        ],
+        "delivery_time_days": 12,
+        "SLA_days": 31,
+        "quality_rating": 2.1,
+        "spend_amount": 82009.08,
+        "risk_index": 0.45
+    },
+    {
+        "Supplier ID": 24,
+        "contact information": "Bradley LLC | shaun37@miller-obrien.com | 001-646-892-2490x39067",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Projectors",
+            "Monitors",
+            "Tablets"
+        ],
+        "delivery_time_days": 55,
+        "SLA_days": 59,
+        "quality_rating": 4.6,
+        "spend_amount": 49157.14,
+        "risk_index": 0.41
+    },
+    {
+        "Supplier ID": 25,
+        "contact information": "Webb-Santos | stevenharrison@bryant-graham.net | +1-289-525-7149",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Smartphones",
+            "Scanners",
+            "Firewalls",
+            "Switches"
+        ],
+        "delivery_time_days": 57,
+        "SLA_days": 59,
+        "quality_rating": 4.7,
+        "spend_amount": 72834.78,
+        "risk_index": 0.77
+    },
+    {
+        "Supplier ID": 26,
+        "contact information": "Gordon-Sanders | ucastillo@mckee.com | (560)599-6633x3988",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Keyboards",
+            "Switches",
+            "Routers"
+        ],
+        "delivery_time_days": 6,
+        "SLA_days": 33,
+        "quality_rating": 4.0,
+        "spend_amount": 34085.38,
+        "risk_index": 0.89
+    },
+    {
+        "Supplier ID": 27,
+        "contact information": "West, Pittman and Mccarty | jlutz@blake.com | +1-240-946-7406x937",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "UPS",
+            "Keyboards",
+            "Scanners"
+        ],
+        "delivery_time_days": 18,
+        "SLA_days": 36,
+        "quality_rating": 4.4,
+        "spend_amount": 99633.53,
+        "risk_index": 0.06
+    },
+    {
+        "Supplier ID": 28,
+        "contact information": "Murphy, White and Burnett | cknox@hamilton-goodwin.org | 886.223.4348x399",
+        "payment terms": "COD",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 2,
+        "SLA_days": 16,
+        "quality_rating": 1.2,
+        "spend_amount": 26839.73,
+        "risk_index": 0.19
+    },
+    {
+        "Supplier ID": 29,
+        "contact information": "Williams Inc | christine55@young.net | (463)918-7105x25945",
+        "payment terms": "COD",
+        "products supplied": [
+            "Scanners"
+        ],
+        "delivery_time_days": 3,
+        "SLA_days": 19,
+        "quality_rating": 3.7,
+        "spend_amount": 33316.4,
+        "risk_index": 0.8
+    },
+    {
+        "Supplier ID": 30,
+        "contact information": "Deleon, Reynolds and Nguyen | ericbooth@lopez.net | +1-366-710-5771",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Firewalls",
+            "Scanners",
+            "Mice",
+            "Switches"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 47,
+        "quality_rating": 3.6,
+        "spend_amount": 77505.61,
+        "risk_index": 0.78
+    },
+    {
+        "Supplier ID": 31,
+        "contact information": "Jones, Lewis and Kennedy | kimberlyhickman@brown.com | +1-451-283-9197x340",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Keyboards",
+            "Tablets"
+        ],
+        "delivery_time_days": 54,
+        "SLA_days": 54,
+        "quality_rating": 2.6,
+        "spend_amount": 66783.0,
+        "risk_index": 0.53
+    },
+    {
+        "Supplier ID": 32,
+        "contact information": "Harmon, Casey and Wilson | jonestroy@rodriguez.com | 638-342-3062",
+        "payment terms": "COD",
+        "products supplied": [
+            "Keyboards",
+            "Networking Equipment",
+            "Servers"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 56,
+        "quality_rating": 2.1,
+        "spend_amount": 37835.82,
+        "risk_index": 0.83
+    },
+    {
+        "Supplier ID": 33,
+        "contact information": "Daniel LLC | justin44@smith.com | 602-530-7112",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Monitors",
+            "Scanners"
+        ],
+        "delivery_time_days": 13,
+        "SLA_days": 29,
+        "quality_rating": 2.4,
+        "spend_amount": 75726.62,
+        "risk_index": 0.17
+    },
+    {
+        "Supplier ID": 34,
+        "contact information": "Ramirez Inc | angela01@obrien.biz | 798-746-5199x2872",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Servers",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 42,
+        "quality_rating": 2.6,
+        "spend_amount": 95717.51,
+        "risk_index": 0.4
+    },
+    {
+        "Supplier ID": 35,
+        "contact information": "Jenkins-Martin | rhoffman@newman-harper.com | (952)609-6563x84457",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Tablets",
+            "Monitors"
+        ],
+        "delivery_time_days": 60,
+        "SLA_days": 60,
+        "quality_rating": 4.1,
+        "spend_amount": 82608.77,
+        "risk_index": 0.71
+    },
+    {
+        "Supplier ID": 36,
+        "contact information": "Garner, Mata and Paul | catherine11@espinoza-watts.com | +1-735-855-0621x04912",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Projectors",
+            "Keyboards",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 4,
+        "SLA_days": 52,
+        "quality_rating": 3.2,
+        "spend_amount": 97954.69,
+        "risk_index": 0.69
+    },
+    {
+        "Supplier ID": 37,
+        "contact information": "Allen-Adkins | bellcasey@torres.biz | 448-238-4389x4889",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Routers"
+        ],
+        "delivery_time_days": 17,
+        "SLA_days": 18,
+        "quality_rating": 3.6,
+        "spend_amount": 46421.1,
+        "risk_index": 0.88
+    },
+    {
+        "Supplier ID": 38,
+        "contact information": "Montgomery Ltd | kevin70@bridges.com | 001-880-399-6012x3123",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "UPS",
+            "Keyboards",
+            "Scanners"
+        ],
+        "delivery_time_days": 60,
+        "SLA_days": 60,
+        "quality_rating": 2.1,
+        "spend_amount": 69303.46,
+        "risk_index": 0.69
+    },
+    {
+        "Supplier ID": 39,
+        "contact information": "Burton-Allen | uli@sullivan-moore.info | 468.969.8351x8380",
+        "payment terms": "COD",
+        "products supplied": [
+            "Servers",
+            "Projectors",
+            "Keyboards",
+            "Printers"
+        ],
+        "delivery_time_days": 35,
+        "SLA_days": 56,
+        "quality_rating": 4.7,
+        "spend_amount": 54988.83,
+        "risk_index": 0.04
+    },
+    {
+        "Supplier ID": 40,
+        "contact information": "Colon, Mendoza and Graham | livingstonvincent@french.info | (857)320-5511",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "UPS"
+        ],
+        "delivery_time_days": 51,
+        "SLA_days": 55,
+        "quality_rating": 3.4,
+        "spend_amount": 8952.87,
+        "risk_index": 0.57
+    },
+    {
+        "Supplier ID": 41,
+        "contact information": "Foster Ltd | joshuajohnson@walker.com | 001-738-384-6227x003",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Scanners",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 21,
+        "SLA_days": 22,
+        "quality_rating": 2.2,
+        "spend_amount": 58496.41,
+        "risk_index": 0.68
+    },
+    {
+        "Supplier ID": 42,
+        "contact information": "Friedman-Wilkins | jlyons@marsh-hutchinson.com | 293-922-2319x92421",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 47,
+        "SLA_days": 51,
+        "quality_rating": 4.4,
+        "spend_amount": 80395.14,
+        "risk_index": 0.42
+    },
+    {
+        "Supplier ID": 43,
+        "contact information": "Ross Group | josephsuarez@trujillo.com | 540.659.0106x45875",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Laptops",
+            "Scanners"
+        ],
+        "delivery_time_days": 39,
+        "SLA_days": 57,
+        "quality_rating": 1.4,
+        "spend_amount": 9328.29,
+        "risk_index": 0.82
+    },
+    {
+        "Supplier ID": 44,
+        "contact information": "Davidson-Moreno | kevin50@franco.org | 001-686-292-7846x84059",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Routers"
+        ],
+        "delivery_time_days": 29,
+        "SLA_days": 47,
+        "quality_rating": 4.1,
+        "spend_amount": 61296.05,
+        "risk_index": 0.39
+    },
+    {
+        "Supplier ID": 45,
+        "contact information": "Sanders-Nelson | sharon48@campbell-brown.com | +1-515-511-6879x58754",
+        "payment terms": "COD",
+        "products supplied": [
+            "Tablets"
+        ],
+        "delivery_time_days": 24,
+        "SLA_days": 30,
+        "quality_rating": 1.0,
+        "spend_amount": 78617.76,
+        "risk_index": 0.23
+    },
+    {
+        "Supplier ID": 46,
+        "contact information": "Lee, Johnson and Martin | catherinesingh@gonzalez-johnson.info | (486)795-4824x11275",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Servers",
+            "Keyboards",
+            "Printers"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 50,
+        "quality_rating": 2.5,
+        "spend_amount": 46866.59,
+        "risk_index": 0.65
+    },
+    {
+        "Supplier ID": 47,
+        "contact information": "French, Hanna and Allen | toddschmidt@hurley.com | (570)215-3515x387",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Switches",
+            "Firewalls"
+        ],
+        "delivery_time_days": 38,
+        "SLA_days": 58,
+        "quality_rating": 4.0,
+        "spend_amount": 31599.53,
+        "risk_index": 0.91
+    },
+    {
+        "Supplier ID": 48,
+        "contact information": "Myers, Sandoval and Duncan | rachel37@bryan.com | 734-524-0786",
+        "payment terms": "COD",
+        "products supplied": [
+            "Printers",
+            "Monitors"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 38,
+        "quality_rating": 1.6,
+        "spend_amount": 22664.84,
+        "risk_index": 0.11
+    },
+    {
+        "Supplier ID": 49,
+        "contact information": "Jackson-Hooper | rodriguezdonna@townsend.com | (985)419-3450",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Printers",
+            "Scanners",
+            "Switches",
+            "Routers"
+        ],
+        "delivery_time_days": 21,
+        "SLA_days": 55,
+        "quality_rating": 1.3,
+        "spend_amount": 30027.22,
+        "risk_index": 0.57
+    },
+    {
+        "Supplier ID": 50,
+        "contact information": "Hart Group | lwilson@cook.net | +1-882-278-0383x0996",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Switches",
+            "Routers"
+        ],
+        "delivery_time_days": 22,
+        "SLA_days": 24,
+        "quality_rating": 2.6,
+        "spend_amount": 47036.75,
+        "risk_index": 0.98
+    },
+    {
+        "Supplier ID": 51,
+        "contact information": "Acosta-Mccall | hopkinschristopher@lee-cummings.com | 376-206-0993x496",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Projectors",
+            "Mice",
+            "Printers",
+            "Keyboards"
+        ],
+        "delivery_time_days": 14,
+        "SLA_days": 37,
+        "quality_rating": 3.9,
+        "spend_amount": 27319.59,
+        "risk_index": 0.11
+    },
+    {
+        "Supplier ID": 52,
+        "contact information": "Mercado PLC | mary32@thompson.org | 8126445268",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Printers",
+            "UPS",
+            "Monitors"
+        ],
+        "delivery_time_days": 27,
+        "SLA_days": 34,
+        "quality_rating": 3.8,
+        "spend_amount": 53796.09,
+        "risk_index": 0.59
+    },
+    {
+        "Supplier ID": 53,
+        "contact information": "Fox-Price | erinyoung@lane.com | 662.758.1333",
+        "payment terms": "COD",
+        "products supplied": [
+            "Firewalls",
+            "Smartphones"
+        ],
+        "delivery_time_days": 53,
+        "SLA_days": 54,
+        "quality_rating": 2.4,
+        "spend_amount": 71772.58,
+        "risk_index": 0.65
+    },
+    {
+        "Supplier ID": 54,
+        "contact information": "Hart-Vance | hendrixalejandro@johnson.com | 460-290-3328x8570",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Laptops",
+            "Firewalls",
+            "Tablets",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 25,
+        "SLA_days": 43,
+        "quality_rating": 1.5,
+        "spend_amount": 58531.6,
+        "risk_index": 0.34
+    },
+    {
+        "Supplier ID": 55,
+        "contact information": "Williams PLC | uday@bailey.net | 425.929.5248x592",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Printers",
+            "Monitors",
+            "Switches",
+            "Mice"
+        ],
+        "delivery_time_days": 47,
+        "SLA_days": 51,
+        "quality_rating": 4.9,
+        "spend_amount": 93775.47,
+        "risk_index": 0.3
+    },
+    {
+        "Supplier ID": 56,
+        "contact information": "Rice-Flores | rebeccadeleon@dodson-beltran.org | 277.549.3389",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Projectors",
+            "Routers"
+        ],
+        "delivery_time_days": 21,
+        "SLA_days": 52,
+        "quality_rating": 2.4,
+        "spend_amount": 39435.65,
+        "risk_index": 0.94
+    },
+    {
+        "Supplier ID": 57,
+        "contact information": "Charles, Price and Webster | jordan23@hawkins.com | +1-531-574-9780x3699",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Monitors"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 22,
+        "quality_rating": 2.3,
+        "spend_amount": 1700.84,
+        "risk_index": 0.4
+    },
+    {
+        "Supplier ID": 58,
+        "contact information": "Fox, Hanson and Chapman | wjimenez@wallace.org | 525.906.1724",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Switches",
+            "Routers"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 29,
+        "quality_rating": 2.9,
+        "spend_amount": 80033.47,
+        "risk_index": 0.17
+    },
+    {
+        "Supplier ID": 59,
+        "contact information": "Johnson Group | nguyenjacob@cook.net | (262)590-5840x454",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 53,
+        "quality_rating": 3.7,
+        "spend_amount": 85128.03,
+        "risk_index": 0.91
+    },
+    {
+        "Supplier ID": 60,
+        "contact information": "Mcdaniel and Sons | tonyhernandez@roberts.com | 631-577-4398x854",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Tablets"
+        ],
+        "delivery_time_days": 43,
+        "SLA_days": 48,
+        "quality_rating": 1.7,
+        "spend_amount": 79251.78,
+        "risk_index": 0.8
+    },
+    {
+        "Supplier ID": 61,
+        "contact information": "Barnett, Smith and Davis | bwatkins@reyes.com | 240.498.4294x58442",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 53,
+        "quality_rating": 1.5,
+        "spend_amount": 74947.89,
+        "risk_index": 0.17
+    },
+    {
+        "Supplier ID": 62,
+        "contact information": "Miller, Allen and Johnson | schultzwilliam@carpenter.com | 523-511-8276x2101",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Tablets"
+        ],
+        "delivery_time_days": 26,
+        "SLA_days": 60,
+        "quality_rating": 2.6,
+        "spend_amount": 65501.44,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 63,
+        "contact information": "Bishop LLC | xmorrow@watson.com | (202)788-5009",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Monitors",
+            "Projectors",
+            "Firewalls"
+        ],
+        "delivery_time_days": 22,
+        "SLA_days": 34,
+        "quality_rating": 2.0,
+        "spend_amount": 13780.58,
+        "risk_index": 0.01
+    },
+    {
+        "Supplier ID": 64,
+        "contact information": "Conner-Taylor | william11@porter.biz | 508-526-6840",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Laptops",
+            "Firewalls",
+            "Routers"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 56,
+        "quality_rating": 3.0,
+        "spend_amount": 59495.5,
+        "risk_index": 0.11
+    },
+    {
+        "Supplier ID": 65,
+        "contact information": "Johnson-Reed | henry02@suarez-kim.com | +1-417-469-2494x166",
+        "payment terms": "COD",
+        "products supplied": [
+            "Projectors",
+            "Tablets",
+            "Monitors",
+            "Laptops"
+        ],
+        "delivery_time_days": 1,
+        "SLA_days": 37,
+        "quality_rating": 2.1,
+        "spend_amount": 73319.61,
+        "risk_index": 0.81
+    },
+    {
+        "Supplier ID": 66,
+        "contact information": "Chan PLC | melissa09@banks-turner.com | +1-584-612-8012",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Switches",
+            "UPS",
+            "Laptops"
+        ],
+        "delivery_time_days": 11,
+        "SLA_days": 57,
+        "quality_rating": 2.2,
+        "spend_amount": 77582.6,
+        "risk_index": 0.9
+    },
+    {
+        "Supplier ID": 67,
+        "contact information": "Pitts-Gray | angelaortiz@wong-mcfarland.com | 829.239.8762",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Firewalls",
+            "Projectors"
+        ],
+        "delivery_time_days": 5,
+        "SLA_days": 39,
+        "quality_rating": 1.1,
+        "spend_amount": 85515.31,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 68,
+        "contact information": "Nelson LLC | bwhite@woods-jacobson.com | 661.953.8177x804",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Switches",
+            "Scanners",
+            "Printers"
+        ],
+        "delivery_time_days": 19,
+        "SLA_days": 23,
+        "quality_rating": 3.4,
+        "spend_amount": 25563.7,
+        "risk_index": 1.0
+    },
+    {
+        "Supplier ID": 69,
+        "contact information": "Smith-Richards | anthony40@ward-cunningham.com | 3119094881",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Scanners"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 57,
+        "quality_rating": 2.1,
+        "spend_amount": 71516.95,
+        "risk_index": 0.88
+    },
+    {
+        "Supplier ID": 70,
+        "contact information": "Foster Group | alejandra39@lee-mcdonald.com | 426.638.7389x707",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Laptops"
+        ],
+        "delivery_time_days": 27,
+        "SLA_days": 40,
+        "quality_rating": 1.9,
+        "spend_amount": 42474.91,
+        "risk_index": 0.08
+    },
+    {
+        "Supplier ID": 71,
+        "contact information": "Juarez and Sons | travisamanda@haley.biz | 765.437.7514x3764",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Projectors",
+            "Firewalls",
+            "UPS",
+            "Routers"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 49,
+        "quality_rating": 3.2,
+        "spend_amount": 9070.33,
+        "risk_index": 0.04
+    },
+    {
+        "Supplier ID": 72,
+        "contact information": "Weaver LLC | frhodes@king-stanley.info | 397-663-5522x8009",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Networking Equipment",
+            "Smartphones",
+            "UPS"
+        ],
+        "delivery_time_days": 38,
+        "SLA_days": 48,
+        "quality_rating": 3.2,
+        "spend_amount": 48374.67,
+        "risk_index": 0.8
+    },
+    {
+        "Supplier ID": 73,
+        "contact information": "Giles and Sons | housematthew@riley-davis.com | (667)829-4463x37565",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Switches",
+            "Smartphones"
+        ],
+        "delivery_time_days": 54,
+        "SLA_days": 58,
+        "quality_rating": 1.4,
+        "spend_amount": 30478.9,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 74,
+        "contact information": "Barnes Group | olopez@phillips-miller.net | 603.766.7057x983",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Scanners"
+        ],
+        "delivery_time_days": 33,
+        "SLA_days": 59,
+        "quality_rating": 4.5,
+        "spend_amount": 34601.66,
+        "risk_index": 0.72
+    },
+    {
+        "Supplier ID": 75,
+        "contact information": "Bates Group | jroman@rubio-bryant.com | 6062280351",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Firewalls",
+            "Smartphones"
+        ],
+        "delivery_time_days": 42,
+        "SLA_days": 58,
+        "quality_rating": 4.2,
+        "spend_amount": 69329.18,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 76,
+        "contact information": "Anderson-Garcia | pcarlson@may.com | 552-799-0003",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "UPS",
+            "Projectors",
+            "Smartphones"
+        ],
+        "delivery_time_days": 31,
+        "SLA_days": 59,
+        "quality_rating": 2.7,
+        "spend_amount": 79826.23,
+        "risk_index": 0.56
+    },
+    {
+        "Supplier ID": 77,
+        "contact information": "Johnson, Dawson and Morgan | hessemily@boone.net | 9845530901",
+        "payment terms": "COD",
+        "products supplied": [
+            "Projectors"
+        ],
+        "delivery_time_days": 37,
+        "SLA_days": 43,
+        "quality_rating": 2.1,
+        "spend_amount": 75886.28,
+        "risk_index": 0.65
+    },
+    {
+        "Supplier ID": 78,
+        "contact information": "Shaw and Sons | smelton@garcia.biz | 001-509-926-0605x271",
+        "payment terms": "COD",
+        "products supplied": [
+            "Scanners",
+            "Mice"
+        ],
+        "delivery_time_days": 39,
+        "SLA_days": 54,
+        "quality_rating": 4.2,
+        "spend_amount": 8425.39,
+        "risk_index": 0.04
+    },
+    {
+        "Supplier ID": 79,
+        "contact information": "Joseph LLC | william63@walker.com | 303-988-7490x737",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Networking Equipment",
+            "Keyboards",
+            "Servers"
+        ],
+        "delivery_time_days": 8,
+        "SLA_days": 20,
+        "quality_rating": 3.1,
+        "spend_amount": 46698.45,
+        "risk_index": 0.9
+    },
+    {
+        "Supplier ID": 80,
+        "contact information": "Schroeder, Barnes and Burke | lwarren@burton-bernard.com | 6884799613",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Switches",
+            "Monitors",
+            "Networking Equipment",
+            "Servers"
+        ],
+        "delivery_time_days": 27,
+        "SLA_days": 48,
+        "quality_rating": 4.6,
+        "spend_amount": 9648.0,
+        "risk_index": 0.98
+    },
+    {
+        "Supplier ID": 81,
+        "contact information": "Chandler Group | mwilson@jones-martinez.org | 800-983-9944x7509",
+        "payment terms": "COD",
+        "products supplied": [
+            "Printers"
+        ],
+        "delivery_time_days": 40,
+        "SLA_days": 60,
+        "quality_rating": 2.2,
+        "spend_amount": 24101.32,
+        "risk_index": 0.65
+    },
+    {
+        "Supplier ID": 82,
+        "contact information": "Russell-Dyer | angelaclements@rodgers.org | +1-367-581-4526",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Printers",
+            "Keyboards",
+            "Scanners"
+        ],
+        "delivery_time_days": 15,
+        "SLA_days": 42,
+        "quality_rating": 4.3,
+        "spend_amount": 40049.81,
+        "risk_index": 0.01
+    },
+    {
+        "Supplier ID": 83,
+        "contact information": "Williams-Jensen | bryanmitchell@hickman.com | +1-957-367-2494x6180",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment",
+            "Keyboards",
+            "Firewalls",
+            "Printers"
+        ],
+        "delivery_time_days": 58,
+        "SLA_days": 60,
+        "quality_rating": 4.9,
+        "spend_amount": 74198.95,
+        "risk_index": 0.13
+    },
+    {
+        "Supplier ID": 84,
+        "contact information": "Finley-Evans | zacharybutler@stewart-griffin.com | 001-765-520-4378x0924",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Smartphones"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 50,
+        "quality_rating": 2.5,
+        "spend_amount": 82449.84,
+        "risk_index": 0.39
+    },
+    {
+        "Supplier ID": 85,
+        "contact information": "Orozco, Monroe and Jackson | toddbryant@ellis.com | 888.625.0932x92895",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Firewalls",
+            "Projectors"
+        ],
+        "delivery_time_days": 30,
+        "SLA_days": 45,
+        "quality_rating": 1.4,
+        "spend_amount": 22415.15,
+        "risk_index": 0.85
+    },
+    {
+        "Supplier ID": 86,
+        "contact information": "Smith, Carter and Murphy | brentmurphy@cross.com | 850-854-9051",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Switches",
+            "Mice",
+            "Scanners",
+            "Monitors"
+        ],
+        "delivery_time_days": 22,
+        "SLA_days": 54,
+        "quality_rating": 1.8,
+        "spend_amount": 69586.85,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 87,
+        "contact information": "Cook, Gonzalez and Johnson | monicawright@becker-rich.com | +1-889-653-7217",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "UPS"
+        ],
+        "delivery_time_days": 57,
+        "SLA_days": 60,
+        "quality_rating": 1.1,
+        "spend_amount": 88121.21,
+        "risk_index": 0.16
+    },
+    {
+        "Supplier ID": 88,
+        "contact information": "Davis and Sons | laura68@bright.com | +1-826-255-1680x35804",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Firewalls",
+            "Switches",
+            "Networking Equipment",
+            "Printers"
+        ],
+        "delivery_time_days": 46,
+        "SLA_days": 58,
+        "quality_rating": 3.2,
+        "spend_amount": 13170.67,
+        "risk_index": 0.41
+    },
+    {
+        "Supplier ID": 89,
+        "contact information": "House, Alvarado and Gomez | xbruce@farmer.net | 771.257.2153x6356",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "UPS",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 28,
+        "SLA_days": 39,
+        "quality_rating": 3.9,
+        "spend_amount": 85954.65,
+        "risk_index": 0.58
+    },
+    {
+        "Supplier ID": 90,
+        "contact information": "Nicholson-Lane | svargas@cortez-simmons.info | 9116390171",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Tablets",
+            "Networking Equipment",
+            "Firewalls",
+            "UPS"
+        ],
+        "delivery_time_days": 44,
+        "SLA_days": 55,
+        "quality_rating": 2.1,
+        "spend_amount": 30997.35,
+        "risk_index": 0.28
+    },
+    {
+        "Supplier ID": 91,
+        "contact information": "Fowler LLC | david49@rodriguez.com | 860.740.5908",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Servers",
+            "Networking Equipment",
+            "Laptops",
+            "Printers"
+        ],
+        "delivery_time_days": 21,
+        "SLA_days": 22,
+        "quality_rating": 1.1,
+        "spend_amount": 77786.89,
+        "risk_index": 0.52
+    },
+    {
+        "Supplier ID": 92,
+        "contact information": "Thomas-Williams | christopher13@erickson.com | 613-774-4761x48161",
+        "payment terms": "COD",
+        "products supplied": [
+            "Firewalls",
+            "Monitors",
+            "Mice",
+            "Projectors"
+        ],
+        "delivery_time_days": 2,
+        "SLA_days": 43,
+        "quality_rating": 3.2,
+        "spend_amount": 69112.74,
+        "risk_index": 0.92
+    },
+    {
+        "Supplier ID": 93,
+        "contact information": "Lewis-Taylor | monique93@barnes-rollins.com | 001-684-359-4623x75015",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Monitors",
+            "UPS",
+            "Servers",
+            "Mice"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 46,
+        "quality_rating": 1.4,
+        "spend_amount": 94783.35,
+        "risk_index": 0.11
+    },
+    {
+        "Supplier ID": 94,
+        "contact information": "Blair, Kelly and Cole | benjamin03@tapia.com | 001-615-271-9839",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Projectors",
+            "Smartphones",
+            "Switches"
+        ],
+        "delivery_time_days": 38,
+        "SLA_days": 44,
+        "quality_rating": 3.1,
+        "spend_amount": 57142.61,
+        "risk_index": 0.74
+    },
+    {
+        "Supplier ID": 95,
+        "contact information": "Gilmore PLC | zsmith@yu.org | 476-230-0531x321",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment",
+            "Mice"
+        ],
+        "delivery_time_days": 51,
+        "SLA_days": 59,
+        "quality_rating": 2.0,
+        "spend_amount": 36885.88,
+        "risk_index": 0.29
+    },
+    {
+        "Supplier ID": 96,
+        "contact information": "Mcgee, Hamilton and Bishop | xwilliams@diaz.org | 520-554-0816",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Routers",
+            "Tablets",
+            "Monitors",
+            "Firewalls"
+        ],
+        "delivery_time_days": 11,
+        "SLA_days": 26,
+        "quality_rating": 4.4,
+        "spend_amount": 65018.77,
+        "risk_index": 0.91
+    },
+    {
+        "Supplier ID": 97,
+        "contact information": "Delgado-Pope | ryantapia@carlson-cook.com | (604)239-7784x83518",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 20,
+        "SLA_days": 25,
+        "quality_rating": 4.9,
+        "spend_amount": 17886.48,
+        "risk_index": 0.85
+    },
+    {
+        "Supplier ID": 98,
+        "contact information": "Blair LLC | fcarrillo@elliott.com | (952)947-5012x38532",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Mice",
+            "Servers"
+        ],
+        "delivery_time_days": 32,
+        "SLA_days": 43,
+        "quality_rating": 2.7,
+        "spend_amount": 56605.94,
+        "risk_index": 0.89
+    },
+    {
+        "Supplier ID": 99,
+        "contact information": "Taylor, Stanley and Brown | awalker@patterson.biz | 001-954-535-9031",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Switches"
+        ],
+        "delivery_time_days": 16,
+        "SLA_days": 59,
+        "quality_rating": 2.0,
+        "spend_amount": 52275.04,
+        "risk_index": 0.13
+    },
+    {
+        "Supplier ID": 100,
+        "contact information": "Miles-Daugherty | murrayjasmine@williams-hanson.info | 001-608-247-2422",
+        "payment terms": "COD",
+        "products supplied": [
+            "Tablets"
+        ],
+        "delivery_time_days": 2,
+        "SLA_days": 56,
+        "quality_rating": 3.8,
+        "spend_amount": 18278.14,
+        "risk_index": 0.1
+    },
+    {
+        "Supplier ID": 101,
+        "contact information": "Jacobs, Powell and Lyons | hramsey@james.com | 271.652.4071",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Switches",
+            "Servers"
+        ],
+        "delivery_time_days": 44,
+        "SLA_days": 60,
+        "quality_rating": 4.3,
+        "spend_amount": 99977.26,
+        "risk_index": 0.58
+    },
+    {
+        "Supplier ID": 102,
+        "contact information": "Terry-Brown | marissamoran@adams.com | 001-543-832-2668x878",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Servers",
+            "Routers"
+        ],
+        "delivery_time_days": 53,
+        "SLA_days": 59,
+        "quality_rating": 2.7,
+        "spend_amount": 83568.81,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 103,
+        "contact information": "Watts LLC | martinashley@alvarado.com | 683-419-5547",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Printers",
+            "Tablets",
+            "Laptops"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 44,
+        "quality_rating": 3.8,
+        "spend_amount": 84114.27,
+        "risk_index": 0.39
+    },
+    {
+        "Supplier ID": 104,
+        "contact information": "Morrison-Adams | willie27@horn.info | 001-811-405-2900x741",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Smartphones",
+            "Networking Equipment",
+            "Switches",
+            "Projectors"
+        ],
+        "delivery_time_days": 51,
+        "SLA_days": 54,
+        "quality_rating": 2.1,
+        "spend_amount": 13394.23,
+        "risk_index": 0.05
+    },
+    {
+        "Supplier ID": 105,
+        "contact information": "Powell LLC | lallen@barnes-bennett.org | +1-625-323-7332x61642",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Switches",
+            "Routers",
+            "Projectors"
+        ],
+        "delivery_time_days": 4,
+        "SLA_days": 57,
+        "quality_rating": 3.7,
+        "spend_amount": 92444.2,
+        "risk_index": 0.44
+    },
+    {
+        "Supplier ID": 106,
+        "contact information": "Stephens, Stevenson and Yang | vkey@kemp-serrano.com | 309-255-3637x791",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Routers"
+        ],
+        "delivery_time_days": 12,
+        "SLA_days": 47,
+        "quality_rating": 4.1,
+        "spend_amount": 32245.32,
+        "risk_index": 0.37
+    },
+    {
+        "Supplier ID": 107,
+        "contact information": "Ruiz-Moore | samuel29@mccann-riley.com | 001-503-287-4485x9436",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Mice",
+            "Switches"
+        ],
+        "delivery_time_days": 3,
+        "SLA_days": 47,
+        "quality_rating": 5.0,
+        "spend_amount": 89500.07,
+        "risk_index": 0.59
+    },
+    {
+        "Supplier ID": 108,
+        "contact information": "Stuart-Little | benjamin66@christian-harris.com | 716-323-0272x35976",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment",
+            "Projectors",
+            "Keyboards",
+            "Laptops"
+        ],
+        "delivery_time_days": 13,
+        "SLA_days": 26,
+        "quality_rating": 1.8,
+        "spend_amount": 92978.38,
+        "risk_index": 0.38
+    },
+    {
+        "Supplier ID": 109,
+        "contact information": "Jones, Erickson and Martinez | christinamartin@brown-perez.biz | 7955658694",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Switches",
+            "UPS"
+        ],
+        "delivery_time_days": 16,
+        "SLA_days": 20,
+        "quality_rating": 3.5,
+        "spend_amount": 60039.28,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 110,
+        "contact information": "James LLC | fernandezdavid@turner.net | 944-472-5112x9946",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Monitors",
+            "Routers",
+            "Smartphones"
+        ],
+        "delivery_time_days": 10,
+        "SLA_days": 36,
+        "quality_rating": 2.2,
+        "spend_amount": 54272.84,
+        "risk_index": 0.67
+    },
+    {
+        "Supplier ID": 111,
+        "contact information": "Snyder PLC | stephenfox@reid.com | 8569839066",
+        "payment terms": "COD",
+        "products supplied": [
+            "Laptops",
+            "Switches",
+            "Servers"
+        ],
+        "delivery_time_days": 31,
+        "SLA_days": 49,
+        "quality_rating": 2.6,
+        "spend_amount": 13725.72,
+        "risk_index": 0.67
+    },
+    {
+        "Supplier ID": 112,
+        "contact information": "Vargas-Yates | colemanlauren@johnson.org | 390.574.8541",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Projectors",
+            "Mice"
+        ],
+        "delivery_time_days": 17,
+        "SLA_days": 30,
+        "quality_rating": 4.6,
+        "spend_amount": 71703.15,
+        "risk_index": 0.42
+    },
+    {
+        "Supplier ID": 113,
+        "contact information": "Matthews, Clark and Gaines | dstanley@sims-smith.com | (500)899-6099x0290",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Projectors",
+            "Mice",
+            "Firewalls",
+            "Printers"
+        ],
+        "delivery_time_days": 33,
+        "SLA_days": 34,
+        "quality_rating": 3.9,
+        "spend_amount": 73435.67,
+        "risk_index": 0.81
+    },
+    {
+        "Supplier ID": 114,
+        "contact information": "Johnson-Powell | michaelsloan@watts.com | 464-283-3356x672",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Firewalls"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 59,
+        "quality_rating": 4.8,
+        "spend_amount": 98925.29,
+        "risk_index": 0.15
+    },
+    {
+        "Supplier ID": 115,
+        "contact information": "Anderson-Frost | kramerronald@walker.com | +1-499-338-7609x0658",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Routers",
+            "Projectors",
+            "Switches",
+            "UPS"
+        ],
+        "delivery_time_days": 33,
+        "SLA_days": 47,
+        "quality_rating": 1.6,
+        "spend_amount": 48875.34,
+        "risk_index": 0.86
+    },
+    {
+        "Supplier ID": 116,
+        "contact information": "Harding-Weber | maryrogers@carter.com | 001-804-862-9534x1236",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 24,
+        "SLA_days": 35,
+        "quality_rating": 3.3,
+        "spend_amount": 68548.76,
+        "risk_index": 0.26
+    },
+    {
+        "Supplier ID": 117,
+        "contact information": "Vasquez Ltd | john69@huynh.biz | (402)374-1032x22584",
+        "payment terms": "COD",
+        "products supplied": [
+            "Servers",
+            "Monitors",
+            "Firewalls",
+            "Switches"
+        ],
+        "delivery_time_days": 58,
+        "SLA_days": 58,
+        "quality_rating": 4.6,
+        "spend_amount": 43616.43,
+        "risk_index": 0.23
+    },
+    {
+        "Supplier ID": 118,
+        "contact information": "Walters Group | davidhall@washington.biz | 932-398-8793x008",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Smartphones",
+            "Routers",
+            "Monitors",
+            "Tablets"
+        ],
+        "delivery_time_days": 37,
+        "SLA_days": 40,
+        "quality_rating": 4.6,
+        "spend_amount": 72817.35,
+        "risk_index": 0.26
+    },
+    {
+        "Supplier ID": 119,
+        "contact information": "Rich Ltd | xcarlson@reyes-meyers.biz | (972)351-3665",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Scanners",
+            "Tablets"
+        ],
+        "delivery_time_days": 5,
+        "SLA_days": 41,
+        "quality_rating": 2.9,
+        "spend_amount": 29072.95,
+        "risk_index": 0.23
+    },
+    {
+        "Supplier ID": 120,
+        "contact information": "Ortiz-Higgins | kpeterson@bass.com | 783-739-4365x516",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Projectors",
+            "Firewalls",
+            "Tablets"
+        ],
+        "delivery_time_days": 27,
+        "SLA_days": 29,
+        "quality_rating": 4.0,
+        "spend_amount": 1579.12,
+        "risk_index": 0.78
+    },
+    {
+        "Supplier ID": 121,
+        "contact information": "Young Ltd | morganmelissa@george-hanson.com | (577)458-3579x1902",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Laptops",
+            "Scanners"
+        ],
+        "delivery_time_days": 42,
+        "SLA_days": 50,
+        "quality_rating": 3.7,
+        "spend_amount": 52993.93,
+        "risk_index": 0.68
+    },
+    {
+        "Supplier ID": 122,
+        "contact information": "Garza Inc | thomasturner@decker-larsen.com | (230)908-6112x6780",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Printers"
+        ],
+        "delivery_time_days": 51,
+        "SLA_days": 52,
+        "quality_rating": 4.2,
+        "spend_amount": 94369.03,
+        "risk_index": 0.45
+    },
+    {
+        "Supplier ID": 123,
+        "contact information": "Mccall, Faulkner and Cook | leeshawn@glass.biz | 866-422-4383x07741",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Tablets"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 54,
+        "quality_rating": 4.3,
+        "spend_amount": 91642.93,
+        "risk_index": 0.3
+    },
+    {
+        "Supplier ID": 124,
+        "contact information": "Mack Group | seth32@allen.info | 453-206-4134x497",
+        "payment terms": "COD",
+        "products supplied": [
+            "Keyboards",
+            "Tablets"
+        ],
+        "delivery_time_days": 60,
+        "SLA_days": 60,
+        "quality_rating": 4.5,
+        "spend_amount": 20274.12,
+        "risk_index": 0.76
+    },
+    {
+        "Supplier ID": 125,
+        "contact information": "Jennings-Chen | wsmith@reed.com | 001-338-794-3031x4293",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Networking Equipment",
+            "Routers",
+            "Laptops"
+        ],
+        "delivery_time_days": 6,
+        "SLA_days": 17,
+        "quality_rating": 3.0,
+        "spend_amount": 54105.29,
+        "risk_index": 0.0
+    },
+    {
+        "Supplier ID": 126,
+        "contact information": "Patel, Nunez and Hickman | kmullen@krueger.org | 410-336-5736x263",
+        "payment terms": "COD",
+        "products supplied": [
+            "Printers",
+            "Routers"
+        ],
+        "delivery_time_days": 33,
+        "SLA_days": 37,
+        "quality_rating": 1.8,
+        "spend_amount": 61221.62,
+        "risk_index": 0.37
+    },
+    {
+        "Supplier ID": 127,
+        "contact information": "Mathis Group | nicolas03@wilson.com | 484-664-3923x1311",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Mice",
+            "Monitors"
+        ],
+        "delivery_time_days": 25,
+        "SLA_days": 25,
+        "quality_rating": 3.7,
+        "spend_amount": 93629.06,
+        "risk_index": 0.57
+    },
+    {
+        "Supplier ID": 128,
+        "contact information": "Johnson, Martinez and Lewis | joshuahanson@wade.com | 423-931-3916",
+        "payment terms": "COD",
+        "products supplied": [
+            "Switches"
+        ],
+        "delivery_time_days": 5,
+        "SLA_days": 46,
+        "quality_rating": 2.8,
+        "spend_amount": 50596.13,
+        "risk_index": 0.76
+    },
+    {
+        "Supplier ID": 129,
+        "contact information": "Osborne, Williams and Fields | jcarroll@garcia.net | +1-299-966-2853x3888",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Switches",
+            "UPS",
+            "Smartphones",
+            "Routers"
+        ],
+        "delivery_time_days": 28,
+        "SLA_days": 40,
+        "quality_rating": 2.9,
+        "spend_amount": 94186.35,
+        "risk_index": 0.57
+    },
+    {
+        "Supplier ID": 130,
+        "contact information": "Henderson, Morgan and Richards | teresa73@garcia-goodman.org | +1-247-918-4392",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "UPS",
+            "Scanners",
+            "Routers",
+            "Tablets"
+        ],
+        "delivery_time_days": 53,
+        "SLA_days": 53,
+        "quality_rating": 2.8,
+        "spend_amount": 90472.76,
+        "risk_index": 0.01
+    },
+    {
+        "Supplier ID": 131,
+        "contact information": "Morales-Meadows | cooperdaniel@newton-turner.org | (606)697-0331x4605",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Switches",
+            "Keyboards"
+        ],
+        "delivery_time_days": 35,
+        "SLA_days": 37,
+        "quality_rating": 3.6,
+        "spend_amount": 78592.5,
+        "risk_index": 0.17
+    },
+    {
+        "Supplier ID": 132,
+        "contact information": "Hansen-Gaines | michael20@alexander.com | (981)434-2661",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Firewalls",
+            "Keyboards"
+        ],
+        "delivery_time_days": 28,
+        "SLA_days": 46,
+        "quality_rating": 2.2,
+        "spend_amount": 8261.22,
+        "risk_index": 0.15
+    },
+    {
+        "Supplier ID": 133,
+        "contact information": "Smith-Smith | nicholegordon@stevens.com | 830.399.2437",
+        "payment terms": "COD",
+        "products supplied": [
+            "Keyboards",
+            "Mice",
+            "Tablets",
+            "Printers"
+        ],
+        "delivery_time_days": 21,
+        "SLA_days": 30,
+        "quality_rating": 4.7,
+        "spend_amount": 88696.49,
+        "risk_index": 0.6
+    },
+    {
+        "Supplier ID": 134,
+        "contact information": "Peters-Parrish | marissa16@richard.com | 001-561-998-4667x78016",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Servers"
+        ],
+        "delivery_time_days": 44,
+        "SLA_days": 60,
+        "quality_rating": 4.1,
+        "spend_amount": 10714.58,
+        "risk_index": 0.35
+    },
+    {
+        "Supplier ID": 135,
+        "contact information": "Meyers Ltd | garymoore@smith-good.com | 703-673-9653x581",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Laptops"
+        ],
+        "delivery_time_days": 57,
+        "SLA_days": 58,
+        "quality_rating": 3.4,
+        "spend_amount": 20926.33,
+        "risk_index": 0.06
+    },
+    {
+        "Supplier ID": 136,
+        "contact information": "Morrison, Bolton and Nelson | erica25@george.com | 601.316.1787x92334",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Firewalls",
+            "Mice",
+            "Scanners"
+        ],
+        "delivery_time_days": 19,
+        "SLA_days": 27,
+        "quality_rating": 3.4,
+        "spend_amount": 85754.0,
+        "risk_index": 0.22
+    },
+    {
+        "Supplier ID": 137,
+        "contact information": "Carlson, Morales and Johnson | barnessteven@hall-montgomery.com | 906.724.1692x393",
+        "payment terms": "COD",
+        "products supplied": [
+            "UPS",
+            "Smartphones"
+        ],
+        "delivery_time_days": 10,
+        "SLA_days": 29,
+        "quality_rating": 4.0,
+        "spend_amount": 35626.53,
+        "risk_index": 0.48
+    },
+    {
+        "Supplier ID": 138,
+        "contact information": "Bryan Group | jacksonjohnson@munoz-harrison.com | (364)894-7289x3768",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Laptops",
+            "Monitors",
+            "UPS"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 59,
+        "quality_rating": 1.2,
+        "spend_amount": 16600.23,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 139,
+        "contact information": "Thompson-Thompson | lisa55@wiggins-stone.com | 956.950.2934x11323",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Laptops"
+        ],
+        "delivery_time_days": 55,
+        "SLA_days": 57,
+        "quality_rating": 4.9,
+        "spend_amount": 92191.76,
+        "risk_index": 0.47
+    },
+    {
+        "Supplier ID": 140,
+        "contact information": "Wallace and Sons | patricia55@barton-anderson.com | 001-755-926-2668x2217",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Laptops"
+        ],
+        "delivery_time_days": 2,
+        "SLA_days": 27,
+        "quality_rating": 2.0,
+        "spend_amount": 80044.14,
+        "risk_index": 0.55
+    },
+    {
+        "Supplier ID": 141,
+        "contact information": "Myers Ltd | sreyes@jackson.com | 569-249-3574x4080",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "UPS",
+            "Printers"
+        ],
+        "delivery_time_days": 4,
+        "SLA_days": 47,
+        "quality_rating": 3.5,
+        "spend_amount": 62397.27,
+        "risk_index": 0.07
+    },
+    {
+        "Supplier ID": 142,
+        "contact information": "Jenkins, Johnson and Perez | ryan20@johnson.com | (992)631-5071x062",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "UPS"
+        ],
+        "delivery_time_days": 24,
+        "SLA_days": 42,
+        "quality_rating": 3.9,
+        "spend_amount": 8587.14,
+        "risk_index": 0.91
+    },
+    {
+        "Supplier ID": 143,
+        "contact information": "Simpson, Holder and Floyd | danadavenport@pineda.com | 408-334-1997x965",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Laptops"
+        ],
+        "delivery_time_days": 47,
+        "SLA_days": 60,
+        "quality_rating": 1.8,
+        "spend_amount": 1720.34,
+        "risk_index": 0.48
+    },
+    {
+        "Supplier ID": 144,
+        "contact information": "Mckenzie, Bryan and Anderson | michael81@hernandez-moore.info | 9064989815",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Monitors",
+            "UPS"
+        ],
+        "delivery_time_days": 24,
+        "SLA_days": 43,
+        "quality_rating": 4.0,
+        "spend_amount": 87993.01,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 145,
+        "contact information": "Thompson, Gomez and Davis | mccoychristine@hood.biz | (200)328-6499x1926",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Firewalls",
+            "Keyboards"
+        ],
+        "delivery_time_days": 11,
+        "SLA_days": 55,
+        "quality_rating": 2.5,
+        "spend_amount": 20596.72,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 146,
+        "contact information": "Weber-Anthony | miguel86@johnson-nichols.com | 001-537-557-0282x236",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 54,
+        "SLA_days": 56,
+        "quality_rating": 2.3,
+        "spend_amount": 34059.08,
+        "risk_index": 0.77
+    },
+    {
+        "Supplier ID": 147,
+        "contact information": "Keith PLC | susan81@hardin.info | (997)503-4124",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Networking Equipment",
+            "Printers",
+            "Smartphones",
+            "Laptops"
+        ],
+        "delivery_time_days": 4,
+        "SLA_days": 59,
+        "quality_rating": 3.6,
+        "spend_amount": 83688.15,
+        "risk_index": 0.54
+    },
+    {
+        "Supplier ID": 148,
+        "contact information": "Hernandez-Levine | tannermarshall@bryant-chavez.com | 496-754-1439x8905",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Laptops",
+            "Mice",
+            "UPS",
+            "Monitors"
+        ],
+        "delivery_time_days": 49,
+        "SLA_days": 54,
+        "quality_rating": 4.0,
+        "spend_amount": 37965.49,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 149,
+        "contact information": "Stewart PLC | oadams@lee-flores.info | 393-495-6984x903",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Tablets",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 60,
+        "SLA_days": 60,
+        "quality_rating": 3.8,
+        "spend_amount": 30681.18,
+        "risk_index": 0.37
+    },
+    {
+        "Supplier ID": 150,
+        "contact information": "Harper LLC | kray@watson.biz | 716-222-1236x96062",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Switches",
+            "UPS",
+            "Monitors"
+        ],
+        "delivery_time_days": 26,
+        "SLA_days": 39,
+        "quality_rating": 3.8,
+        "spend_amount": 92876.94,
+        "risk_index": 0.91
+    },
+    {
+        "Supplier ID": 151,
+        "contact information": "Harrison Group | rgalvan@robinson.com | 001-926-237-5466x28292",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Printers",
+            "Smartphones",
+            "Projectors",
+            "Scanners"
+        ],
+        "delivery_time_days": 49,
+        "SLA_days": 59,
+        "quality_rating": 3.5,
+        "spend_amount": 25903.36,
+        "risk_index": 0.25
+    },
+    {
+        "Supplier ID": 152,
+        "contact information": "Miles Ltd | harveydaniel@green.net | (239)381-4951",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Projectors",
+            "Routers",
+            "Monitors",
+            "Scanners"
+        ],
+        "delivery_time_days": 59,
+        "SLA_days": 60,
+        "quality_rating": 2.9,
+        "spend_amount": 42859.92,
+        "risk_index": 0.44
+    },
+    {
+        "Supplier ID": 153,
+        "contact information": "Garcia, Estrada and Estes | gpeters@smith-cox.net | 483-427-2176x842",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Printers"
+        ],
+        "delivery_time_days": 49,
+        "SLA_days": 59,
+        "quality_rating": 2.3,
+        "spend_amount": 12218.42,
+        "risk_index": 0.16
+    },
+    {
+        "Supplier ID": 154,
+        "contact information": "Brown, Wilson and Allen | richardgarcia@stevens-bennett.com | +1-462-813-2288x09764",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Networking Equipment",
+            "Monitors",
+            "Firewalls"
+        ],
+        "delivery_time_days": 39,
+        "SLA_days": 44,
+        "quality_rating": 5.0,
+        "spend_amount": 71628.88,
+        "risk_index": 0.24
+    },
+    {
+        "Supplier ID": 155,
+        "contact information": "Johnson and Sons | michelle59@cunningham.com | 001-305-956-6469x8117",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Firewalls"
+        ],
+        "delivery_time_days": 11,
+        "SLA_days": 39,
+        "quality_rating": 3.4,
+        "spend_amount": 12861.5,
+        "risk_index": 0.73
+    },
+    {
+        "Supplier ID": 156,
+        "contact information": "King Inc | fostermichael@george.com | +1-959-999-8534x09818",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Networking Equipment",
+            "Printers",
+            "Laptops"
+        ],
+        "delivery_time_days": 19,
+        "SLA_days": 26,
+        "quality_rating": 2.6,
+        "spend_amount": 71724.11,
+        "risk_index": 0.18
+    },
+    {
+        "Supplier ID": 157,
+        "contact information": "Sanchez-Stevens | sanchezrussell@garcia-burgess.com | 001-367-406-7478x5665",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Switches",
+            "Monitors"
+        ],
+        "delivery_time_days": 53,
+        "SLA_days": 60,
+        "quality_rating": 1.2,
+        "spend_amount": 57268.0,
+        "risk_index": 0.64
+    },
+    {
+        "Supplier ID": 158,
+        "contact information": "Simmons Inc | annstephenson@krause.com | 001-658-687-7348",
+        "payment terms": "COD",
+        "products supplied": [
+            "Projectors",
+            "Monitors"
+        ],
+        "delivery_time_days": 19,
+        "SLA_days": 43,
+        "quality_rating": 3.6,
+        "spend_amount": 50805.53,
+        "risk_index": 0.58
+    },
+    {
+        "Supplier ID": 159,
+        "contact information": "Eaton Ltd | shawerin@hess.com | 554-570-4687x42947",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Tablets",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 32,
+        "SLA_days": 44,
+        "quality_rating": 2.0,
+        "spend_amount": 91580.43,
+        "risk_index": 0.61
+    },
+    {
+        "Supplier ID": 160,
+        "contact information": "Galvan, Vega and Ray | jeffreybrown@russell.biz | 5763470756",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Printers",
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 26,
+        "SLA_days": 32,
+        "quality_rating": 4.5,
+        "spend_amount": 46848.72,
+        "risk_index": 0.51
+    },
+    {
+        "Supplier ID": 161,
+        "contact information": "Melendez-Harris | christinasantiago@farrell.net | 254.214.5816x099",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Tablets",
+            "Monitors",
+            "Mice"
+        ],
+        "delivery_time_days": 17,
+        "SLA_days": 55,
+        "quality_rating": 4.2,
+        "spend_amount": 83294.97,
+        "risk_index": 0.75
+    },
+    {
+        "Supplier ID": 162,
+        "contact information": "King, Brown and Weaver | carloswall@burns-porter.com | 001-301-452-7774x2220",
+        "payment terms": "COD",
+        "products supplied": [
+            "Mice",
+            "Firewalls"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 19,
+        "quality_rating": 2.7,
+        "spend_amount": 31541.8,
+        "risk_index": 0.85
+    },
+    {
+        "Supplier ID": 163,
+        "contact information": "Roberts, Brown and Gutierrez | frankmorrison@rose-calderon.com | (292)867-9044",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Mice",
+            "Smartphones",
+            "Printers"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 54,
+        "quality_rating": 4.2,
+        "spend_amount": 7417.68,
+        "risk_index": 0.58
+    },
+    {
+        "Supplier ID": 164,
+        "contact information": "Contreras, Green and Barber | frankamy@cook.com | 001-718-640-2648x63727",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Networking Equipment",
+            "Tablets"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 34,
+        "quality_rating": 4.0,
+        "spend_amount": 72735.04,
+        "risk_index": 0.14
+    },
+    {
+        "Supplier ID": 165,
+        "contact information": "Wong Inc | hollowayandrew@carter-lewis.com | 410-396-5767",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Keyboards",
+            "Printers"
+        ],
+        "delivery_time_days": 13,
+        "SLA_days": 34,
+        "quality_rating": 3.4,
+        "spend_amount": 65440.7,
+        "risk_index": 0.01
+    },
+    {
+        "Supplier ID": 166,
+        "contact information": "Perry-Osborne | megan76@figueroa.org | (881)342-7071x13910",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Smartphones",
+            "Switches",
+            "UPS"
+        ],
+        "delivery_time_days": 56,
+        "SLA_days": 58,
+        "quality_rating": 2.9,
+        "spend_amount": 44586.29,
+        "risk_index": 0.74
+    },
+    {
+        "Supplier ID": 167,
+        "contact information": "Cox-Snyder | garzajennifer@romero.com | 244-854-2691x699",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Printers",
+            "Tablets"
+        ],
+        "delivery_time_days": 9,
+        "SLA_days": 40,
+        "quality_rating": 2.3,
+        "spend_amount": 19578.69,
+        "risk_index": 0.3
+    },
+    {
+        "Supplier ID": 168,
+        "contact information": "Davenport, Thomas and White | sweeneyshawn@fitzpatrick-hall.com | 689-289-1204",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Routers",
+            "UPS",
+            "Smartphones",
+            "Firewalls"
+        ],
+        "delivery_time_days": 45,
+        "SLA_days": 47,
+        "quality_rating": 1.2,
+        "spend_amount": 29876.7,
+        "risk_index": 0.18
+    },
+    {
+        "Supplier ID": 169,
+        "contact information": "Rodriguez-Miller | joyce50@padilla.biz | +1-417-842-4695x558",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Keyboards",
+            "Laptops",
+            "Routers",
+            "UPS"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 54,
+        "quality_rating": 5.0,
+        "spend_amount": 94839.66,
+        "risk_index": 0.18
+    },
+    {
+        "Supplier ID": 170,
+        "contact information": "Hernandez-Knight | richardhurst@cook.com | 210.295.4427x357",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Tablets",
+            "Projectors",
+            "Laptops",
+            "Firewalls"
+        ],
+        "delivery_time_days": 43,
+        "SLA_days": 45,
+        "quality_rating": 3.8,
+        "spend_amount": 34872.6,
+        "risk_index": 0.37
+    },
+    {
+        "Supplier ID": 171,
+        "contact information": "Hart, Robbins and Walker | calderonangela@perkins.biz | (837)867-5767",
+        "payment terms": "COD",
+        "products supplied": [
+            "Routers",
+            "Keyboards"
+        ],
+        "delivery_time_days": 55,
+        "SLA_days": 57,
+        "quality_rating": 4.2,
+        "spend_amount": 64980.32,
+        "risk_index": 0.05
+    },
+    {
+        "Supplier ID": 172,
+        "contact information": "English-Sosa | pjones@aguirre.com | 305-724-8296x01435",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Printers",
+            "Servers"
+        ],
+        "delivery_time_days": 26,
+        "SLA_days": 34,
+        "quality_rating": 4.4,
+        "spend_amount": 99725.21,
+        "risk_index": 0.69
+    },
+    {
+        "Supplier ID": 173,
+        "contact information": "Lee-Petersen | curtiscombs@wagner.com | 260.736.9341x3927",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Monitors"
+        ],
+        "delivery_time_days": 57,
+        "SLA_days": 60,
+        "quality_rating": 3.5,
+        "spend_amount": 58948.23,
+        "risk_index": 0.34
+    },
+    {
+        "Supplier ID": 174,
+        "contact information": "Day, Rogers and Jackson | elizabeth02@herrera-mason.org | (703)375-6372",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Firewalls",
+            "Mice",
+            "Tablets",
+            "Keyboards"
+        ],
+        "delivery_time_days": 26,
+        "SLA_days": 30,
+        "quality_rating": 3.9,
+        "spend_amount": 55832.72,
+        "risk_index": 0.88
+    },
+    {
+        "Supplier ID": 175,
+        "contact information": "Carroll, Rich and King | zhall@taylor.net | 001-893-224-8171x794",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Tablets",
+            "Routers"
+        ],
+        "delivery_time_days": 28,
+        "SLA_days": 32,
+        "quality_rating": 4.2,
+        "spend_amount": 47115.33,
+        "risk_index": 0.24
+    },
+    {
+        "Supplier ID": 176,
+        "contact information": "Taylor LLC | onelson@anderson.org | 678-628-7680",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Smartphones"
+        ],
+        "delivery_time_days": 38,
+        "SLA_days": 56,
+        "quality_rating": 2.6,
+        "spend_amount": 30632.25,
+        "risk_index": 0.62
+    },
+    {
+        "Supplier ID": 177,
+        "contact information": "Mcneil-Koch | anna78@brown.com | +1-566-876-3345x42287",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Printers"
+        ],
+        "delivery_time_days": 38,
+        "SLA_days": 44,
+        "quality_rating": 1.4,
+        "spend_amount": 19154.6,
+        "risk_index": 0.02
+    },
+    {
+        "Supplier ID": 178,
+        "contact information": "Vance-Brown | powelljennifer@beasley.com | 2398243270",
+        "payment terms": "COD",
+        "products supplied": [
+            "Scanners"
+        ],
+        "delivery_time_days": 7,
+        "SLA_days": 48,
+        "quality_rating": 1.1,
+        "spend_amount": 45977.79,
+        "risk_index": 0.45
+    },
+    {
+        "Supplier ID": 179,
+        "contact information": "Miller Inc | sandramurphy@romero.com | 483-421-7543",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Scanners",
+            "UPS"
+        ],
+        "delivery_time_days": 19,
+        "SLA_days": 57,
+        "quality_rating": 2.3,
+        "spend_amount": 82526.36,
+        "risk_index": 0.16
+    },
+    {
+        "Supplier ID": 180,
+        "contact information": "Myers-Johnson | teresadelacruz@anderson.net | (715)305-9847",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Tablets",
+            "Firewalls"
+        ],
+        "delivery_time_days": 17,
+        "SLA_days": 50,
+        "quality_rating": 1.7,
+        "spend_amount": 68310.28,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 181,
+        "contact information": "Bowman-Gilmore | oelliott@rojas.com | 912.838.4950",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Routers",
+            "Scanners"
+        ],
+        "delivery_time_days": 10,
+        "SLA_days": 16,
+        "quality_rating": 4.9,
+        "spend_amount": 48758.61,
+        "risk_index": 0.02
+    },
+    {
+        "Supplier ID": 182,
+        "contact information": "Williamson, Cervantes and Nichols | vasquezdonald@montgomery.com | +1-739-328-6334x0228",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Tablets",
+            "Mice",
+            "Projectors",
+            "Laptops"
+        ],
+        "delivery_time_days": 25,
+        "SLA_days": 31,
+        "quality_rating": 3.6,
+        "spend_amount": 90574.17,
+        "risk_index": 0.87
+    },
+    {
+        "Supplier ID": 183,
+        "contact information": "Gonzalez-Campbell | brockmark@johnson.biz | 761-316-7050",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Keyboards"
+        ],
+        "delivery_time_days": 24,
+        "SLA_days": 24,
+        "quality_rating": 2.8,
+        "spend_amount": 10036.02,
+        "risk_index": 0.96
+    },
+    {
+        "Supplier ID": 184,
+        "contact information": "Phillips-Glover | leahzimmerman@lee-golden.com | 001-760-249-6103x78250",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Networking Equipment",
+            "Switches",
+            "UPS"
+        ],
+        "delivery_time_days": 43,
+        "SLA_days": 44,
+        "quality_rating": 1.7,
+        "spend_amount": 66643.55,
+        "risk_index": 0.12
+    },
+    {
+        "Supplier ID": 185,
+        "contact information": "Page-Monroe | hgallagher@walsh-perez.info | +1-960-754-3913",
+        "payment terms": "COD",
+        "products supplied": [
+            "Networking Equipment",
+            "Smartphones"
+        ],
+        "delivery_time_days": 58,
+        "SLA_days": 59,
+        "quality_rating": 1.4,
+        "spend_amount": 31104.38,
+        "risk_index": 0.56
+    },
+    {
+        "Supplier ID": 186,
+        "contact information": "Castillo, Peterson and Baker | erose@ferguson-roth.com | +1-857-204-7694x6021",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "Routers",
+            "Firewalls"
+        ],
+        "delivery_time_days": 13,
+        "SLA_days": 22,
+        "quality_rating": 2.6,
+        "spend_amount": 6030.27,
+        "risk_index": 0.47
+    },
+    {
+        "Supplier ID": 187,
+        "contact information": "Weaver, Hancock and Velez | barry17@cook.net | +1-989-245-0336x010",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Servers",
+            "Projectors",
+            "Monitors"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 34,
+        "quality_rating": 4.5,
+        "spend_amount": 72768.0,
+        "risk_index": 0.87
+    },
+    {
+        "Supplier ID": 188,
+        "contact information": "Lopez-Best | xmitchell@wilson.net | 786.640.4167x09046",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Printers",
+            "Smartphones"
+        ],
+        "delivery_time_days": 60,
+        "SLA_days": 60,
+        "quality_rating": 4.0,
+        "spend_amount": 4359.56,
+        "risk_index": 0.18
+    },
+    {
+        "Supplier ID": 189,
+        "contact information": "Garcia-Johnson | austinwinters@mason-lewis.com | +1-530-895-2527",
+        "payment terms": "Net 45",
+        "products supplied": [
+            "Printers",
+            "Switches",
+            "Servers"
+        ],
+        "delivery_time_days": 46,
+        "SLA_days": 49,
+        "quality_rating": 2.9,
+        "spend_amount": 44987.63,
+        "risk_index": 0.26
+    },
+    {
+        "Supplier ID": 190,
+        "contact information": "White, Wood and Perez | mweaver@welch-garcia.com | 001-230-308-6365x73565",
+        "payment terms": "COD",
+        "products supplied": [
+            "Networking Equipment"
+        ],
+        "delivery_time_days": 37,
+        "SLA_days": 42,
+        "quality_rating": 2.9,
+        "spend_amount": 53152.73,
+        "risk_index": 0.45
+    },
+    {
+        "Supplier ID": 191,
+        "contact information": "Bennett-Snow | whitneymatthew@reed.org | (756)827-5531",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Scanners",
+            "Firewalls",
+            "Servers"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 54,
+        "quality_rating": 4.1,
+        "spend_amount": 2822.82,
+        "risk_index": 0.84
+    },
+    {
+        "Supplier ID": 192,
+        "contact information": "Watts, Barton and Hall | mooredaniel@dorsey.com | 574.265.8165x453",
+        "payment terms": "End of Month",
+        "products supplied": [
+            "UPS",
+            "Networking Equipment",
+            "Firewalls"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 59,
+        "quality_rating": 4.3,
+        "spend_amount": 87790.97,
+        "risk_index": 0.95
+    },
+    {
+        "Supplier ID": 193,
+        "contact information": "Strong-Maynard | peter78@mata.org | 409.521.7735",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Tablets",
+            "Keyboards",
+            "Servers"
+        ],
+        "delivery_time_days": 30,
+        "SLA_days": 52,
+        "quality_rating": 4.2,
+        "spend_amount": 31194.54,
+        "risk_index": 0.04
+    },
+    {
+        "Supplier ID": 194,
+        "contact information": "Howard, Solis and Clark | jennyhoward@smith.com | 8617117920",
+        "payment terms": "COD",
+        "products supplied": [
+            "Monitors",
+            "Networking Equipment",
+            "Servers"
+        ],
+        "delivery_time_days": 27,
+        "SLA_days": 54,
+        "quality_rating": 2.0,
+        "spend_amount": 96308.21,
+        "risk_index": 0.07
+    },
+    {
+        "Supplier ID": 195,
+        "contact information": "Johnson-Pham | kevin10@bradley-webb.com | (440)704-6826x77420",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Monitors",
+            "Printers",
+            "Scanners",
+            "Servers"
+        ],
+        "delivery_time_days": 28,
+        "SLA_days": 39,
+        "quality_rating": 1.6,
+        "spend_amount": 81957.57,
+        "risk_index": 0.6
+    },
+    {
+        "Supplier ID": 196,
+        "contact information": "Sanchez, Martinez and Bridges | heatherhanson@caldwell.com | 832-875-3401x313",
+        "payment terms": "Net 30",
+        "products supplied": [
+            "Laptops",
+            "Firewalls",
+            "Scanners"
+        ],
+        "delivery_time_days": 32,
+        "SLA_days": 48,
+        "quality_rating": 4.5,
+        "spend_amount": 81192.1,
+        "risk_index": 0.33
+    },
+    {
+        "Supplier ID": 197,
+        "contact information": "Ross-Ryan | roger51@howard-patterson.com | 215-776-0335x467",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Servers"
+        ],
+        "delivery_time_days": 23,
+        "SLA_days": 37,
+        "quality_rating": 1.4,
+        "spend_amount": 35374.37,
+        "risk_index": 0.77
+    },
+    {
+        "Supplier ID": 198,
+        "contact information": "Dalton-Herring | annepatterson@sheppard.com | 001-285-506-0918x756",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Keyboards",
+            "Firewalls",
+            "UPS"
+        ],
+        "delivery_time_days": 34,
+        "SLA_days": 53,
+        "quality_rating": 3.0,
+        "spend_amount": 72001.11,
+        "risk_index": 0.61
+    },
+    {
+        "Supplier ID": 199,
+        "contact information": "Arnold and Sons | williamsjohn@bennett-scott.com | +1-663-699-4212x7033",
+        "payment terms": "2/10 Net 30",
+        "products supplied": [
+            "Smartphones",
+            "Keyboards"
+        ],
+        "delivery_time_days": 57,
+        "SLA_days": 60,
+        "quality_rating": 3.1,
+        "spend_amount": 35294.58,
+        "risk_index": 0.1
+    },
+    {
+        "Supplier ID": 200,
+        "contact information": "Miller-Ayers | kevin54@murphy-nelson.net | 001-620-247-8317x93697",
+        "payment terms": "Net 15",
+        "products supplied": [
+            "Switches"
+        ],
+        "delivery_time_days": 50,
+        "SLA_days": 51,
+        "quality_rating": 1.4,
+        "spend_amount": 25341.56,
+        "risk_index": 0.62
+    }
+]
