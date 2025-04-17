@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C001",
+    "name": "Acme Corp",
+    "contact_email": "contact@acme.com",
+    "contact_phone": "555-123-4567",
+    "address": "123 Main St",
+    "customer_since": "",
+    "status": "",
+    "segment": ""
+  },
+  {
+    "id": "C002",
+    "name": "TechSolutions",
+    "contact_email": "info@techsolutions.com",
+    "contact_phone": "555-987-6543",
+    "address": "456 Tech Blvd",
+    "customer_since": "",
+    "status": "",
+    "segment": ""
+  }
+]

@@ -1,0 +1,3 @@
+id,name,description,price,category,sku,stock_quantity,unit
+P001,Widget Pro,Professional grade widget,29.99,Widgets,WDG-PRO,150,units
+P002,Gadget Plus,Enhanced gadget,49.99,Gadgets,GDG-PLS,75,units

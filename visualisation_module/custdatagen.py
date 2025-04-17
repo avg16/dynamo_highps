@@ -4,10 +4,8 @@ import re
 from faker import Faker
 from datetime import datetime
 
-# Initialize Faker
 fake = Faker()
 
-# Pre-defined list of realistic regions (using US states as an example)
 regions = [
     "California", "Texas", "New York", "Florida", "Illinois", "Pennsylvania",
     "Ohio", "Georgia", "North Carolina", "Michigan", "New Jersey", "Virginia",
@@ -15,7 +13,6 @@ regions = [
     "Maryland", "Wisconsin"
 ]
 
-# List of realistic email domains
 email_domains = ["gmail.com", "yahoo.com", "outlook.com", "hotmail.com", "aol.com"]
 
 def generate_email(name):
@@ -32,25 +29,17 @@ def generate_email(name):
     return f"{name_email}{rand_suffix}@{domain}"
 
 def generate_signup_date():
-    """
-    Generate a realistic signup date between January 1, 2018 and today.
-    """
     return fake.date_between(start_date='-6y', end_date='today').strftime("%Y-%m-%d")
-
-# Create an empty list to store all customer records
 customers = []
 
-# Generate 1000 unique customer records
 for customer_id in range(1, 1001):
     name = fake.name()
     email = generate_email(name)
     phone = fake.phone_number()
     contact_details = f"{name} | {email} | {phone}"
     
-    # Instead of generating loyalty points, assign a loyalty tier from Bronze, Silver, or Gold
     loyalty_tier = random.choice(["Bronze", "Silver", "Gold"])
     
-    # Generate unique billing and shipping addresses (remove newline characters)
     billing_address = fake.address().replace("\n", ", ")
     shipping_address = fake.address().replace("\n", ", ")
     addresses = f"Billing: {billing_address} | Shipping: {shipping_address}"
