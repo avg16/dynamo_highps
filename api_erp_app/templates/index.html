@@ -1,0 +1,428 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERP Integration Platform</title>
+    <link rel="stylesheet" href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                <i data-feather="layers"></i>
+                ERP Integration Platform
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#api-docs">API Docs</a>
+                    </li>
+                </ul>
+                <div class="d-flex">
+                    <button id="loginBtn" class="btn btn-outline-light me-2" type="button" data-bs-toggle="modal" data-bs-target="#loginModal">Login</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <header class="py-5 bg-dark text-white">
+        <div class="container px-5">
+            <div class="row gx-5 justify-content-center">
+                <div class="col-lg-10">
+                    <div class="text-center my-5">
+                        <h1 class="display-5 fw-bold mb-2">Advanced ERP Integration Platform</h1>
+                        <p class="lead mb-4">A microservices architecture featuring intelligent adapters, data normalization, and predictive maintenance</p>
+                        <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
+                            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Explore Features</a>
+                            <a class="btn btn-outline-light btn-lg px-4" href="#api-docs">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="py-5" id="features">
+        <div class="container px-5">
+            <h2 class="text-center mb-5">Platform Features</h2>
+            <div class="row gx-5">
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="shield" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">Secure API Gateway</h5>
+                            <p class="card-text">JWT validation, rate limiting, and authentication logging ensure your integration remains secure and reliable.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="refresh-cw" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">Intelligent ERP Adapters</h5>
+                            <p class="card-text">Vendor-specific adapters with circuit breaker patterns gracefully handle SAP and Oracle ERP integration.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="database" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">Data Normalization</h5>
+                            <p class="card-text">Standardize responses across different ERP systems into a unified, consistent schema for easy consumption.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="cpu" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">AI Prediction</h5>
+                            <p class="card-text">Predict ERP API compatibility issues before they occur with our machine learning-based risk assessment.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="tool" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">Maintenance Checker</h5>
+                            <p class="card-text">Automatically verify version compliance, schema fields, and data consistency to prevent integration issues.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card h-100 shadow border-0">
+                        <div class="card-body p-4">
+                            <div class="feature-icon d-flex align-items-center justify-content-center mb-4">
+                                <i data-feather="bar-chart-2" class="text-primary"></i>
+                            </div>
+                            <h5 class="card-title fw-bold mb-3">Real-time Monitoring</h5>
+                            <p class="card-text">Comprehensive dashboards and alerts provide visibility into all aspects of your ERP integration.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-5 bg-dark text-white" id="api-docs">
+        <div class="container px-5">
+            <h2 class="text-center mb-5">API Documentation</h2>
+            <div class="row gx-5">
+                <div class="col-lg-6 mb-5">
+                    <div class="card bg-dark border-light">
+                        <div class="card-header bg-dark border-light">
+                            <h5 class="mb-0">Authentication</h5>
+                        </div>
+                        <div class="card-body">
+                            <h6>Get JWT Token</h6>
+                            <pre class="bg-dark text-light p-3"><code>POST /api/auth/token
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}</code></pre>
+                            <p>Returns a JWT token to use in subsequent requests.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-5">
+                    <div class="card bg-dark border-light">
+                        <div class="card-header bg-dark border-light">
+                            <h5 class="mb-0">Retrieving Order Data</h5>
+                        </div>
+                        <div class="card-body">
+                            <h6>Get Order Information</h6>
+                            <pre class="bg-dark text-light p-3"><code>GET /api/order/{order_id}?source={erp_source}
+Authorization: Bearer {jwt_token}</code></pre>
+                            <p>Retrieves order information from the specified ERP system.</p>
+                            <ul>
+                                <li><code>order_id</code>: The order ID to retrieve</li>
+                                <li><code>erp_source</code>: The ERP source (sap, oracle, our_custom)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-5">
+                    <div class="card bg-dark border-light">
+                        <div class="card-header bg-dark border-light">
+                            <h5 class="mb-0">Retrieving Transaction Data</h5>
+                        </div>
+                        <div class="card-body">
+                            <h6>Get Transaction Information</h6>
+                            <pre class="bg-dark text-light p-3"><code>GET /api/transaction/{transaction_id}?source={erp_source}
+Authorization: Bearer {jwt_token}</code></pre>
+                            <p>Retrieves transaction information from the specified ERP system.</p>
+                            <ul>
+                                <li><code>transaction_id</code>: The transaction ID to retrieve</li>
+                                <li><code>erp_source</code>: The ERP source (sap, oracle, our_custom)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-5">
+                    <div class="card bg-dark border-light">
+                        <div class="card-header bg-dark border-light">
+                            <h5 class="mb-0">System Metrics</h5>
+                        </div>
+                        <div class="card-body">
+                            <h6>Get System Health Metrics</h6>
+                            <pre class="bg-dark text-light p-3"><code>GET /api/metrics
+Authorization: Bearer {jwt_token}</code></pre>
+                            <p>Retrieves health metrics for all system components.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-5">
+        <div class="container px-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h2 class="text-center mb-4">Try the API</h2>
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <ul class="nav nav-tabs card-header-tabs" id="apiTabs" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="auth-tab" data-bs-toggle="tab" data-bs-target="#auth" type="button" role="tab" aria-controls="auth" aria-selected="true">Authentication</button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="order-tab" data-bs-toggle="tab" data-bs-target="#order" type="button" role="tab" aria-controls="order" aria-selected="false">Get Order</button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="transaction-tab" data-bs-toggle="tab" data-bs-target="#transaction" type="button" role="tab" aria-controls="transaction" aria-selected="false">Get Transaction</button>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="card-body">
+                            <div class="tab-content" id="apiTabContent">
+                                <div class="tab-pane fade show active" id="auth" role="tabpanel" aria-labelledby="auth-tab">
+                                    <h5 class="card-title">Get JWT Token</h5>
+                                    <div class="mb-3">
+                                        <label for="authUsername" class="form-label">Username</label>
+                                        <input type="text" class="form-control" id="authUsername" value="admin">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="authPassword" class="form-label">Password</label>
+                                        <input type="password" class="form-control" id="authPassword" value="admin">
+                                    </div>
+                                    <button id="getTokenBtn" class="btn btn-primary">Get Token</button>
+                                </div>
+                                <div class="tab-pane fade" id="order" role="tabpanel" aria-labelledby="order-tab">
+                                    <h5 class="card-title">Get Order Information</h5>
+                                    <div class="mb-3">
+                                        <label for="orderToken" class="form-label">JWT Token</label>
+                                        <input type="text" class="form-control" id="orderToken" placeholder="Paste your JWT token here">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="orderId" class="form-label">Order ID</label>
+                                        <input type="text" class="form-control" id="orderId" value="12345">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="orderSource" class="form-label">ERP Source</label>
+                                        <select class="form-select" id="orderSource">
+                                            <option value="sap" selected>SAP</option>
+                                            <option value="oracle">Oracle</option>
+                                            <option value="Our_custom">Our_custom</option>
+                                        </select>
+                                    </div>
+                                    <button id="getOrderBtn" class="btn btn-primary">Get Order</button>
+                                </div>
+                                <div class="tab-pane fade" id="transaction" role="tabpanel" aria-labelledby="transaction-tab">
+                                    <h5 class="card-title">Get Transaction Information</h5>
+                                    <div class="mb-3">
+                                        <label for="transactionToken" class="form-label">JWT Token</label>
+                                        <input type="text" class="form-control" id="transactionToken" placeholder="Paste your JWT token here">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="transactionId" class="form-label">Transaction ID</label>
+                                        <input type="text" class="form-control" id="transactionId" value="TR98765">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="transactionSource" class="form-label">ERP Source</label>
+                                        <select class="form-select" id="transactionSource">
+                                            <option value="sap" selected>SAP</option>
+                                            <option value="oracle">Oracle</option>
+                                            <option value="Our_custom">Our_custom</option>
+                                        </select>
+                                    </div>
+                                    <button id="getTransactionBtn" class="btn btn-primary">Get Transaction</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">Response</div>
+                        <div class="card-body">
+                            <pre id="responseOutput" class="bg-dark text-light p-3" style="max-height: 300px; overflow-y: auto;"><code>API response will appear here</code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-5 bg-dark">
+        <div class="container px-5">
+            <p class="text-center text-white mb-0">
+                &copy; 2025 ERP Integration Platform. Made with ❤️.
+            </p>
+        </div>
+    </footer>
+
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Login</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="loginUsername" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="loginUsername" value="admin">
+                    </div>
+                    <div class="mb-3">
+                        <label for="loginPassword" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="loginPassword" value="admin">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="modalLoginBtn">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            feather.replace();
+
+            document.getElementById('getTokenBtn').addEventListener('click', function() {
+                const username = document.getElementById('authUsername').value;
+                const password = document.getElementById('authPassword').value;
+                
+                fetch('/api/auth/token', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ username, password })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('responseOutput').innerText = JSON.stringify(data, null, 2);
+
+                    if (data.token) {
+                        document.getElementById('orderToken').value = data.token;
+                        document.getElementById('transactionToken').value = data.token;
+                    }
+                })
+                .catch(error => {
+                    document.getElementById('responseOutput').innerText = 'Error: ' + error;
+                });
+            });
+
+            document.getElementById('getOrderBtn').addEventListener('click', function() {
+                const token = document.getElementById('orderToken').value;
+                const orderId = document.getElementById('orderId').value;
+                const source = document.getElementById('orderSource').value;
+                
+                fetch(`/api/order/${orderId}?source=${source}`, {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${token}`
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('responseOutput').innerText = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('responseOutput').innerText = 'Error: ' + error;
+                });
+            });
+            
+            document.getElementById('getTransactionBtn').addEventListener('click', function() {
+                const token = document.getElementById('transactionToken').value;
+                const transactionId = document.getElementById('transactionId').value;
+                const source = document.getElementById('transactionSource').value;
+                
+                fetch(`/api/transaction/${transactionId}?source=${source}`, {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${token}`
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('responseOutput').innerText = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('responseOutput').innerText = 'Error: ' + error;
+                });
+            });
+            
+            // Handle modal login
+            document.getElementById('modalLoginBtn').addEventListener('click', function() {
+                const username = document.getElementById('loginUsername').value;
+                const password = document.getElementById('loginPassword').value;
+                
+                fetch('/api/auth/token', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ username, password })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.token) {
+                        localStorage.setItem('erpToken', data.token);
+                        document.getElementById('loginBtn').textContent = 'Logged In';
+                        document.getElementById('loginBtn').classList.remove('btn-outline-light');
+                        document.getElementById('loginBtn').classList.add('btn-success');
+
+                        const modal = bootstrap.Modal.getInstance(document.getElementById('loginModal'));
+                        modal.hide();
+                    } else {
+                        alert('Login failed');
+                    }
+                })
+                .catch(error => {
+                    alert('Error: ' + error);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

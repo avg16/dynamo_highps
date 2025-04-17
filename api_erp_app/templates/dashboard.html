@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - ERP Integration Platform</title>
+    <link rel="stylesheet" href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                <i data-feather="layers"></i>
+                ERP Integration Platform
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/dashboard">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#api-docs">API Docs</a>
+                    </li>
+                </ul>
+                <div class="d-flex">
+                    <button id="refreshBtn" class="btn btn-outline-light me-2" type="button">
+                        <i data-feather="refresh-cw"></i> Refresh
+                    </button>
+                    <div id="lastUpdated" class="text-light d-flex align-items-center me-3">
+                        <small>Last updated: Never</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid dashboard-container py-4">
+        <div class="row mb-4">
+            <div class="col">
+                <h1 class="h3">System Dashboard</h1>
+                <p class="text-secondary">Monitor your ERP Integration Platform health and performance</p>
+            </div>
+        </div>
+
+        <!-- System Health Overview -->
+        <div class="row mb-4">
+            <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                <div class="card mb-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title d-flex justify-content-between">
+                            API Gateway
+                            <span id="api-gateway-status" class="badge bg-success">Healthy</span>
+                        </h5>
+                        <div class="stat-value">
+                            <span id="api-gateway-requests" class="large-number">-</span>
+                            <small class="text-secondary">Requests</small>
+                        </div>
+                        <div class="progress mt-3" style="height: 8px;">
+                            <div id="api-gateway-load" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                        <small class="text-secondary">System Load</small>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                <div class="card mb-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title d-flex justify-content-between">
+                            SAP Adapter
+                            <span id="sap-adapter-status" class="badge bg-secondary">Unknown</span>
+                        </h5>
+                        <div class="stat-value">
+                            <span id="sap-adapter-requests" class="large-number">-</span>
+                            <small class="text-secondary">Requests</small>
+                        </div>
+                        <div class="mt-3 d-flex justify-content-between align-items-center">
+                            <small class="text-secondary">Error Rate</small>
+                            <span id="sap-adapter-error-rate" class="badge bg-secondary">-%</span>
+                        </div>
+                        <div class="mt-2 d-flex justify-content-between align-items-center">
+                            <small class="text-secondary">Circuit Trips</small>
+                            <span id="sap-adapter-circuit-trips" class="badge bg-secondary">-</span>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+
+            <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                <div class="card mb-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title d-flex justify-content-between">
+                            AI Predictor
+                            <span id="ai-predictor-status" class="badge bg-secondary">Unknown</span>
+                        </h5>
+                        <div class="stat-value">
+                            <span id="ai-predictor-count" class="large-number">-</span>
+                            <small class="text-secondary">Predictions</small>
+                        </div>
+                        <div class="mt-2 d-flex justify-content-between align-items-center">
+                            <small class="text-secondary">Model Version</small>
+                            <span id="ai-predictor-version" class="badge bg-info">-</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Response Time Charts -->
+        <div class="row mb-4">
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Response Times</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="responseTimeChart" height="250"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Request Distribution</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="requestDistributionChart" height="250"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- System Services -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Service Health</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Service</th>
+                                        <th>Status</th>
+                                        <th>Metrics</th>
+                                        <th>Last Activity</th>
+                                        <th>Details</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="services-table-body">
+                                    <tr>
+                                        <td colspan="5" class="text-center">Loading service data...</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Maintenance & Risk Alerts -->
+        <div class="row">
+            <div class="col-lg-6 mb-4">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Maintenance Alerts</h5>
+                        <span id="maintenance-count" class="badge bg-secondary">0</span>
+                    </div>
+                    <div class="card-body p-0">
+                        <div id="maintenance-alerts-container" class="list-group list-group-flush">
+                            <div class="list-group-item text-center py-4">
+                                <i data-feather="check-circle" class="text-success mb-2" style="width: 32px; height: 32px;"></i>
+                                <p>No maintenance alerts detected</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-4">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Risk Predictions</h5>
+                        <span id="risk-count" class="badge bg-secondary">0</span>
+                    </div>
+                    <div class="card-body p-0">
+                        <div id="risk-alerts-container" class="list-group list-group-flush">
+                            <div class="list-group-item text-center py-4">
+                                <i data-feather="shield" class="text-success mb-2" style="width: 32px; height: 32px;"></i>
+                                <p>No risk predictions to display</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- AI Model Information -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">AI Model Management</h5>
+                        <button id="retrainBtn" class="btn btn-primary btn-sm">
+                            <i data-feather="refresh-cw" class="feather-small"></i> Retrain Model
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h6 class="mb-3">Model Information</h6>
+                                <div class="table-responsive">
+                                    <table class="table table-sm">
+                                        <tbody>
+                                            <tr>
+                                                <th>Model Version</th>
+                                                <td id="model-version">-</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Model Accuracy</th>
+                                                <td id="model-accuracy">-</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Training Data Points</th>
+                                                <td id="training-data-points">-</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Predictions Made</th>
+                                                <td id="predictions-made">-</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Training Method</th>
+                                                <td>Supervised learning with continuous model improvement</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <h6 class="mb-3">Model Architecture</h6>
+                                <div class="mb-3">
+                                    <strong>Features Used:</strong>
+                                    <ul class="mt-2">
+                                        <li>Version Factor - How recent the API version is</li>
+                                        <li>Field Coverage - Percentage of required fields present</li>
+                                        <li>Time Factor - Time since last API update vs. average frequency</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <strong>Model Types:</strong>
+                                    <ul class="mt-2">
+                                        <li>Classification model (Random Forest) - Predicts risk level</li>
+                                        <li>Regression model (Gradient Boosting) - Predicts risk score</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mt-4">
+                            <h6 class="mb-3">Online Learning Process</h6>
+                            <p>The AI model continuously improves through online learning:</p>
+                            <ol>
+                                <li>New prediction results are stored as training examples</li>
+                                <li>Models are automatically retrained after collecting sufficient new data</li>
+                                <li>The system maintains a balance between recent and historical patterns</li>
+                                <li>Predictions become more accurate as the system processes more data</li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i data-feather="info" class="feather-small me-2"></i>
+                                <span id="retraining-status">Models will automatically retrain after collecting additional data points.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="py-4 bg-dark">
+        <div class="container-fluid">
+            <p class="text-center text-white mb-0">
+                &copy; 2023 ERP Integration Platform. All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Authentication Modal -->
+    <div class="modal fade" id="authModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Authentication Required</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Please authenticate to access the dashboard.</p>
+                    <div class="mb-3">
+                        <label for="authUsername" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="authUsername" value="admin">
+                    </div>
+                    <div class="mb-3">
+                        <label for="authPassword" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="authPassword" value="admin">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="authLoginBtn">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>
